@@ -1,0 +1,423 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>傘持卓｜TRPGの傘持屋台</title>
+<!-- viewport -->
+<meta name="viewport" content="width=device-width,height=device-height,initialscale=1.0,user-scalable = no">
+<!-- End of viewport --> 
+<!-- javascript and jQuery --> 
+<script src="js/jquery-3.6.0.min.js"></script> 
+<script src="js/script.js"></script> 
+<!-- End of javascript and jQuery --> 
+<!--css-->
+<link rel="stylesheet" href="css/reset.css">
+<link rel="stylesheet" href="css/style.css">
+<style></style>
+<!--End of css-->
+</head>
+<body>
+<div class="all"> 
+ <!--header-->
+ <header>
+  <ul id="tabMenu">
+   <li><a href="index.html">傘持屋台</a></li>
+   <li class="select"><a href="#">傘持卓</a></li>
+   <li><a href="index_kasa_pc.html">PC一覧</a></li>
+   <li><a href="index_kasa_scenario.html">シナリオ</a></li>
+  </ul>
+ </header>
+ <!--End of header-->
+ <div id="tabContents"> 
+  <!--==========傘持卓==========-->
+  <div id="kasataku" class="tab_page">
+   <h2>傘持卓</h2>
+   <section id="kasataku_keeperring" class="anchor">
+    <h3>キーパリング方針（2023/02/16更新）</h3>
+    <div class="tab_text">
+     <table>
+      <tr>
+       <th colspan="2" class="black">日程調整</th>
+      </tr>
+      <tr>
+       <th>調整者</th>
+       <td>セッション参加者なら誰でも可</td>
+      </tr>
+      <tr>
+       <th>ツール</th>
+       <td>伝助 or デイコード</td>
+      </tr>
+      <tr>
+       <th rowspan="2">時間帯</th>
+       <td>平日 21：00～24：00</td>
+      </tr>
+      <tr>
+       <td>土日祝 9：00～12：00／13：00～18：00／21：00～24：00</td>
+      </tr>
+      <tr>
+       <th>更新後</th>
+       <td>都度報告</td>
+      </tr>
+     </table>
+     <table>
+      <tr>
+       <th colspan="2" class="black">セッション環境</th>
+      </tr>
+      <tr>
+       <th>形式</th>
+       <td>完全テキスト or Discord併用半テキスト</td>
+      </tr>
+      <tr>
+       <th>ツール</th>
+       <td>Discord／ココフォリア＞tekey</td>
+      </tr>
+     </table>
+     <table>
+      <tr>
+       <th colspan="2" class="black">セッション進行の流れ</th>
+      </tr>
+      <tr>
+       <th>探索箇所</th>
+       <td>KPから随時提示</td>
+      </tr>
+      <tr>
+       <th>閲覧禁止タブ</th>
+       <td>セッション終了後まで閲覧禁止</td>
+      </tr>
+      <tr>
+       <th>秘匿タブ</th>
+       <td>気軽に壁打ちとして使用可</td>
+      </tr>
+      <tr>
+       <th>スクリーンショット</th>
+       <td>ネタバレのない範囲でSNSに添付可</td>
+      </tr>
+      <tr>
+       <th>ログ</th>
+       <td>基本各位で取得。<br>
+        ログの取得が難しいとき、全ログが欲しいときはKPに連絡。</td>
+      </tr>
+      <tr>
+       <th>休憩</th>
+       <td>完テキ中の小休憩は各位で行う。<br>
+        10分以上の離席が想定される際は、心配するので事前に連絡。<br>
+        1日3時間以上進行する際はKPより休憩を提示。</td>
+      </tr>
+      <tr>
+       <th>その他</th>
+       <td>・体調不良や早退はいつでも申し出ること。<br>
+        ・PLの精神衛生に危険な描写が入った際はメインタブで申告推奨。<br>
+        ・HP・MP・SAN管理は基本各位で操作。<br>
+        ・傘持卓ではPL提案を歓迎しています。<br>
+        ・「こういうのはどうだろう？」と思ったらぜひご相談ください。<br>
+        ・ほか何かありましたら便宜ご意見ください。</td>
+      </tr>
+     </table>
+    </div>
+   </section>
+   <section id="house_rules" class="anchor">
+    <div class="tab_text">
+     <h3>ハウスルール（2023/02/16更新）</h3>
+     <table>
+      <tr>
+       <th colspan="2" class="black">ダイスロール</th>
+      </tr>
+      <tr>
+       <th rowspan="3">原則不採用</th>
+       <td>スペシャル</td>
+      </tr>
+      <tr>
+       <td>同卓PCへの〈交渉技能〉</td>
+      </tr>
+      <tr>
+       <td>致命的失敗時のHP減少</td>
+      </tr>
+      <br>
+      <tr>
+       <th rowspan="2">〈心理学〉</th>
+       <td>オープンでPLに振らせるときがある。</td>
+      </tr>
+      <tr>
+       <td>対抗で相手に〈心理学〉 or 〈POW*5〉を振らせる場合がある</td>
+      </tr>
+      <tr>
+       <th>決定的成功<br>
+        （1~5）</th>
+       <td>追加情報開示+クリティカルポイント贈呈。1Cは2pt贈呈。使い道は下記。<br>
+        ・1pt→+10％の技能補正／通常失敗振り直し／致命的失敗を通常失敗へ<br>
+        ・2pt→致命的失敗の振り直し<br>
+        ・その他→KPに要交渉 </td>
+      </tr>
+      <tr>
+       <th>致命的失敗<br>
+        （96～100）</th>
+       <td>失敗 and トラブル発生 or オリジナルファンブル表採用<br>
+        情報を出すときもあるがデメリットが付く or すべては開示しない。</td>
+      </tr>
+      <tr>
+       <th>〈アイデア〉</th>
+       <td>ヒントの開示に振らせるときがある。</td>
+      </tr>
+     </table>
+     <table>
+      <tr>
+       <th colspan="2" class="black">発狂</th>
+      </tr>
+      <tr>
+       <td colspan="2">ゲーム内時間1晩おきに正気度の不定領域をリセット</td>
+      </tr>
+      <tr>
+       <th>狂気発症</th>
+       <td>発狂内容はロール or チョイスで決定<br>
+        「狂人の洞察力（基本p91）」判定を行う場合がある</td>
+      </tr>
+      <tr>
+       <th>〈精神分析〉</th>
+       <td>成功で発狂解除 and 正気度+1d3回復</td>
+      </tr>
+      <tr>
+       <th>〈こぶし〉</th>
+       <td>可。成功で発狂解除 and HP-1d3+db</td>
+      </tr>
+      <tr>
+       <th>〈APP*5〉</th>
+       <td>PCの親しい相手にのみ可。成功で発狂解除</td>
+      </tr>
+      <tr>
+       <th colspan="2" class="black">一時的発狂（改変版）</th>
+      </tr>
+      <tr>
+       <th>条件</th>
+       <td>一度に5以上の正気度減少後、〈アイデア〉成功</td>
+      </tr>
+      <tr>
+       <th>期間</th>
+       <td>1d3ダイスロール分</td>
+      </tr>
+      <tr>
+       <th>〈精神分析〉</th>
+       <td>発狂毎に可</td>
+      </tr>
+      <tr>
+       <th>発狂表</th>
+       <td> 01…気絶 or 恐慌状態 or 絶叫<br>
+        02…現場からの逃亡<br>
+        03…肉体的ヒステリー or 感情の噴出<br>
+        04…意味不明の会話 or 多弁症<br>
+        05…釘付けになるような恐怖症<br>
+        06…殺人癖 or 自殺癖<br>
+        07…幻覚 or 幻聴<br>
+        08…体調不良（ストレスからの頭痛、腹痛、疲労感など）<br>
+        09…妄想 or フラッシュバック<br>
+        10…記憶の改竄<br></td>
+      </tr>
+      <tr>
+       <th colspan="2" class="black">不定の狂気（改変版）</th>
+      </tr>
+      <tr>
+       <th>条件</th>
+       <td>・正気度がシナリオ内時間経過で24時間以内に1/5以上減少<br>
+        ・原則お持ち帰り</td>
+      </tr>
+      <tr>
+       <th>期間</th>
+       <td>1d6卓 or 1d6ヶ月</td>
+      </tr>
+      <tr>
+       <th>〈精神分析〉</th>
+       <td>一度のみ適用。セッション終了まで発狂を抑制可</td>
+      </tr>
+      <tr>
+       <th>発狂表</th>
+       <td> 01…感覚過敏（音や声がうるさい、光がまぶしいなど）<br>
+        02…激しい恐怖症 or 体調不良（胃痛、片頭痛など）<br>
+        03…幻覚 or 幻聴<br>
+        04…人間不信 or 失声症<br>
+        05…異常な執着 or 過食 or 拒食<br>
+        06…制御不能の震え or 失語症 <br>
+        07…視覚障害 or 難聴 or 四肢の機能障害<br>
+        08…支離滅裂 or 妄想 or 奇行<br>
+        09…強迫観念に取り付かれた行動<br>
+        10…解離性同一症（多重人格）</td>
+      </tr>
+     </table>
+     <table>
+      <tr>
+       <th colspan="2" class="black">戦闘</th>
+      </tr>
+      <tr>
+       <th>〈組み付き〉</th>
+       <td>基本ルールブックp77～p78参照</td>
+      </tr>
+      <tr>
+       <th>〈頭突き〉</th>
+       <td>先制攻撃可</td>
+      </tr>
+      <tr>
+       <th>故障ナンバー</th>
+       <td>『その数字のみ』を扱う</td>
+      </tr>
+      <tr>
+       <th>ディレイ</th>
+       <td>可。ターンをそのラウンド内の好きなタイミングに移動させる</td>
+      </tr>
+      <tr>
+       <th>〈かばう〉</th>
+       <td>未行動のPCのみ、ターンを消費して可能</td>
+      </tr>
+      <tr>
+       <th>〈回避〉<br>
+        〈受け流し〉</th>
+       <td>1ラウンド内何度でも可。<br>
+        しかし、1ラウンド内での連続使用は都度成功値が半減。</td>
+      </tr>
+      <tr>
+       <th>〈ノックアウト〉</th>
+       <td>素手 or 鈍器での攻撃のみ採用。<br>
+        宣言後のダメージが現存HPを上回った場合、判定なしで自動気絶。</td>
+      </tr>
+      <tr>
+       <th>決定的成功</th>
+       <td>敵味方ともにダメージ二倍 or 必中。<br>
+        〈回避〉該当はカウンター（攻撃 or 回避成功値アップ）</td>
+      </tr>
+      <tr>
+       <th>致命的失敗</th>
+       <td>敵味方ともに1ラウンド行動不可 or 次にロールする目標値が半減</td>
+      </tr>
+     </table>
+     <table>
+      <tr>
+       <th colspan="2" class="black">成長</th>
+      </tr>
+      <tr>
+       <td colspan="2">・いずれの技能成長も重複可<br>
+        ・クリティカルポイントが余っていた場合、成長判定 or 成長値の振り直し可</td>
+      </tr>
+      <tr>
+       <th>初期値技能の成功</th>
+       <td>0/1d10の成長</td>
+      </tr>
+      <tr>
+       <th>決定的成功 or<br>
+        致命的失敗</th>
+       <td>0/1d10の成長</td>
+      </tr>
+      <tr>
+       <th>〈正気度判定〉<br>
+        の
+        該当</th>
+       <td>正気度 or 任意の技能に無条件で+1d3</td>
+      </tr>
+      <tr>
+       <th>〈アイデア〉<br>
+        〈幸運〉〈知識〉<br>
+        〈ステータス〉<br>
+        の該当</th>
+       <td>任意の技能に0/1d10の成長</td>
+      </tr>
+      <tr>
+       <th>〈POW〉</th>
+       <td>100Fと1C or MPかPOW対抗の呪文を使用し、その呪文に成功でPOWの成長判定（基本ルールブックp113ベース）<br>
+        （21 - 現在のPOW）*5 ＞ 1d100でダイスロール、成功でPOWが1d3成長<br></td>
+      </tr>
+      <tr>
+       <th>〈クトゥルフ神話〉</th>
+       <td>・CS作成後、初発狂の探索者は生還後任意で+5<br>
+        ・神話生物に遭遇した際は1種類ごとに 任意で+1
+        ・決定的成功、致命的失敗の成長判定はほかの任意の〈知識系技能〉に可</td>
+      </tr>
+      <tr>
+       <th>成長判定での<br>
+        決定的成功 or <br>
+        致命的失敗</th>
+       <td>・決定的成功は振り直し可<br>
+        ・致命的失敗は適用する増加値に最大値を採用</td>
+      </tr>
+     </table>
+    </div>
+   </section>
+   <h3>新規探索者の創造</h3>
+   <section id="new_pc" class="anchor">
+    <div class="tab_text"> 最優先は遊ぶシナリオのレギュレーションです。<br>
+     ハウスルールとシナリオの作成案内がバッティングしている場合はシナリオの作成案内を優先してください。
+     <table>
+      <tr>
+       <th colspan="2" class="black">新規探索者の創造</th>
+      </tr>
+      <tr>
+       <th>ステータス</th>
+       <td>ロールを下記から選択。一括振り直しは無制限。個別振り直しは3回まで。<br>
+        ①基本3d6、EDUは3d6+3<br>
+        ②基本2d6+6、EDUは3d6+3</td>
+      </tr>
+      <tr>
+       <th>ステータス調整</th>
+       <td>基本ルールブックに準拠し、下記の調整が可。<br>
+・能力ロール値の入れ替え。入れ替え回数は無制限。（例：STRとDEXの値を入れ替える）<br>
+・ロールで出した能力値から、最大3ptをほかの能力値へ移行させる。回数は3回まで。<br>
+・能力値を合計し、それを好きなように配分し直す。<br>
+・正気度10ptをPOW1ptと交換。回数は無制限だが、POWの最大値は18とする。</td>
+      </tr>
+      <tr>
+       <th>職業</th>
+       <td>基本ルールブック、2010、2015から選択。<br>
+       ・バージョンが異なるが、2020も参考は可。<br>
+・職業技能は、上記記載の職業をベースに最大8つまで取得可。<br>
+・職業の創作も可能。取得可能技能は最大8つ。</td>
+      </tr>
+      <tr>
+       <th rowspan="2">〈ヒプノーシス（催眠術）〉<br>
+（基本ルールブックp150参照）</th>
+       <td>〈医学〉を取得している探索者は〈医学〉の半分の数値（切り上げ）を〈催眠術〉の初期値とできる。</td>
+      </tr>
+      <tr>
+      <td>〈医学〉未取得の探索者の〈催眠術〉初期値は1。</td></tr>
+      <tr>
+      <th>〈コンピューター〉</th>
+       <td>義務教育を受けた40歳未満の探索者は、任意で初期値を25にしてもよい。</td>
+      </tr>
+      <tr>
+       <th rowspan="2">〈その他の言語〉</th>
+       <td>第二言語に位置する〈その他の言語〉の初期値は〈EDU*1〉</td>
+      </tr>
+      <tr>
+      <td>第二言語以上の〈その他の言語〉の初期値は基本1％固定</td>
+      </tr>
+      <tr>
+       <th rowspan="2">特徴表</th>
+       <td>4回振って好きなものを2つまで採用可。</td>
+      </tr>
+      <tr>
+       <td>2015未所持のPLがいる際は、特徴表はそのセッション内ではフレーバーでの採用となる。</td>
+      </tr>
+      <tr>
+       <th rowspan="5">特徴表：<br>
+D特徴の<br>
+デメリット</th>
+       <td>D特徴のデメリットとして追加で下記を提案する（PLから提案も可）</td>
+      </tr>
+      <tr>
+       <td>動物に嫌われる→人間以外の動物へのダイスロールに-10％</td>
+      </tr>
+      <tr>
+       <td>不思議ちゃん→〈信用〉〈説得〉のうちいずれかの初期値を5とする</td>
+      </tr>
+      <tr>
+       <td>寄せ餌→神話生物との遭遇時、最優先でヘイトを向けられる</td>
+      </tr>
+      <tr>
+       <td>暗黒の祖先→50以上は＜信用＞＜説得＞の初期値を5とする。80以上は＜信用＞＜説得＞の初期値を1とする。加えてKP、またはPLから数値を参照し神話生物との関係設定を付与可能。その際、50以上の探索者はさらに神話生物的側面に基づいたステータスや技能値の変動設定を付与してもよい。KPから提示できる資料はルルブ、2010、2015、MMとなる。</td>
+      </tr>
+     </table>
+    </div>
+   </section>
+  </div>
+  <!--/==========傘持卓==========--> 
+  
+ </div>
+ <a href="#" id="page_top"></a>
+ <footer></footer>
+</div>
+</body>
+</html>
