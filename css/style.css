@@ -1,4 +1,4 @@
-*{
+* {
  font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, "sans-serif";
 }
 img {
@@ -41,7 +41,6 @@ ul#tabMenu {
  padding-bottom: 2%;
  opacity: 0.7;
 }
-
 #tabMenu li.select {
  background-color: #000;
  color: #fff;
@@ -244,8 +243,14 @@ footer {
  height: 100px;
 }
 .anchor {
-  padding-top: 47px;
-  margin-top: -47px
+ padding-top: 47px;
+ margin-top: -47px
+}
+#kasataku textarea {
+ width: 80%;
+ margin: 0 auto;
+ display: block;
+ border: 1px #ccc solid;
 }
 @media screen and (max-width:699px) {
  #tabContents {
