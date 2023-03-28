@@ -47,3 +47,13 @@ $(function(){
   });
   
   });
+
+// 今日の日付
+window.onload = function(){
+var dateObj = new Date();
+var y = dateObj.getFullYear();
+var m = dateObj.getMonth() + 1;
+var d = dateObj.getDate();
+document.getElementById("currentDate").innerHTML = y+"/"+m+"/"+d;
+document.getElementById("currentDate-2").innerHTML = y+"/"+m+"/"+d;
+}
