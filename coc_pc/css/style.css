@@ -167,6 +167,9 @@ h2 {
  text-align: right;
  font-size: 12px;
 }
+.bg-black {
+ background-color: #000;
+}
 @media screen and (max-width:280px) {
  .coc_pc_content table th {
   width: 35%;
