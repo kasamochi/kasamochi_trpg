@@ -252,6 +252,7 @@ footer {
  display: block;
  border: 1px #ccc solid;
 }
+
 @media screen and (max-width:699px) {
  #tabContents {
   margin-top: 15%;
@@ -337,4 +338,65 @@ footer {
   height: 40px;
   width: 40px;
  }
+}
+
+/*フィルタのリスト*/
+ul.filterBtnList {
+ list-style: none;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: flex-start;
+ font-size: 13px;
+ line-height: 20px;
+ text-align: center;
+}
+ul.filterBtnList li {
+ display: inline-block;
+ padding: 3px 5px;
+ font-size: 10px;
+ border: solid 1px #000;
+ cursor: pointer;
+ margin: 2px 3px;
+ width: auto;
+}
+ul.filterBtnList li:hover {
+ background-color: black;
+ color: white;
+}
+ul.filterBtnList li.active {
+ background-color: black;
+ color: white;
+}
+.filterBtnList.filter-more {
+ display: none;
+ text-align: left;
+}
+.filter-more-button {
+ text-align: right;
+}
+.filter-more-button::before {/* 閉じている時 */
+ content: "more";
+}
+.filter-more-button.open::before {/* 開いている時 */
+ content: "close";
+}
+ul.filterBtnList.filter-more li {
+ margin: 2px 1px;
+}
+
+@media screen and (max-width:699px) {
+ul.filterBtnList {
+ line-height: inherit;
+}
+.filterBtnList.filter-more {
+ width: 94vw;
+ margin: 0 auto;
+}
+ul.filterBtnList li {
+ margin: 1px;
+ padding: 1vw;
+}
+ul.filterBtnList.filter-more li {
+ margin: 1vw -1.2px;
+}
 }
