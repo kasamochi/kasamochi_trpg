@@ -250,7 +250,6 @@ footer {
  display: block;
  border: 1px #ccc solid;
 }
-
 @media screen and (max-width:699px) {
  #tabContents {
   margin-top: 15%;
@@ -305,12 +304,11 @@ footer {
   width: 16%;
  }
  #kasa_pc .pc p, #kasa_pc .pc p a, #kasa_pc .pc img {
-  height: 55px;
-  width: 55px;
+  height: 30vw;
+  width: 15vw;
  }
  #kasa_pc .pc {
-    width: 82.3vw;
-
+  width: 91%;
  }
  #kasa_pc .no_image a {
   font-size: 8px;
@@ -334,11 +332,9 @@ footer {
 }
 @media screen and (max-width:280px) {
  #kasa_pc .pc p, #kasa_pc .pc p a, #kasa_pc .pc img {
-  height: 40px;
-  width: 40px;
+
  }
 }
-
 /*フィルタのリスト*/
 ul.filterBtnList {
  list-style: none;
@@ -373,29 +369,28 @@ ul.filterBtnList li.active {
 .filter-more-button {
  text-align: right;
 }
-.filter-more-button::before {/* 閉じている時 */
+.filter-more-button::before { /* 閉じている時 */
  content: "more";
 }
-.filter-more-button.open::before {/* 開いている時 */
+.filter-more-button.open::before { /* 開いている時 */
  content: "close";
 }
 ul.filterBtnList.filter-more li {
  margin: 2px 1px;
 }
-
 @media screen and (max-width:699px) {
-ul.filterBtnList {
- line-height: inherit;
-}
-.filterBtnList.filter-more {
- width: 94vw;
- margin: 0 auto;
-}
-ul.filterBtnList li {
- margin: 1px;
- padding: 1vw;
-}
-ul.filterBtnList.filter-more li {
- margin: 1vw -1.2px;
-}
+ ul.filterBtnList {
+  line-height: inherit;
+ }
+ .filterBtnList.filter-more {
+  width: 94vw;
+  margin: 0 auto;
+ }
+ ul.filterBtnList li {
+  margin: 1px;
+  padding: 1vw;
+ }
+ ul.filterBtnList.filter-more li {
+  margin: 1vw -1.2px;
+ }
 }
