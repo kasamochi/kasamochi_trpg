@@ -143,10 +143,11 @@ h3 {
  width: 60%;
 }
 #kasa_pc .pc {
- margin: auto;
  display: flex;
  flex-wrap: wrap;
- justify-content: center;
+ justify-content: flex-start;
+ max-width: 636px;
+ margin: 0 auto;
 }
 #kasa_pc .pc p, #kasa_pc .pc p a, #kasa_pc .pc img {
  height: 100px;
@@ -304,10 +305,10 @@ footer {
  }
  #kasa_pc .pc p, #kasa_pc .pc p a, #kasa_pc .pc img {
   height: 25vw;
-  width: 14vw;
+  width: 12vw;
  }
  #kasa_pc .pc {
-  width: 91.5vw;
+  max-width: 100%;
  }
  #kasa_pc .no_image a {
   font-size: 8px;
@@ -328,17 +329,9 @@ footer {
  #kasataku table {
   width: 100%;
  }
-}
-@media screen and (max-width:280px) {
- #kasa_pc .pc p, #kasa_pc .pc p a, #kasa_pc .pc img {
+ #kasataku textarea {
+  width: 100%;
  }
-}
-#kasa_pc .pc {
-}
-#kasa_pc .pc p {
- margin-right: 1.5px;
- margin-left: 1.5px;
- margin-top: 5px;
 }
 /*フィルタのリスト*/
 ul.filterBtnList {
@@ -382,6 +375,15 @@ ul.filterBtnList li.active {
 }
 ul.filterBtnList.filter-more li {
  margin: 2px 1px;
+}
+@media screen and (max-width:280px) {
+ #kasa_pc .pc p, #kasa_pc .pc p a, #kasa_pc .pc img {}
+
+ #kasa_pc .pc p {
+  margin-right: 1.5px;
+  margin-left: 1.5px;
+  margin-top: 5px;
+ }
 }
 @media screen and (max-width:699px) {
  ul.filterBtnList {
