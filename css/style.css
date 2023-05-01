@@ -308,6 +308,7 @@ footer {
   width: 14vw;
  }
  #kasa_pc .pc {
+  width: 91.5vw;
  }
  #kasa_pc .no_image a {
   font-size: 8px;
@@ -330,7 +331,12 @@ footer {
  }
 }
 @media screen and (max-width:280px) {
- #kasa_pc .pc p, #kasa_pc .pc p a, #kasa_pc .pc img {}
+ #kasa_pc .pc p, #kasa_pc .pc p a, #kasa_pc .pc img {
+  width: 13.8vw;
+ }
+}
+#kasa_pc .pc {
+ width: 100vw;
 }
 /*フィルタのリスト*/
 ul.filterBtnList {
