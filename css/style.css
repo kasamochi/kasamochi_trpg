@@ -143,11 +143,10 @@ h3 {
  width: 60%;
 }
 #kasa_pc .pc {
- width: 91%;
  margin: auto;
  display: flex;
  flex-wrap: wrap;
- justify-content: flex-start;
+ justify-content: center;
 }
 #kasa_pc .pc p, #kasa_pc .pc p a, #kasa_pc .pc img {
  height: 100px;
@@ -332,11 +331,9 @@ footer {
 }
 @media screen and (max-width:280px) {
  #kasa_pc .pc p, #kasa_pc .pc p a, #kasa_pc .pc img {
-  width: 14.8vw;
  }
 }
 #kasa_pc .pc {
- width: 100vw;
 }
 #kasa_pc .pc p {
  margin-right: 1.5px;
