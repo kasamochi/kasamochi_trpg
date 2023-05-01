@@ -332,11 +332,16 @@ footer {
 }
 @media screen and (max-width:280px) {
  #kasa_pc .pc p, #kasa_pc .pc p a, #kasa_pc .pc img {
-  width: 13.8vw;
+  width: 14.8vw;
  }
 }
 #kasa_pc .pc {
  width: 100vw;
+}
+#kasa_pc .pc p {
+ margin-right: 1.5px;
+ margin-left: 1.5px;
+ margin-top: 5px;
 }
 /*フィルタのリスト*/
 ul.filterBtnList {
