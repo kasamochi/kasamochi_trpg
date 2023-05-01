@@ -304,8 +304,8 @@ footer {
   width: 16%;
  }
  #kasa_pc .pc p, #kasa_pc .pc p a, #kasa_pc .pc img {
-  height: 25vw;
-  width: 12vw;
+  height: 15vw;
+  width: 15vw;
  }
  #kasa_pc .pc {
   max-width: 100%;
@@ -376,9 +376,14 @@ ul.filterBtnList li.active {
 ul.filterBtnList.filter-more li {
  margin: 2px 1px;
 }
+@media screen and (max-width:359px) {
+ #kasa_pc .pc p, #kasa_pc .pc p a, #kasa_pc .pc img {
+  height: 14vw;
+  width: 14vw;
+ }
+}
 @media screen and (max-width:280px) {
  #kasa_pc .pc p, #kasa_pc .pc p a, #kasa_pc .pc img {}
-
  #kasa_pc .pc p {
   margin-right: 1.5px;
   margin-left: 1.5px;
@@ -399,5 +404,10 @@ ul.filterBtnList.filter-more li {
  }
  ul.filterBtnList.filter-more li {
   margin: 1vw -1.2px;
+ }
+ #kasa_pc .pc p {
+  margin-right: 1.5px;
+  margin-left: 1.5px;
+  margin-top: 5px;
  }
 }
