@@ -49,16 +49,6 @@ $(function () {
 
 });
 
-// 今日の日付
-window.onload = function () {
- var dateObj = new Date();
- var y = dateObj.getFullYear();
- var m = dateObj.getMonth() + 1;
- var d = dateObj.getDate();
- document.getElementById("currentDate").innerHTML = y + "/" + m + "/" + d;
- document.getElementById("currentDate-2").innerHTML = y + "/" + m + "/" + d;
-}
-
 
 //フィルタ機能
 jQuery(function ($) {
@@ -91,11 +81,44 @@ jQuery(function ($) {
  });
 
 });
- 
+
 // フィルタアコーディオン
-$(function(){
-  $('.filter-more-button').click(function(){
-    $(this).prev('.filter-more').slideToggle();
-    $(this).toggleClass("open");
+$(function () {
+ $('.filter-more-button').click(function () {
+  $(this).prev('.filter-more').slideToggle();
+  $(this).toggleClass("open");
+ });
+});
+
+//キーワード検索
+
+$(function () {
+ var searchWord = function () {
+
+  var searchText = $(this).val().trim().split(/\s+/), // 検索ボックスに入力された値
+   targetText;
+
+  $('.pc p').each(function () {
+   targetText = $(this).text();
+
+   // 検索対象となるリストに入力された文字列が存在するかどうかを判断
+   if (targetText.indexOf(searchText) != -1) {
+    $(this).removeClass('hidden');
+   } else {
+    $(this).addClass('hidden');
+   }
   });
+ };
+
+ // searchWordの実行
+ $('#search-text').on('input', searchWord);
+});
+
+$(function () {
+ var now = new Date();
+ var y = now.getFullYear();
+ var m = now.getMonth() + 1;
+ var d = now.getDate();
+ $('#currentDate').text(y + "/" + m + "/" + d);
+ $('#currentDate-2').text(y + "/" + m + "/" + d);
 });
