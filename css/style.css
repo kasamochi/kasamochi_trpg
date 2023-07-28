@@ -376,6 +376,19 @@ ul.filterBtnList li.active {
 ul.filterBtnList.filter-more li {
  margin: 2px 1px;
 }
+.pc .hidden {
+ display: none
+}
+.pc span {
+ display: none;
+}
+#kasa_pc input[type="text"] {
+ padding: 5px 5px 3px;
+ font-size: 16px;
+ border: 1px solid #D6D6D6;
+ width: 50%;
+ margin-bottom: 1%;
+}
 @media screen and (max-width:359px) {
  #kasa_pc .pc p, #kasa_pc .pc p a, #kasa_pc .pc img {
   height: 14vw;
