@@ -288,6 +288,12 @@ footer {
   font-size: 12px;
   line-height: 20px;
  }
+ #kasamochi a::after {
+  width: 3vw;
+  height: 3vw;
+  top: 0.3vw;
+  margin-left: 0.3vw;
+ }
  #tabContents .trailer {
   width: 95%;
  }
