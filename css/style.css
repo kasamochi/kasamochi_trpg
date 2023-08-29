@@ -183,9 +183,22 @@ a img:hover {
 #kasamochi a {
  text-decoration: underline;
  color: #1B4DC1;
+ position: relative;
 }
 #kasamochi a:hover {
  text-decoration: none;
+}
+#kasamochi a::after {
+ position: absolute;
+ content: "";
+ display: inline-block;
+ background-image: url("../images/External_Link_icon-icons.com_55915.png");
+ background-repeat: no-repeat;
+ background-size: contain;
+ width: 2vw;
+ height: 2vw;
+ top: -0.2vw;
+ margin-left: 0.3vw;
 }
 #kasataku table, #kasataku table tr, #kasataku table td, #kasataku table th {
  border: solid 1px #000;
@@ -249,6 +262,9 @@ footer {
  margin: 0 auto;
  display: block;
  border: 1px #ccc solid;
+}
+.red, #kasamochi .red a {
+ color: #FF0004;
 }
 @media screen and (max-width:699px) {
  #tabContents {
@@ -368,10 +384,10 @@ ul.filterBtnList li.active {
  text-align: right;
 }
 .filter-more-button::before { /* 閉じている時 */
- content: "more";
+ content: "▼more";
 }
 .filter-more-button.open::before { /* 開いている時 */
- content: "close";
+ content: "▲close";
 }
 ul.filterBtnList.filter-more li {
  margin: 2px 1px;
