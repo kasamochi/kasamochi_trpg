@@ -157,9 +157,11 @@ h3 {
  margin-right: 3px;
  margin-left: 3px;
  margin-top: 10px;
+ display: table;
 }
 #kasa_pc .pc p a {
- display: block;
+ display: table-cell;
+ vertical-align: middle;
 }
 #kasa_pc .pc img {
  object-fit: cover;
@@ -174,7 +176,6 @@ a img:hover {
 #kasa_pc .no_image a {
  border: solid #000 1px;
  text-align: center;
- padding-top: 38%;
 }
 #kasa_pc .no_image a:hover {
  text-decoration: none;
@@ -333,7 +334,7 @@ footer {
   max-width: 100%;
  }
  #kasa_pc .no_image a {
-  font-size: 8px;
+  font-size: 1.7vw;
   line-height: 10px;
  }
  #page_top {
