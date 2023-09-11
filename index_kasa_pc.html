@@ -7,8 +7,6 @@
 <meta name="viewport" content="width=device-width,height=device-height,initialscale=1.0,user-scalable = no">
 <meta name="robots" content="noindex,nofollow,noarchive" />
 <!-- End of viewport --> 
-<script>
- </script> 
 <!--css-->
 <link rel="stylesheet" href="css/reset.css">
 <link rel="stylesheet" href="css/style.css">
@@ -37,13 +35,17 @@
    <!-- フィルタボタン -->
    <ul class="filterBtnList">
     <li id="filterAll" class="all active">全員</li>
-    <li id="filterSingle" class="single">独身</li>
+    <li id="filterSolo" class="solo">ソロシナリオ出身</li>
+    <li id="filterOne-on-one" class="one-on-one">タイマン・2PLシナリオ出身</li>
+    <li id="filterThree-people" class="three-people">複数人シナリオ出身</li>
+    <li id="filterSingle" class="single">独身・パートナー未設定</li>
     <li id="filterPartner" class="partner">パートナー有</li>
     <li id="filterBuddy" class="buddy">バディ有</li>
     <li id="filterTeam" class="team">所属有</li>
     <li id="filterStudent" class="student">学生</li>
     <li id="filterPolice" class="police">警察関係者</li>
     <li id="filterDetective" class="detective">探偵・便利屋</li>
+
    </ul>
    <ul class="filterBtnList filter-more">
     <li id="filterAge-10" class="age-10">20歳以下</li>
@@ -55,13 +57,10 @@
     <li id="filterWoman" class="woman">女性</li>
     <li id="filterGender-unknown" class="gender-unknown">性別不明</li>
     <br>
-    <li id="filterBattle" class="battle">戦闘可</li>
-    <li id="filterAvoidance" class="avoidance">回避70↑</li>
-    <li id="filterNegotiation" class="negotiation">交渉70↑</li>
     <li id="filterCthulhu" class="cthulhu">神話技能持ち</li>
     <br>
     <!--▼特徴表▼-->
-    <li id="filterDont-cold" class="dont-cold">風邪を引かない</li>
+    <li id="filterDont-cold" class="dont-cold">君は風邪を引かない</li>
     <!--<li id="filterBig-body" class="big-body">大きな体</li>-->
     <li id="filterQuick" class="quick">素早い</li>
     <li id="filterFashionable" class="fashionable">オシャレ</li>
@@ -97,7 +96,7 @@
     <!--<li id="filterHated" class="hated">動物に嫌われる</li>-->
     <li id="filterWonder" class="wonder">不思議ちゃん</li>
     <li id="filterBait" class="bait">寄せ餌</li>
-    <!--<li id="filterGlasses" class="glasses">眼鏡</li>-->
+    <!--<li id="filterGlasses" class="glasses">眼鏡をかけている</li>-->
     <li id="filterImportant" class="important">大切なもの</li>
     <li id="filterDarkness" class="darkness">暗黒の祖先</li>
     <li id="filterNight" class="night">夜に弱い</li>
@@ -127,42 +126,42 @@
    <div class="tab_text">※普通シナリオ…秘匿や特殊な世界観が未採用のシナリオ。<br />
     &emsp;探索者自身の設定には特殊なものを含む場合もある。
     <div class="pc">
-     <p class="single age-00 male cthulhu battle"><a href="date_pc-classic/sugiyama-chakkaman.html"><img src="images_pc-classic/sugiyama-chakkaman.png" alt="杉山チャッカマン"><span>杉山チャッカマン</span></a></p>
-     <p class="single age-10 male fashionable former-job student"><a href="date_pc-classic/kannnaduki-hajime.html"><img src="images_pc-classic/kannnaduki-hajime.png" alt="神無月始"><span>神無月始</span></a></p>
-     <p class="single age-20 male book-lover passive avoidance"><a href="date_pc-classic/watari-kunugi.html"><img src="images_pc-classic/watari-kunugi.png" alt="渡椚"><span>渡椚,家守</span></a></p>
-     <p class="single age-20 gender-unknown thin missing negotiation cthulhu"><a href="date_pc-classic/sakai-yoshino.html"><img src="images_pc-classic/sakai-yoshino.png" alt="境吉野"><span>境吉野,渡</span></a></p>
-     <p class="single age-00 woman opposite spirit battle"><a href="date_pc-classic/hoshihara-kuroba.html"><img src="images_pc-classic/hoshihara-kuroba.png" alt="星原黒羽"><span>星原黒羽</span></a></p>
-     <p class="single age-30 male seven-lights rare negotiation cthulhu"><a href="date_pc-classic/hoshino-yotaka.html"><img src="images_pc-classic/hoshino-yotaka.png" alt="保志野与孝"><span>保志野与孝</span></a></p>
-     <p class="single age-00 woman weather-forecaster battle"><a href="date_pc-classic/13.html"><img src="images_pc-classic/13.png" alt="シスター・サーティーン"></a><span>シスター・サーティーン,13</span></p>
-     <p class="single age-20 male collaborator"><a href="date_pc-classic/kisaragi-tsukasa.html"><img src="images_pc-classic/kisaragi-tsukasa.png" alt="如月司"><span>如月司</span></a></p>
-     <p class="single age-10 woman look night cthulhu student"><a href="date_pc-classic/oribe-rokuko.html"><img src="images_pc-classic/oribe-rokuko.png" alt="織部六仔"><span>織部六仔</span></a></p>
-     <p class="single age-20 woman darkness firearms-master"><a href="date_pc-classic/iemori-chii.html"><img src="images_pc-classic/iemori-chii.png" alt="家守ちい"><span>家守ちい</span></a></p>
-     <p class="single team age-20 male darkness former-job negotiation cthulhu"><a href="date_pc-classic/satou-himari.html"><img src="images_pc-classic/satou-himari.png" alt="左藤ひま莉"><span>左藤ひま莉</span></a></p>
-     <p class="single police age-30 woman night luck cthulhu battle"><a href="date_pc-classic/kuba-sumire.html"><img src="images_pc-classic/kuba-sumire.png" alt="久葉菫"><span>久葉菫,エクバーグ</span></a></p>
-     <p class="age-30 male mediocre important"><a href="date_pc-classic/kasugame-junpei.html"><img src="images_pc-classic/kasugame-junpei.png" alt="春日亀潤平"></a><span>春日亀潤平</span></p>
-     <p class="single age-20 male quick alive negotiation cthulhu"><a href="date_pc-classic/sasaki-inori.html"><img src="images_pc-classic/sasaki-inori.png" alt="笹記祈"><span>笹記祈</span></a></p>
-     <p class="single age-20 male outdoorsy driver"><a href="date_pc-classic/kotobuki-misaki.html"><img src="images_pc-classic/kotobuki-misaki.png" alt="寿美咲"><span>寿美咲</span></a></p>
-     <p class="single age-20 male negotiation cthulhu"><a href="date_pc-classic/watami-ime.html"><img src="images_pc-classic/watami-ime.png" alt="綿見アイミー"><span>綿見アイミー</span></a></p>
-     <p class="single age-20 woman quick outdoorsy negotiation cthulhu student"><a href="date_pc-classic/kakugawa-matsuri.html"><img src="images_pc-classic/kakugawa-matsuri.png" alt="狢川まつり"><span>狢川まつり</span></a></p>
-     <p class="single detective age-30 male fighting-sense wonder cthulhu"><a href="date_pc-classic/oribe-shijima.html"><img src="images_pc-classic/oribe-shijima.png" alt="織部四十万"><span>織部四十万</span></a></p>
-     <p class="single age-10 male driver liked student"><a href="date_pc-classic/hanare-naname.html"><img src="images_pc-classic/hanare-naname.png" alt="離斜"><span>離斜,渡</span></a></p>
-     <p class="partner age-20 male battle student"><a href="date_pc-classic/hoshihara-hiiro.html"><img src="images_pc-classic/hoshihara-hiiro.png" alt="星原緋色"><span>星原緋色</span></a></p>
-     <p class="single age-40 woman night pet cthulhu battle"><a href="date_pc-classic/mitsu-mitsumi.html"><img src="images_pc-classic/mitsu-mitsumi.png" alt="蜜美摘"><span>蜜美摘</span></a></p>
-     <p class="single age-30 male negotiation"><a href="date_pc-classic/mizumi-ren.html"><img src="images_pc-classic/mizumi-ren.png" alt="水見蓮"><span>水見蓮,渡</span></a></p>
-     <p class="single age-10 male liked guts cthulhu"><a href="date_pc-classic/shiratori-hikaru.html"><img src="images_pc-classic/shiratori-hikaru.png" alt="白鳥光"><span>白鳥光</span></a></p>
-     <p class="partner age-30 male agility heavy-drinker avoidance negotiation cthulhu"><a href="date_pc-classic/matsuyuki-oriduru.html"><img src="images_pc-classic/matsuyuki-oriduru.png" alt="松雪織鶴"><span>松雪織鶴</span></a></p>
-     <p class="no_image single age-20 luck spirit"><a href="date_pc-classic/ootomo-yukiyoshi.html">大伴雪吉<span>大伴雪吉</span></a></p>
-     <p class="single age-20 seven-lights fighting-sense student"><a href="date_pc-classic/sasaki-yosuga.html"><img src="images_pc-classic/sasaki-yosuga.png" alt="笹記縁"><span>笹記縁</span></a></p>
-     <p class="single age-20 male fashionable guts"><a href="date_pc-classic/kotobuki-ibuki.html"><img src="images_pc-classic/kotobuki-ibuki.png" alt="寿伊吹"><span>寿伊吹</span></a></p>
-     <p class="single age-10 woman darkness recovery"><a href="date_pc-classic/matsuyuki-aduki.html"><img src="images_pc-classic/matsuyuki-aduki.png" alt="松雪あづき"><span>松雪あづき</span></a></p>
-     <p class="single age-10 male dexterity diving avoidance battle student"><a href="date_pc-classic/morozumi-harunari.html"><img src="images_pc-classic/morozumi-harunari.png" alt="諸墨晴成"><span>諸墨晴成</span></a></p>
-     <p class="single age-20 woman look luck cthulhu student"><a href="date_pc-classic/flora-applebee.html"><img src="images_pc-classic/flora-applebee.png" alt="Flora Applebee"></a><span>フローラ・アップルビー,林檎蜂花</span></p>
-     <p class="single age-10 woman outdoorsy liked student"><a href="date_pc-classic/watari-manaka.html"><img src="images_pc-classic/watari-manaka.png" alt="渡真中"><span>渡真中</span></a></p>
+     <p class="single age-00 male cthulhu three-people"><a href="date_pc-classic/sugiyama-chakkaman.html"><img src="images_pc-classic/sugiyama-chakkaman.png" alt="杉山チャッカマン"><span>杉山チャッカマン</span></a></p>
+     <p class="single age-10 male fashionable former-job student three-people"><a href="date_pc-classic/kannnaduki-hajime.html"><img src="images_pc-classic/kannnaduki-hajime.png" alt="神無月始"><span>神無月始</span></a></p>
+     <p class="single age-20 male book-lover passive three-people"><a href="date_pc-classic/watari-kunugi.html"><img src="images_pc-classic/watari-kunugi.png" alt="渡椚"><span>渡椚,家守</span></a></p>
+     <p class="single age-20 gender-unknown thin missing cthulhu three-people"><a href="date_pc-classic/sakai-yoshino.html"><img src="images_pc-classic/sakai-yoshino.png" alt="境吉野"><span>境吉野,渡</span></a></p>
+     <p class="single age-00 woman opposite spirit one-on-one"><a href="date_pc-classic/hoshihara-kuroba.html"><img src="images_pc-classic/hoshihara-kuroba.png" alt="星原黒羽"><span>星原黒羽</span></a></p>
+     <p class="single age-30 male seven-lights rare cthulhu three-people"><a href="date_pc-classic/hoshino-yotaka.html"><img src="images_pc-classic/hoshino-yotaka.png" alt="保志野与孝"><span>保志野与孝</span></a></p>
+     <p class="single age-00 woman weather-forecaster three-people"><a href="date_pc-classic/13.html"><img src="images_pc-classic/13.png" alt="シスター・サーティーン"></a><span>シスター・サーティーン,13</span></p>
+     <p class="single age-20 male collaborator solo"><a href="date_pc-classic/kisaragi-tsukasa.html"><img src="images_pc-classic/kisaragi-tsukasa.png" alt="如月司"><span>如月司</span></a></p>
+     <p class="single age-10 woman look night cthulhu student solo"><a href="date_pc-classic/oribe-rokuko.html"><img src="images_pc-classic/oribe-rokuko.png" alt="織部六仔"><span>織部六仔</span></a></p>
+     <p class="single age-20 woman darkness firearms-master three-people"><a href="date_pc-classic/iemori-chii.html"><img src="images_pc-classic/iemori-chii.png" alt="家守ちい"><span>家守ちい</span></a></p>
+     <p class="single team age-20 male darkness former-job cthulhu three-people"><a href="date_pc-classic/satou-himari.html"><img src="images_pc-classic/satou-himari.png" alt="左藤ひま莉"><span>左藤ひま莉</span></a></p>
+     <p class="single police age-30 woman night luck cthulhu three-people"><a href="date_pc-classic/kuba-sumire.html"><img src="images_pc-classic/kuba-sumire.png" alt="久葉菫"><span>久葉菫,エクバーグ</span></a></p>
+     <p class="age-30 male mediocre important one-on-one"><a href="date_pc-classic/kasugame-junpei.html"><img src="images_pc-classic/kasugame-junpei.png" alt="春日亀潤平"></a><span>春日亀潤平</span></p>
+     <p class="single age-20 male quick alive cthulhu three-people"><a href="date_pc-classic/sasaki-inori.html"><img src="images_pc-classic/sasaki-inori.png" alt="笹記祈"><span>笹記祈</span></a></p>
+     <p class="single age-20 male outdoorsy driver one-on-one"><a href="date_pc-classic/kotobuki-misaki.html"><img src="images_pc-classic/kotobuki-misaki.png" alt="寿美咲"><span>寿美咲</span></a></p>
+     <p class="single age-20 male  cthulhu one-on-one"><a href="date_pc-classic/watami-ime.html"><img src="images_pc-classic/watami-ime.png" alt="綿見アイミー"><span>綿見アイミー</span></a></p>
+     <p class="single age-20 woman quick outdoorsy cthulhu student one-on-one"><a href="date_pc-classic/kakugawa-matsuri.html"><img src="images_pc-classic/kakugawa-matsuri.png" alt="狢川まつり"><span>狢川まつり</span></a></p>
+     <p class="single detective age-30 male fighting-sense wonder cthulhu three-people"><a href="date_pc-classic/oribe-shijima.html"><img src="images_pc-classic/oribe-shijima.png" alt="織部四十万"><span>織部四十万</span></a></p>
+     <p class="single age-10 male driver liked student three-people"><a href="date_pc-classic/hanare-naname.html"><img src="images_pc-classic/hanare-naname.png" alt="離斜"><span>離斜,渡</span></a></p>
+     <p class="partner age-20 male student one-on-one"><a href="date_pc-classic/hoshihara-hiiro.html"><img src="images_pc-classic/hoshihara-hiiro.png" alt="星原緋色"><span>星原緋色</span></a></p>
+     <p class="single age-40 woman night pet cthulhu three-people"><a href="date_pc-classic/mitsu-mitsumi.html"><img src="images_pc-classic/mitsu-mitsumi.png" alt="蜜美摘"><span>蜜美摘</span></a></p>
+     <p class="single age-30 male three-people"><a href="date_pc-classic/mizumi-ren.html"><img src="images_pc-classic/mizumi-ren.png" alt="水見蓮"><span>水見蓮,渡</span></a></p>
+     <p class="single age-10 male liked guts cthulhu solo"><a href="date_pc-classic/shiratori-hikaru.html"><img src="images_pc-classic/shiratori-hikaru.png" alt="白鳥光"><span>白鳥光</span></a></p>
+     <p class="partner age-30 male agility heavy-drinker cthulhu one-on-one"><a href="date_pc-classic/matsuyuki-oriduru.html"><img src="images_pc-classic/matsuyuki-oriduru.png" alt="松雪織鶴"><span>松雪織鶴</span></a></p>
+     <p class="no_image single age-20 luck spirit solo"><a href="date_pc-classic/ootomo-yukiyoshi.html">大伴雪吉<span>大伴雪吉</span></a></p>
+     <p class="single age-20 seven-lights fighting-sense student solo"><a href="date_pc-classic/sasaki-yosuga.html"><img src="images_pc-classic/sasaki-yosuga.png" alt="笹記縁"><span>笹記縁</span></a></p>
+     <p class="single age-20 male fashionable guts one-on-one"><a href="date_pc-classic/kotobuki-ibuki.html"><img src="images_pc-classic/kotobuki-ibuki.png" alt="寿伊吹"><span>寿伊吹</span></a></p>
+     <p class="single age-10 woman darkness recovery one-on-one"><a href="date_pc-classic/matsuyuki-aduki.html"><img src="images_pc-classic/matsuyuki-aduki.png" alt="松雪あづき"><span>松雪あづき</span></a></p>
+     <p class="single age-10 male dexterity diving student one-on-one"><a href="date_pc-classic/morozumi-harunari.html"><img src="images_pc-classic/morozumi-harunari.png" alt="諸墨晴成"><span>諸墨晴成</span></a></p>
+     <p class="single age-20 woman look luck cthulhu student one-on-one"><a href="date_pc-classic/flora-applebee.html"><img src="images_pc-classic/flora-applebee.png" alt="Flora Applebee"></a><span>フローラ・アップルビー,林檎蜂花</span></p>
+     <p class="single age-10 woman outdoorsy liked student solo"><a href="date_pc-classic/watari-manaka.html"><img src="images_pc-classic/watari-manaka.png" alt="渡真中"><span>渡真中</span></a></p>
      <p><a href="date_pc-classic/kasamochi-yatai.html"><img src="images_pc-classic/kasamochi-yatai.png" alt="傘持屋台"><span>傘持屋台</span></a></p>
-     <p class="single age-20 woman outdoorsy agility student"><a href="date_pc-classic/iemori-nemu.html"><img src="images_pc-classic/iemori-nemu.png" alt="家守ねむ"><span>家守ねむ</span></a></p>
-     <p class="single police age-20 male bait warrior avoidance battle"><a href="date_pc-classic/hodumi-arata.html"><img src="images_pc-classic/hodumi-arata.png" alt="八月朔日新"><span>八月朔日新</span></a></p>
+     <p class="single age-20 woman outdoorsy agility student solo"><a href="date_pc-classic/iemori-nemu.html"><img src="images_pc-classic/iemori-nemu.png" alt="家守ねむ"><span>家守ねむ</span></a></p>
+     <p class="single police age-20 male bait warrior one-on-one"><a href="date_pc-classic/hodumi-arata.html"><img src="images_pc-classic/hodumi-arata.png" alt="八月朔日新"><span>八月朔日新</span></a></p>
      <!--
-　　　<p class="no_image negotiation"><a href="date_pc-classic/iemori-enoki.html">家守榎</a></p>
+　　　<p class="no_image "><a href="date_pc-classic/iemori-enoki.html">家守榎</a></p>
 
 　　　--> 
     </div>
@@ -170,41 +169,41 @@
    <h3>探索者：秘匿シナリオ出身</h3>
    <div class="tab_text">
     <div class="pc">
-     <p class="partner age-20 male"><a href="date_pc-secrecy/kamatsuka-masumi.html"><img src="images_pc-secrecy/kamatsuka-masumi.png" alt="一尺八寸真澄"><span>一尺八寸真澄</span></a></p>
-     <p class="team police age-30 male darkness fashionable cthulhu battle negotiation"><a href="date_pc-secrecy/sasaki-masaki.html"><img src="images_pc-secrecy/sasaki-masaki.png" alt="笹記正喜"><span>笹記正喜</span></a></p>
-     <p class="single buddy age-20 woman quick spirit cthulhu battle"><a href="date_pc-secrecy/ryuuko-mitsu.html"><img src="images_pc-secrecy/ryuuko-mitsu.png" alt="竜子実"><span>竜子実,青尾実</span></a></p>
-     <p class="single detective age-20 male agility generous avoidance cthulhu"><a href="date_pc-secrecy/hoshihara-mizuiro.html"><img src="images_pc-secrecy/hoshihara-mizuiro.png" alt="星原水色"><span>星原水色</span></a></p>
-     <p class="single age-10 woman battle student"><a href="date_pc-secrecy/kunikida-makibi.html"><img src="images_pc-secrecy/kunikida-makibi.png" alt="國木田真備"><span>國木田真備</span></a></p>
-     <p class="single team age-40 male negotiation cthulhu"><a href="date_pc-secrecy/madake-ban.html"><img src="images_pc-secrecy/madake-ban.png" alt="真竹伴"><span>真竹伴,空木義人</span></a></p>
-     <p class="single age-10 male student"><a href="date_pc-secrecy/azuma-kazuharu.html"><img src="images_pc-secrecy/azuma-kazuharu.png" alt="東一春"><span>東一春</span></a></p>
-     <p class="single age-20 gender-unknown outdoorsy cthulhu important student"><a href="date_pc-secrecy/musubi-mirai.html"><img src="images_pc-secrecy/musubi-mirai.png" alt="結未来"><span>結未来,ミラーレ</span></a></p>
+     <p class="partner age-20 male three-people"><a href="date_pc-secrecy/kamatsuka-masumi.html"><img src="images_pc-secrecy/kamatsuka-masumi.png" alt="一尺八寸真澄"><span>一尺八寸真澄</span></a></p>
+     <p class="team police age-30 male darkness fashionable cthulhu three-people"><a href="date_pc-secrecy/sasaki-masaki.html"><img src="images_pc-secrecy/sasaki-masaki.png" alt="笹記正喜"><span>笹記正喜</span></a></p>
+     <p class="single buddy age-20 woman quick spirit cthulhu one-on-one"><a href="date_pc-secrecy/ryuuko-mitsu.html"><img src="images_pc-secrecy/ryuuko-mitsu.png" alt="竜子実"><span>竜子実,青尾実</span></a></p>
+     <p class="single detective age-20 male agility generous cthulhu three-people"><a href="date_pc-secrecy/hoshihara-mizuiro.html"><img src="images_pc-secrecy/hoshihara-mizuiro.png" alt="星原水色"><span>星原水色</span></a></p>
+     <p class="single age-10 woman student three-people"><a href="date_pc-secrecy/kunikida-makibi.html"><img src="images_pc-secrecy/kunikida-makibi.png" alt="國木田真備"><span>國木田真備</span></a></p>
+     <p class="single team age-40 male cthulhu three-people"><a href="date_pc-secrecy/madake-ban.html"><img src="images_pc-secrecy/madake-ban.png" alt="真竹伴"><span>真竹伴,空木義人</span></a></p>
+     <p class="single age-10 male student one-on-one"><a href="date_pc-secrecy/azuma-kazuharu.html"><img src="images_pc-secrecy/azuma-kazuharu.png" alt="東一春"><span>東一春</span></a></p>
+     <p class="single age-20 gender-unknown outdoorsy cthulhu important student one-on-one"><a href="date_pc-secrecy/musubi-mirai.html"><img src="images_pc-secrecy/musubi-mirai.png" alt="結未来"><span>結未来,ミラーレ</span></a></p>
      <!--<p class="age-00 cthulhu"><a href="date_pc-secrecy/mirare.html"><img src="images_pc-secrecy/mirare.png" alt="Mirare"></a></p>-->
-     <p class="single police age-30 male book-lover diving cthulhu"><a href="date_pc-secrecy/watari-motoi.html"><img src="images_pc-secrecy/watari-motoi.png" alt="渡基"><span>渡基</span></a></p>
-     <p class="single age-30 male fly-shop agility avoidance"><a href="date_pc-secrecy/shinomae-yugo.html"><img src="images_pc-secrecy/shinomae-yugo.png" alt="篠前優護"><span>篠前優護,笹記</span></a></p>
-     <p class="single team age-30 woman genius luck"><a href="date_pc-secrecy/morgan-gardner.html"><img src="images_pc-secrecy/morgan-gardner.png" alt="Morgan Gardner"><span>モーガン・ガードナー,緑渚</span></a></p>
-     <p class=" age-10 male strong-will dexterity cthulhu student"><a href="date_pc-secrecy/shirayuki-chika.html"><img src="images_pc-secrecy/shirayuki-chika.png" alt="白雪チカ"><span>白雪チカ,椎名義亜</span></a></p>
-     <p class="single age-30 woman"><a href="date_pc-secrecy/kurogane-makina.html"><img src="images_pc-secrecy/kurogane-makina.png" alt="鉄まきな"><span>鉄まきな</span></a></p>
-     <p class="single age-10 woman idea student"><a href="date_pc-secrecy/meguro-kikyou.html"><img src="images_pc-secrecy/meguro-kikyou.png" alt="目黒ききょう"><span>目黒ききょう,家守</span></a></p>
-     <p class="single age-2 woman0 student"><a href="date_pc-secrecy/shiina-mari.html"><img src="images_pc-secrecy/shiina-mari.png" alt="椎名真理"><span>椎名真理</span></a></p>
-     <p class="partner age-40 male darkness weather-forecaster cthulhu battle"><a href="date_pc-secrecy/itsuka-tasuku.html"><img src="images_pc-secrecy/itsuka-tasuku.png" alt="五鹿佑"><span>五鹿佑</span></a></p>
-     <p class="single age-10 woman warrior spirit cthulhu battle student"><a href="date_pc-secrecy/kagari-shiori.html"><img src="images_pc-secrecy/kagari-shiori.png" alt="篝栞"><span>篝栞</span></a></p>
-     <p class="buddy team age-20 woman thin spirit avoidance battle"><a href="date_pc-secrecy/mokumoku.html"><img src="images_pc-secrecy/mokumoku.png" alt="黙々"><span>黙々,家守梔子</span></a></p>
-     <p class="team detective age-30 woman dont-cold outdoorsy avoidance negotiation cthulhu"><a href="date_pc-secrecy/ookami.html"><img src="images_pc-secrecy/ookami.png" alt="狼"><span>狼,星原瑠璃,真神冴</span></a></p>
-     <p class="single age-20 woman insight sports-universal negotiation cthulhu"><a href="date_pc-secrecy/haruna-kanoko.html"><img src="images_pc-secrecy/haruna-kanoko.png" alt="榛名鹿子"><span>榛名鹿子</span></a></p>
-     <p class="age-20 woman cthulhu"><a href="date_pc-secrecy/shiokane-yorodu.html"><img src="images_pc-secrecy/shiokane-yorodu.png" alt="塩金萬"><span>塩金萬</span></a></p>
-     <p class="age-20 woman driver idea avoidance battle"><a href="date_pc-secrecy/yaguruma-aiba.html"><img src="images_pc-secrecy/yaguruma-aiba.png" alt="矢車藍葉"><span>矢車藍葉</span></a></p>
-     <p class="single police age-30 woman fly-shop mediocre cthulhu battle"><a href="date_pc-secrecy/furumi-iwako.html"><img src="images_pc-secrecy/furumi-iwako.png" alt="古海岩子"><span>古海岩子</span></a></p>
-     <p class="team detective age-30 woman hard-worker outdoorsy"><a href="date_pc-secrecy/chong.html"><img src="images_pc-secrecy/chong.png" alt="chóng"><span>フォン,天川茉乃花</span></a></p>
-     <p class="single age-10 male student genius darkness"><a href="date_pc-secrecy/mika-mika.html"><img src="images_pc-secrecy/mika-mika.png" alt="昧日未日"><span>味日未日</span></a></p>
-     <p class="single student age-10 male mania passive"><a href="date_pc-secrecy/gotou-hibari.html"><img src="images_pc-secrecy/gotou-hibari.png" alt="梧桐雲雀"><span>梧桐雲雀,織部</span></a></p>
-     <p class="no_image single detective age-20 male quick genius"><a href="#">一二人の密室<span>保志野福郎</span></a></p>
-     <p class="no_image woman age-20 trust glasses"><a href="#">Panacea.<br />
+     <p class="single police age-30 male book-lover diving cthulhu three-people"><a href="date_pc-secrecy/watari-motoi.html"><img src="images_pc-secrecy/watari-motoi.png" alt="渡基"><span>渡基</span></a></p>
+     <p class="single age-30 male fly-shop agilit three-people"><a href="date_pc-secrecy/shinomae-yugo.html"><img src="images_pc-secrecy/shinomae-yugo.png" alt="篠前優護"><span>篠前優護,笹記</span></a></p>
+     <p class="single team age-30 woman genius luck three-people"><a href="date_pc-secrecy/morgan-gardner.html"><img src="images_pc-secrecy/morgan-gardner.png" alt="Morgan Gardner"><span>モーガン・ガードナー,緑渚</span></a></p>
+     <p class=" age-10 male strong-will dexterity cthulhu student three-people"><a href="date_pc-secrecy/shirayuki-chika.html"><img src="images_pc-secrecy/shirayuki-chika.png" alt="白雪チカ"><span>白雪チカ,椎名義亜</span></a></p>
+     <p class="single age-30 woman three-people"><a href="date_pc-secrecy/kurogane-makina.html"><img src="images_pc-secrecy/kurogane-makina.png" alt="鉄まきな"><span>鉄まきな</span></a></p>
+     <p class="single age-10 woman idea student one-on-one"><a href="date_pc-secrecy/meguro-kikyou.html"><img src="images_pc-secrecy/meguro-kikyou.png" alt="目黒ききょう"><span>目黒ききょう,家守</span></a></p>
+     <p class="age-20 woman student one-on-one"><a href="date_pc-secrecy/shiina-mari.html"><img src="images_pc-secrecy/shiina-mari.png" alt="椎名真理"><span>椎名真理</span></a></p>
+     <p class="partner age-40 male darkness weather-forecaster cthulhu three-people"><a href="date_pc-secrecy/itsuka-tasuku.html"><img src="images_pc-secrecy/itsuka-tasuku.png" alt="五鹿佑"><span>五鹿佑</span></a></p>
+     <p class="single age-10 woman warrior spirit cthulhu student one-on-one"><a href="date_pc-secrecy/kagari-shiori.html"><img src="images_pc-secrecy/kagari-shiori.png" alt="篝栞"><span>篝栞</span></a></p>
+     <p class="buddy team age-20 woman thin spirit one-on-one"><a href="date_pc-secrecy/mokumoku.html"><img src="images_pc-secrecy/mokumoku.png" alt="黙々"><span>黙々,家守梔子</span></a></p>
+     <p class="team detective age-30 woman dont-cold outdoorsy cthulhu three-people"><a href="date_pc-secrecy/ookami.html"><img src="images_pc-secrecy/ookami.png" alt="狼"><span>狼,星原瑠璃,真神冴</span></a></p>
+     <p class="single age-20 woman insight sports-universal cthulhu three-people"><a href="date_pc-secrecy/haruna-kanoko.html"><img src="images_pc-secrecy/haruna-kanoko.png" alt="榛名鹿子"><span>榛名鹿子</span></a></p>
+     <p class="age-20 woman cthulhu three-people"><a href="date_pc-secrecy/shiokane-yorodu.html"><img src="images_pc-secrecy/shiokane-yorodu.png" alt="塩金萬"><span>塩金萬</span></a></p>
+     <p class="age-20 woman driver idea one-on-one"><a href="date_pc-secrecy/yaguruma-aiba.html"><img src="images_pc-secrecy/yaguruma-aiba.png" alt="矢車藍葉"><span>矢車藍葉</span></a></p>
+     <p class="single police age-30 woman fly-shop mediocre cthulhuthree-people"><a href="date_pc-secrecy/furumi-iwako.html"><img src="images_pc-secrecy/furumi-iwako.png" alt="古海岩子"><span>古海岩子</span></a></p>
+     <p class="team detective age-30 woman hard-worker outdoorsy three-people"><a href="date_pc-secrecy/chong.html"><img src="images_pc-secrecy/chong.png" alt="chóng"><span>フォン,天川茉乃花</span></a></p>
+     <p class="single age-10 male student genius darkness three-people"><a href="date_pc-secrecy/mika-mika.html"><img src="images_pc-secrecy/mika-mika.png" alt="昧日未日"><span>味日未日</span></a></p>
+     <p class="single student age-10 male mania passive three-people"><a href="date_pc-secrecy/gotou-hibari.html"><img src="images_pc-secrecy/gotou-hibari.png" alt="梧桐雲雀"><span>梧桐雲雀,織部</span></a></p>
+     <p class="single detective age-20 male quick genius three-people"><a href="date_pc-secrecy/hoshino-fukurou.html"><img src="images_pc-secrecy/hoshino-fukurou.png" alt="保志野福郎"><span>保志野福郎</span></a></p>
+     <p class="no_image team woman age-10 former-job fly-shop student one-on-one"><a href="date_pc-secrecy/hoshimi-aoi.html">愛罠蜂<span>星見葵</span></a></p>
+     <p class="no_image woman age-20 trust glasses three-people"><a href="date_pc-secrecy/sasaki-yuuka.html">Panacea.<br />
       Cry.<br />
       Sentence<span>笹紀優嘉</span></a></p>
-     <p class="no_image male age-30 darkness passive"><a href="#">ツキノワ<br>
-奇譚<span>織部六宗</span></a></p>
-     <p class="no_image woman age-10 former-job fly-shop"><a href="#">愛罠蜂<span>星見葵</span></a></p>
-     <!--<p class="no_image battle"><a href="date_pc-secrecy/ashina-mizuho.html">葦名瑞穂<span>葦名瑞穂</span></a></p>
+     <p class="no_image male age-30 single darkness passive team three-people"><a href="date_pc-secrecy/oribe-rikumune.html">ツキノワ<br>
+      奇譚<span>織部六宗</span></a></p>
+     <!--<p class="no_image "><a href="date_pc-secrecy/ashina-mizuho.html">葦名瑞穂<span>葦名瑞穂</span></a></p>
      <p class="no_image"><a href="date_pc-secrecy/kuzumiya-takumi.html">葛宮巧<span>葛宮巧</span></a></p>
      <p class="no_image"><a href="date_pc-secrecy/iemori-kiri.html">家守桐<span>家守桐</span></a></p>
      <p class="no_image"><a href="date_pc-secrecy/oribe-rikumune.html">織部六宗<span>織部六宗</span></a></p>
@@ -214,67 +213,67 @@
    <h3>探索者：特殊</h3>
    <div class="tab_text">
     <div class="pc">
-     <p class="detective age-20 male"><a href="date_pc-special/kusumi-haiiro.html"><img src="images_pc-special/kusumi-haiiro.png" alt="久住灰色"><span>久住灰色</span></a> </p>
-     <p class="age-00 gender-unknown cthulhu"><a href="date_pc-special/yucca.html"><img src="images_pc-special/yucca.png" alt="ユッカ"><span>ユッカ</span></a> </p>
-     <p class="single police age-20 woman avoidance negotiation cthulhu battle"><a href="date_pc-secrecy/asukaze-asuka.html"><img src="images_pc-secrecy/asukaze-asuka.png" alt="明日風飛鳥"><span>明日風飛鳥</span></a></p>
-     <p class="age-00 gender-unknown cthulhu"><a href="date_pc-special/pusa.html"><img src="images_pc-special/pusa.png" alt="月棲兎"><span>月棲兎,プサ</span></a></p>
-     <p class="single age-20 woman sports-universal muscle avoidance negotiation battle"><a href="date_pc-classic/shizuku-beni.html"><img src="images_pc-classic/shizuku-beni.png" alt="雫紅"><span>雫紅</span></a></p>
-     <p class="age-10 woman"><a href="date_pc-special/tuli.html"><img src="images_pc-special/tuli.png" alt="トゥーリ"><span>トゥーリ</span></a></p>
+     <p class="detective age-20 male three-people"><a href="date_pc-special/kusumi-haiiro.html"><img src="images_pc-special/kusumi-haiiro.png" alt="久住灰色"><span>久住灰色</span></a> </p>
+     <p class="age-00 gender-unknown cthulhu three-people"><a href="date_pc-special/yucca.html"><img src="images_pc-special/yucca.png" alt="ユッカ"><span>ユッカ</span></a> </p>
+     <p class="single police age-20 woman cthulhu three-people"><a href="date_pc-secrecy/asukaze-asuka.html"><img src="images_pc-secrecy/asukaze-asuka.png" alt="明日風飛鳥"><span>明日風飛鳥</span></a></p>
+     <p class="age-00 gender-unknown cthulhu one-on-one"><a href="date_pc-special/pusa.html"><img src="images_pc-special/pusa.png" alt="月棲兎"><span>月棲兎,プサ</span></a></p>
+     <p class="single age-20 woman sports-universal muscle three-people"><a href="date_pc-classic/shizuku-beni.html"><img src="images_pc-classic/shizuku-beni.png" alt="雫紅"><span>雫紅</span></a></p>
+     <p class="age-10 woman one-on-one"><a href="date_pc-special/tuli.html"><img src="images_pc-special/tuli.png" alt="トゥーリ"><span>トゥーリ</span></a></p>
     </div>
    </div>
    <h3>探索者：過去・未来シナリオ出身</h3>
    <div class="tab_text">
     <div class="pc">
-     <p class="oribe single detective age-30 male negotiation cthulhu"><a href="date_pc-history/benedict-void.html"><img src="images_pc-history/benedict-void.png" alt="Benedict Void"><span>ベネディクト・ボイド,織部</span></a></p>
-     <p class="single age-30 male cthulhu battle"><a href="date_pc-history/theothestar.html"><img src="images_pc-history/theothestar.png" alt="Theothestar Theo Theofigaro"><span>テオジスター・テオ・テオフィガロ</span></a></p>
-     <p class="single buddy age-20 male cthulhu"><a href="date_pc-history/theodore-stuart.html"><img src="images_pc-history/theodore-stuart.png" alt="Theodore Stuart"><span>セオドア・スチュアート</span></a></p>
-     <p class="single police age-20 male negotiation battle"><a href="date_pc-history/onimaru-mio.html"><img src="images_pc-history/onimaru-mio.png" alt="鬼丸澪"><span>鬼丸澪</span></a></p>
-     <p class="age-20 avoidance negotiation cthulhu battle"><a href="date_pc-history/mathias.html"><img src="images_pc-history/mathias.png" alt="Mathias"></a><span>マティアス</span></p>
-     <p class="single age-20 male quick fashionable cthulhu"><a href="date_pc-history/pengin.html"><img src="images_pc-history/pengin.png" alt="片銀"><span>片銀,鵲朔,雨夜ルィン</span></a></p>
-     <p class="age-30 male negotiation battle"><a href="date_pc-history/wolfgang-falck.html"><img src="images_pc-history/wolfgang-falck.png" alt="Wolfgang Falck"><span>ヴォルフガング・ファルク</span></a></p>
-     <p class="buddy team police age-10 gender-unknown avoidance negotiation battle"><a href="date_pc-history/rikka-mono.html"><img src="images_pc-history/rikka-mono.png" alt="六花モノ"><span>六花モノ</span></a></p>
-     <p class="age-20 male"><a href="date_pc-history/victor-applebee.html"><img src="images_pc-history/victor-applebee.png" alt="Victor Applebee"><span>ヴィクター・アップルビー</span></a></p>
-     <p class="single age-20 male cthulhu"><a href="date_pc-history/oswald-burton.html"><img src="images_pc-history/oswald-burton.png" alt="Oswald Burton"><span>オズワルド・バートン</span></a></p>
-     <p class="team age-20 male cthulhu battle"><a href="date_pc-history/thomas-viola.html"><img src="images_pc-history/thomas-viola.png" alt="Thomas Viola"><span>トーマス・ヴァイオラ</span></a></p>
-     <p class="gender-unknown age-00"><a href="date_pc-history/un.html"><img src="images_pc-history/un.png" alt="No.0708"><span>No.0708,アン</span></a></p>
+     <p class="oribe single detective age-30 male cthulhu three-people"><a href="date_pc-history/benedict-void.html"><img src="images_pc-history/benedict-void.png" alt="Benedict Void"><span>ベネディクト・ボイド,織部</span></a></p>
+     <p class="single age-30 male cthulhu three-people"><a href="date_pc-history/theothestar.html"><img src="images_pc-history/theothestar.png" alt="Theothestar Theo Theofigaro"><span>テオジスター・テオ・テオフィガロ</span></a></p>
+     <p class="single buddy age-20 male cthulhu one-on-one"><a href="date_pc-history/theodore-stuart.html"><img src="images_pc-history/theodore-stuart.png" alt="Theodore Stuart"><span>セオドア・スチュアート</span></a></p>
+     <p class="single police age-20 male three-people"><a href="date_pc-history/onimaru-mio.html"><img src="images_pc-history/onimaru-mio.png" alt="鬼丸澪"><span>鬼丸澪</span></a></p>
+     <p class="age-20 cthulhu three-people"><a href="date_pc-history/mathias.html"><img src="images_pc-history/mathias.png" alt="Mathias"></a><span>マティアス</span></p>
+     <p class="single age-20 male quick fashionable cthulhu three-people"><a href="date_pc-history/pengin.html"><img src="images_pc-history/pengin.png" alt="片銀"><span>片銀,鵲朔,雨夜ルィン</span></a></p>
+     <p class="age-30 male one-on-one"><a href="date_pc-history/wolfgang-falck.html"><img src="images_pc-history/wolfgang-falck.png" alt="Wolfgang Falck"><span>ヴォルフガング・ファルク</span></a></p>
+     <p class="buddy team police age-10 gender-unknown three-people"><a href="date_pc-history/rikka-mono.html"><img src="images_pc-history/rikka-mono.png" alt="六花モノ"><span>六花モノ</span></a></p>
+     <p class="age-20 male solo"><a href="date_pc-history/victor-applebee.html"><img src="images_pc-history/victor-applebee.png" alt="Victor Applebee"><span>ヴィクター・アップルビー</span></a></p>
+     <p class="single age-20 male cthulhu three-people"><a href="date_pc-history/oswald-burton.html"><img src="images_pc-history/oswald-burton.png" alt="Oswald Burton"><span>オズワルド・バートン</span></a></p>
+     <p class="team age-20 male cthulhu three-people"><a href="date_pc-history/thomas-viola.html"><img src="images_pc-history/thomas-viola.png" alt="Thomas Viola"><span>トーマス・ヴァイオラ</span></a></p>
+     <p class="gender-unknown age-00 one-on-one"><a href="date_pc-history/un.html"><img src="images_pc-history/un.png" alt="No.0708"><span>No.0708,アン</span></a></p>
     </div>
    </div>
    <h3>探索者：ロスト</h3>
    <div class="tab_text">
     <div class="pc lost">
-     <p class="single age-10 woman bait trust negotiation student"><a href="date_pc-classic/hijima-natsuho.html"><img src="images_pc-classic/hijima-natsuho.png" alt="日島夏歩"><span>日島夏歩</span></a></p>
-     <p class="team age-20 male fly-shop guts"><a href="date_pc-secrecy/kasasagi-akira.html"><img src="images_pc-secrecy/kasasagi-akira.png" alt="鵲晃"><span>鵲晃</span></a></p>
-     <p class="single age-20 male cthulhu"><a href="date_pc-secrecy/oscar-burton.html"><img src="images_pc-secrecy/oscar-burton.png" alt="Oscar Burton"></a><span>オスカー・バートン</span></p>
-     <p class="single age-20 male battle"><a href="date_pc-secrecy/utata-kashiwa.html"><img src="images_pc-secrecy/utata-kashiwa.png" alt="転柏"><span>転柏,家守</span></a></p>
-     <p class="single age-40 woman"><a href="date_pc-secrecy/kimikage-ito.html"><img src="images_pc-secrecy/kimikage-ito.png" alt="君影いと"><span>君影いと</span></a></p>
-     <p class="single police age-30 woman cthulhu"><a href="date_pc-secrecy/okonogi-tamaki.html"><img src="images_pc-secrecy/okonogi-tamaki.png" alt="小此木環"></a><span>小此木環,渡</span></p>
-     <p class="single detective age-20 woman darkness muscle avoidance cthulhu battle"><a href="date_pc-secrecy/nevaeh-gemini.html"><img src="images_pc-secrecy/nevaeh-gemini.png" alt="Nevaeh Gemini"><span>ネヴァ・ジェミニ</span></a></p>
+     <p class="single age-10 woman bait trust student solo"><a href="date_pc-classic/hijima-natsuho.html"><img src="images_pc-classic/hijima-natsuho.png" alt="日島夏歩"><span>日島夏歩</span></a></p>
+     <p class="team age-20 male fly-shop guts three-people"><a href="date_pc-secrecy/kasasagi-akira.html"><img src="images_pc-secrecy/kasasagi-akira.png" alt="鵲晃"><span>鵲晃</span></a></p>
+     <p class="single age-20 male cthulhu one-on-one"><a href="date_pc-secrecy/oscar-burton.html"><img src="images_pc-secrecy/oscar-burton.png" alt="Oscar Burton"></a><span>オスカー・バートン</span></p>
+     <p class="single age-20 male one-on-one"><a href="date_pc-secrecy/utata-kashiwa.html"><img src="images_pc-secrecy/utata-kashiwa.png" alt="転柏"><span>転柏,家守</span></a></p>
+     <p class="single age-40 woman one-on-one"><a href="date_pc-secrecy/kimikage-ito.html"><img src="images_pc-secrecy/kimikage-ito.png" alt="君影いと"><span>君影いと</span></a></p>
+     <p class="single police age-30 woman cthulhu one-on-one"><a href="date_pc-secrecy/okonogi-tamaki.html"><img src="images_pc-secrecy/okonogi-tamaki.png" alt="小此木環"></a><span>小此木環,渡</span></p>
+     <p class="single detective age-20 woman darkness muscle cthulhu three-people"><a href="date_pc-secrecy/nevaeh-gemini.html"><img src="images_pc-secrecy/nevaeh-gemini.png" alt="Nevaeh Gemini"><span>ネヴァ・ジェミニ</span></a></p>
     </div>
    </div>
    <h3>探索者：引退</h3>
    <div class="tab_text">
     <div class="pc">
-     <p class="age-10 woman insight art"><a href="date_pc-classic/mako-nishiki.html"><img src="images_pc-classic/mako-nishiki.png" alt="真子錦"><span>真子錦</span></a></p>
+     <p class="age-10 woman insight art one-on-one"><a href="date_pc-classic/mako-nishiki.html"><img src="images_pc-classic/mako-nishiki.png" alt="真子錦"><span>真子錦</span></a></p>
     </div>
    </div>
    <h3>探索者：NPC／KPC</h3>
    <div class="tab_text">
     <div class="pc">
-     <p class="single age-20 male"><img src="images_pc-classic/akabe-tooru.png" alt="赤部徹"></p>
-     <p class="male"><img src="images_pc-classic/tsunagi-haruka.png" alt="繋遥"><span>繋遥</span></p>
-     <p class="male"><img src="images_pc-classic/kotyou-uruo.png" alt="胡蝶潤"><span>胡蝶潤</span></p>
-     <p class="male"><img src="images_pc-classic/ichika-saki.png" alt="一花咲"><span>一花咲</span></p>
-     <p class="woman"><img src="images_pc-classic/housono-ruru.png" alt="祝園るる"><span>祝園るる,エクバーグ</span></p>
-     <p class="single age-20 woman"><span>アイリス・ケンタウルス</span><img src="images_pc-classic/iris-centaurus.png" alt="Iris Centaurus"></p>
-     <p class="single age-20 gender-unknown quick genius"><img src="images_pc-classic/coco-improm.png" alt="Coco Improm"><span>ココ・アンプロン</span></p>
-     <p class="male age-00"><img src="images_pc-classic/shinonome-homura.png" alt="東雲焔"><span>東雲焔</span></p>
+     <p class="single age-20 male one-on-one"><img src="images_pc-classic/akabe-tooru.png" alt="赤部徹"><span>赤部徹</span></p>
+     <p class="male one-on-one"><img src="images_pc-classic/tsunagi-haruka.png" alt="繋遥"><span>繋遥</span></p>
+     <p class="male one-on-one"><img src="images_pc-classic/kotyou-uruo.png" alt="胡蝶潤"><span>胡蝶潤</span></p>
+     <p class="male one-on-one"><img src="images_pc-classic/ichika-saki.png" alt="一花咲"><span>一花咲</span></p>
+     <p class="woman one-on-one"><img src="images_pc-classic/housono-ruru.png" alt="祝園るる"><span>祝園るる,エクバーグ</span></p>
+     <p class="single age-20 woman one-on-one"><span>アイリス・ケンタウルス</span><img src="images_pc-classic/iris-centaurus.png" alt="Iris Centaurus"></p>
+     <p class="single age-20 gender-unknown quick genius one-on-one" ><img src="images_pc-classic/coco-improm.png" alt="Coco Improm"><span>ココ・アンプロン</span></p>
+     <p class="male age-00 one-on-one"><img src="images_pc-classic/shinonome-homura.png" alt="東雲焔"><span>東雲焔</span></p>
     </div>
    </div>
    <h3>DX3rdPC：オーヴァード</h3>
    <div class="tab_text">
     <div class="pc">
-     <p class="no_image male age-20 single"><a href="date_pc-dx3/seigi-no-hana.html">正義の花<span>ルドベキア・エクバーグ</span></a></p>
-     <p class="no_image male age-20 single"><a href="date_pc-dx3/gouki-no-kemono.html">剛毅の獣<span>神無月始</span></a></p>
+     <p class="no_image male age-20 single three-people"><a href="date_pc-dx3/seigi-no-hana.html">正義の花<span>ルドベキア・エクバーグ</span></a></p>
+     <p class="no_image male age-20 single one-on-one"><a href="date_pc-dx3/gouki-no-kemono.html">剛毅の獣<span>神無月始</span></a></p>
     </div>
    </div>
   </div>
@@ -284,9 +283,9 @@
  <a href="#" id="page_top"></a>
  <footer> </footer>
 </div>
-</body>
-<!-- javascript and jQuery -->
+ <!-- javascript and jQuery -->
 <script src="js/jquery-3.6.0.min.js"></script>
 <script src="js/script.js"></script>
 <!-- End of javascript and jQuery -->
+</body>
 </html>
