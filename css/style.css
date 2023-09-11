@@ -157,7 +157,6 @@ h3 {
  margin-right: 3px;
  margin-left: 3px;
  margin-top: 10px;
- display: table;
 }
 #kasa_pc .pc p a {
  display: table-cell;
@@ -196,9 +195,9 @@ a img:hover {
  background-image: url("../images/External_Link_icon-icons.com_55915.png");
  background-repeat: no-repeat;
  background-size: contain;
- width: 2vw;
- height: 2vw;
- top: -0.2vw;
+ width: 1.2vw;
+ height: 1.2vw;
+ top: 0.25vw;
  margin-left: 0.3vw;
 }
 #kasataku table, #kasataku table tr, #kasataku table td, #kasataku table th {
