@@ -195,10 +195,10 @@ a img:hover {
  background-image: url("../images/External_Link_icon-icons.com_55915.png");
  background-repeat: no-repeat;
  background-size: contain;
- width: 1.2vw;
- height: 1.2vw;
- top: 0.25vw;
- margin-left: 0.3vw;
+ width: 17px;
+ height: 17px;
+ top: 2px;
+ margin-left: 1px;
 }
 #kasataku table, #kasataku table tr, #kasataku table td, #kasataku table th {
  border: solid 1px #000;
@@ -291,7 +291,6 @@ footer {
  #kasamochi a::after {
   width: 3vw;
   height: 3vw;
-  top: 0.3vw;
   margin-left: 0.3vw;
  }
  #tabContents .trailer {
@@ -320,7 +319,7 @@ footer {
   width: 20%;
  }
  #kasamochi .kasamochi_pl .pl {
-  width: 15%;
+  width: 16%;
  }
  #kasamochi .kasamochi_pl .kp {
   width: 16%;
