@@ -105,6 +105,10 @@ h3 {
 #kasamochi table {
  width: 100%;
  font-size: 13px;
+ text-align: center;
+}
+#kasamochi table tr:nth-child(odd) td {
+	background: #E1E1E1;
 }
 #kasamochi table, #kasamochi table tr {
  border-collapse: collapse;
@@ -117,8 +121,16 @@ h3 {
 #kasamochi table th {
  background-color: #000;
  color: #fff;
+ table-layout: auto;
+ text-align: center;
 }
-#kasamochi .kasamochi_result .ho {
+#kasamochi table th:nth-child(1) {
+ text-align: left;
+}
+#kasamochi table td:nth-child(1) {
+ text-align: left;
+}
+/*#kasamochi .kasamochi_result .ho {
  width: 20%;
 }
 #kasamochi .kasamochi_result .result {
@@ -128,6 +140,9 @@ h3 {
  width: 20%;
 }
 #kasamochi .kasamochi_kp .time {
+ width: 20%;
+}
+#kasamochi .kasamochi_pl .fee {
  width: 20%;
 }
 #kasamochi .kasamochi_pl .ho {
@@ -141,7 +156,7 @@ h3 {
 }
 #kasamochi table tr th.scenario_name {
  width: 60%;
-}
+}*/
 #kasa_pc .pc {
  display: flex;
  flex-wrap: wrap;
@@ -188,7 +203,7 @@ a img:hover {
 #kasamochi a:hover {
  text-decoration: none;
 }
-#kasamochi a::after {
+/*#kasamochi a::after {
  position: absolute;
  content: "";
  display: inline-block;
@@ -199,7 +214,7 @@ a img:hover {
  height: 17px;
  top: 2px;
  margin-left: 1px;
-}
+}*/
 #kasataku table, #kasataku table tr, #kasataku table td, #kasataku table th {
  border: solid 1px #000;
 }
@@ -344,9 +359,9 @@ footer {
   font-size: 25px;
   top: 32px;
  }
- #kasamochi table tr th.scenario_name {
+ /*#kasamochi table tr th.scenario_name {
   width: 50%;
- }
+ }*/
  #kasataku table {
   width: 100%;
  }
