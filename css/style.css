@@ -212,6 +212,9 @@ a img:hover {
 #kasa_pc .pc.lost img {
  filter: grayscale(100%);
 }
+#kasa_pc .pc.retirement img {
+ filter: sepia(100%);
+}
 #kasa_pc .no_image a {
  border: solid #000 1px;
  text-align: center;
@@ -228,18 +231,6 @@ a img:hover {
 #kasamochi a:hover {
  text-decoration: none;
 }
-/*#kasamochi a::after {
- position: absolute;
- content: "";
- display: inline-block;
- background-image: url("../images/External_Link_icon-icons.com_55915.png");
- background-repeat: no-repeat;
- background-size: contain;
- width: 17px;
- height: 17px;
- top: 2px;
- margin-left: 1px;
-}*/
 #kasataku table, #kasataku table tr, #kasataku table td, #kasataku table th {
  border: solid 1px #000;
 }
@@ -306,6 +297,20 @@ footer {
 .red, #kasamochi .red a {
  color: #FF0004;
 }
+.serchBox {
+ max-width: 700px;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: flex-start;
+}
+.serchBox select {
+ font-size: 12px;
+ border: solid 2px #000;
+ line-height: 25px;
+ padding: 0 1vw;
+ margin: 2px;
+ border-radius: 5px;
+}
 @media screen and (max-width:699px) {
  .device_pc {
   display: none;
@@ -328,11 +333,11 @@ footer {
   font-size: 13px;
  }
  h2 {
-  font-size: 25px;
+  font-size: 9vw;
  }
  .tab_text {
-  font-size: 12px;
-  line-height: 20px;
+  font-size: 4vw;
+  line-height: 6vw;
  }
  #kasamochi a::after {
   width: 3vw;
@@ -402,9 +407,15 @@ footer {
  #kasataku textarea {
   width: 100%;
  }
+ h3 {
+  font-size: 6.5vw;
+ }
+ .serchBox select {
+  font-size: 4vw;
+ }
 }
 /*フィルタのリスト*/
-ul.filterBtnList {
+/*ul.filterBtnList {
  list-style: none;
  display: flex;
  flex-wrap: wrap;
@@ -437,27 +448,20 @@ ul.filterBtnList li.active {
 .filter-more-button {
  text-align: right;
 }
-.filter-more-button::before { /* 閉じている時 */
+.filter-more-button::before { 
  content: "▼more";
 }
-.filter-more-button.open::before { /* 開いている時 */
+.filter-more-button.open::before { 
  content: "▲close";
 }
 ul.filterBtnList.filter-more li {
  margin: 2px 1px;
-}
+}*/
 .pc .hidden {
  display: none
 }
 .pc span {
  display: none;
-}
-#kasa_pc input[type="text"] {
- padding: 5px 5px 3px;
- font-size: 16px;
- border: 1px solid #D6D6D6;
- width: 50%;
- margin-bottom: 1%;
 }
 @media screen and (max-width:359px) {
  #kasa_pc .pc p, #kasa_pc .pc p a, #kasa_pc .pc img {
@@ -474,7 +478,7 @@ ul.filterBtnList.filter-more li {
  }
 }
 @media screen and (max-width:699px) {
- ul.filterBtnList {
+ /* ul.filterBtnList {
   line-height: inherit;
  }
  .filterBtnList.filter-more {
@@ -487,7 +491,7 @@ ul.filterBtnList.filter-more li {
  }
  ul.filterBtnList.filter-more li {
   margin: 1vw -1.2px;
- }
+ }*/
  #kasa_pc .pc p {
   margin-right: 1.5px;
   margin-left: 1.5px;
