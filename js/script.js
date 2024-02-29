@@ -52,38 +52,6 @@ $(function () {
 });
 
 
-//フィルタ機能
-jQuery(function ($) {
-
- /* 要素を取得(ボタンと要素) */
- var btnList = $('.filterBtnList *'),
-  btnAll = $('#filterAll'),
-  filterSingle = $('#filterSingle'),
-  filterPartner = $('#filterPartner'),
-  filterBuddy = $('#filterBuddy'),
-  filterTeam = $('#filterTeam'),
-  box = $('.pc p');
-
- /* ボタンのいずれかをクリックした場合 */
- btnList.click(function () {
-  if (!($(this).hasClass('active'))) {
-   var filterClass = $(this).attr('class');
-   btnList.removeClass('active');
-   $(this).addClass('active');
-
-   box.each(function () {
-    $(this).fadeOut(0);
-    if ($(this).hasClass(filterClass)) {
-     $(this).stop().fadeIn(300);
-    } else if (filterClass === 'all') {
-     box.stop().fadeIn(300);
-    }
-   });
-  }
- });
-
-});
-
 // フィルタアコーディオン
 $(function () {
  $('.filter-more-button').click(function () {
@@ -111,7 +79,30 @@ $(function () {
  $('#search-text').on('input', searchWord);
 });
 
+//プルダウンで検索
+$(function() {
+    var lists = $('.pc p');
+    $(document).on('change', '.serchBox select', function() {
+        lists.show();
+        for (var i = 0; i < $('.serchBox select').length; i++) {
+            // 絞り込みの項目を取得
+            var item = $('.serchBox select').eq(i).attr('name');
+            // 絞り込みの対象を取得
+            var target = $('.serchBox select').eq(i).val();
+ 
+            if(target != '') {
+                for (var j = 0; j < lists.length; j++) {
+                    // 絞り込み対象でない場合は非表示
+                    if(!lists.eq(j).hasClass(target)) {
+                        lists.eq(j).hide();
+                    }
+                };
+            }
+        };
+    });
+});
 
+//今日の日付
 $(function () {
  var now = new Date();
  var y = now.getFullYear();
