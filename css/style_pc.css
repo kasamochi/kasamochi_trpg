@@ -170,6 +170,12 @@ h2 {
 .bg-black {
  background-color: #000;
 }
+.coc_pc_content2 .pc_spec th, .coc_pc_content2 .pc_spec td {
+ width: auto; 
+ padding: 0 2%;
+ text-align: center;
+ line-height: 200%;
+}
 @media screen and (max-width:280px) {
  .coc_pc_content table th {
   width: 35%;
