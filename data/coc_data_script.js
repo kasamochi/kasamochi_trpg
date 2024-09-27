@@ -10,7 +10,7 @@ const id = getParameterByName('id');
 // JSONファイルを読み込み、表示
 $(document).ready(function () {
  // data.jsonを取得
- $.getJSON('coc_data.json', function (jsonData) {
+ $.getJSON('./coc_data.json', function (jsonData) {
   if (id) {
    // 指定されたIDに基づいてデータを検索
    const data = jsonData.find(item => item.id === id);
