@@ -18,6 +18,7 @@
 //	});
 
 $(function () {
+ //クラス「accordion_btn」クリックで発生
  $('.accordion_btn').click(function () {
   $(this).next('.accordion_contents').slideToggle(400);
   $(this).toggleClass('active');
@@ -116,7 +117,7 @@ $(function () {
 window.addEventListener('load', function () {
 	let column_no = 0; //今回クリックされた列番号
 	let column_no_prev = 0; //前回クリックされた列番号
-	document.querySelectorAll('#sort_table_1 th,#sort_table_2 th,#sort_table_3 th,#sort_table_4 th,#sort_table_5 th,#sort_table_6 th,#sort_table_7 th,#sort_table_8 th,#sort_table_9 th,#sort_table_10 th,#sort_table_11 th,#sort_table_12 th,#sort_table_13 th,#sort_table_14 th,#sort_table_15 th,#sort_table_16 th').forEach(elm => {
+	document.querySelectorAll('#sort_table_1 th,#sort_table_2 th,#sort_table_8 th,#sort_table_9 th,#sort_table_10 th,#sort_table_11 th,#sort_table_12 th,#sort_table_13 th,#sort_table_14 th,#sort_table_15 th,#sort_table_16 th').forEach(elm => {
 		elm.onclick = function () {
 			column_no = this.cellIndex; //クリックされた列番号
 			let table = this.parentNode.parentNode.parentNode;
