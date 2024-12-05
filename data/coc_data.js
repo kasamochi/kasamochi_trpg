@@ -1198,7 +1198,7 @@ const jsonData = [{
  },{
   "id": "yaguruma-gunjou",
   "image": "../images/pc-coc/yaguruma-gunjou.png",
-  "name": "Yaguruma Gunjou",
+  "name": "矢車群青",
   "name_read": "Yaguruma Gunjou",
   "sex": "女",
   "age": "21",
@@ -1298,7 +1298,7 @@ const jsonData = [{
   "personality": "真面目、冷静、偏屈",
   "text": "※<a href='/kasamochi_trpg/data/coc_data.html?id=pengin'>片銀コンバート</a>\n\n言動が胡乱な上たまに辛辣な、人懐こいペンギン（？）。\n幼少期から周囲に期待されて育った。人に頼られるのが好きだが、あてにされるのは嫌い。",
   "family": "未設定",
-  "progress": "・GODARCA HOⅣ：皇帝（進行中）",
+  "progress": "・GODARCA HOⅣ：皇帝（ロスト）",
  },{
   "id": "noma-parker-godarca",
   "image": "../images/pc-coc/noma-parker-godarca.png",
@@ -1311,7 +1311,7 @@ const jsonData = [{
   "personality": "素朴、穏やか、世話好き",
   "text": "過不足のない家庭で過ごし、幼少期からいつでも独り立ちできるようにと育てられた。\n花や農業が好きで、実家では畑仕事を担当し、趣味で大きな花壇を管理していた。\n争いごとは苦手だが、危機管理や自己防衛、仕事はこなす。強いて言えば衛生兵向き。",
   "family": "両親",
-  "progress": "・GODARCA HOⅩⅩ：審判（進行中）",
+  "progress": "・GODARCA HOⅩⅩ：審判（ロスト）",
  },{
   "id": "yamada-mugi",
   "image": "../images/pc-coc/yamada-mugi.png",
