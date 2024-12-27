@@ -713,7 +713,7 @@ const jsonData = [{
   "personality": "内向的、子ども好き、天邪鬼",
   "text": "学校にひとりはいる『生徒に怖がられている若めの先生』。\n生育環境の都合で孤独慣れしている。人間関係は極めて狭く交際経験もない。\nペットにめだかとエビとネオンテトラがいる。前半二種は理科室飼育で増えたのを引き取った。",
   "family": "同僚兼恋人",
-  "progress": "・君待つ明日に僕はいない\n・Ditto moon\n・ミルタの碑銘\n・割れない卵\n・9と8と点がひとつ\n・これは詳細を省くが結論だけ言うとお前はイヌ KPC\n・Call the Name of Your Fate.\n・今夜も二人でロードショー！ ラストライブ in ルルイエ.\n・君のためのヒポクリシー KPC\n・プラネタリウム終末論\n・とける\n・夢見るホーリーキャロル\n・ジェンに献ぐ盃 KPC\n・廻想する夜話 KPC\n・探索から始める化学実験\n・迷い猫に缶切りひとつ",
+  "progress": "・君待つ明日に僕はいない\n・Ditto moon\n・ミルタの碑銘\n・割れない卵\n・9と8と点がひとつ\n・これは詳細を省くが結論だけ言うとお前はイヌ KPC\n・Call the Name of Your Fate.\n・今夜も二人でロードショー！ ラストライブ in ルルイエ.\n・君のためのヒポクリシー KPC\n・プラネタリウム終末論\n・とける\n・夢見るホーリーキャロル\n・ジェンに献ぐ盃 KPC\n・廻想する夜話 KPC\n・探索から始める化学実験\n・迷い猫に缶切りひとつ\n・リヴィング・アーツ KPC\n・学生服と君の幽霊",
  },{
   "id": "itsuka-tasuku",
   "image": "../images/pc-coc/itsuka-tasuku.png",
@@ -1285,7 +1285,7 @@ const jsonData = [{
   "personality": "明るい、善良、真面目",
   "text": "※「PHOENIX=EXE=EXPRESS」殺し屋特徴表採用\n\n基本的に常識的な感性の持ち主だが、時折ドライ。\nターゲット以外の殺しは極力避けるものの、死生観が「今か後か」とざっくばらんとしているため、必要に駆られれば「しゃーないか」で手にかけている。\n本名は海野識（Umino shiki）。",
   "family": "両親（故人）",
-  "progress": "・PHOENIX=EXE=EXPRESS HO2「鴎」（TP／進行中）",
+  "progress": "・PHOENIX=EXE=EXPRESS HO2「鴎」（TP）",
  },{
   "id": "pengin-godarca",
   "image": "../images/pc-coc/pengin-godarca.png",
@@ -1322,9 +1322,9 @@ const jsonData = [{
   "job": "ITエンジニア／ラーメン屋",
   "features": "未設定",
   "personality": "積極的、素直、勤勉",
-  "text": "古い商店街に建つラーメン屋「山田ラーメン」の一人娘。苗字は山多だが店は山田。\n容姿健康ともに恵まれており、それを自覚した上で鼻にかけない素直な人物。\n大学卒業後は実家のラーメン屋を手伝いながら、在宅ITエンジニアとして働いている。",
+  "text": "古い商店街に建つラーメン屋「やまだラーメン」の一人娘。\n容姿健康ともに恵まれており、それを自覚した上で鼻にかけない素直な人物。\n大学卒業後は実家のラーメン屋を手伝いながら、在宅ITエンジニアとして働いている。",
   "family": "両親",
-  "progress": "・Good morning ALL HO重病人（予定）",
+  "progress": "・Good morning ALL HO重病人",
  },{
   "id": "tanaka-kohana",
   "image": "../images/pc-coc/tanaka-kohana.png",
