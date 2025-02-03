@@ -421,13 +421,13 @@ const jsonData = [{
   "name": "綿見アイミー",
   "name_read": "Watami Ime",
   "sex": "男",
-  "age": "30",
+  "age": "31",
   "job": "医師（精神科）",
   "features": "未設定",
   "personality": "好奇心重視、身内に甘い",
   "text": "元精神科医のイス人。\n人体を得て20年以上になるにも関わらず、体を動かすのが下手。昔はもっと酷かった。\n性格はのんびりやのマイペース。ある程度の協調性はあるが、他人には基本無関心。とはいえ人間の「愛着」には理解を示している。\n\nWhat am i？――I am me.",
   "family": "未設定",
-  "progress": "▼27歳\n・秘密と内証\n▼30歳\n・咆哮エトランゼ HOラプンツェル（予定）",
+  "progress": "▼27歳\n・秘密と内証\n▼31歳\n・咆哮エトランゼ HOラプンツェル（予定）",
  },{
   "id": "shinomae-yugo",
   "image": "../images/pc-coc/shinomae-yugo.png",
@@ -1246,7 +1246,7 @@ const jsonData = [{
   "personality": "大人しい、ガラが悪い、たまに不穏",
   "text": "生まれはやくざの家で、頭の妾の子としてだが大事にされて育った。\n加齢につれて「かたぎとして生きたい」という思いが強くなり、成人と同時に組及び父親と円満に絶縁。\n擬似的な天涯孤独となり、独立して今に至る。",
   "family": "家族（絶縁済）",
-  "progress": "・初恋性ストックホルム症候群 KPC\n・AND/HAND\n・君が夜を終わらせて KPC（予定）",
+  "progress": "・初恋性ストックホルム症候群 KPC\n・AND/HAND\n・君が夜を終わらせて KPC",
  },{
   "id": "mizumi-mizuka",
   "image": "../images/pc-coc/mizumi-mizuka.png",
@@ -1337,7 +1337,7 @@ const jsonData = [{
   "personality": "のびのび、甘え上手、愛情豊か",
   "text": "のびのびした性格。しっかりしている一方で甘え上手、愛情豊か。ちゃっかりしていてスルーも上手。\n仕事に対しては真面目だが、職場は男が多いので、舐められないよう強気に出ている。\n生活のため金を安定して稼ごうと今の職についたので、出世欲がない。",
   "family": "母親、祖父母、双子の弟、姉",
-  "progress": "・7/GHOST IN THE SPINE\n・ワンちゃんはここにいる。（予定）",
+  "progress": "・7/GHOST IN THE SPINE\n・ワンちゃんはここにいる。",
  },{
   "id": "coco-improm",
   "image": "../images/pc-coc/coco-improm.png",
@@ -1350,7 +1350,7 @@ const jsonData = [{
   "personality": "柔らか、社交的",
   "text": "比較神話学から日本語とその文化に興味を持ち、日本へ留学している。\n日本で暮らすうちにとりわけ食文化に強く惹かれており、最近は駄菓子にハマっている。\n食文化に夢中な側面がたいへん強いが天文学にももちろん真面目に取り組んでおり、将来の夢は「まだ見ぬ星を見つけ、名前を付けること」である。",
   "family": "未設定",
-  "progress": "・動かぬ方舟 KPC\n・サイモン・スタンホープの研究 KPC\n・万物館の謎（予定）",
+  "progress": "・動かぬ方舟 KPC\n・サイモン・スタンホープの研究 KPC\n・万物館の謎（進行中）",
  },{
   "id": "watari-kaname",
   "image": "../images/pc-coc/watari-kaname.png",
