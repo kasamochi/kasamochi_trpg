@@ -427,7 +427,7 @@ const jsonData = [{
   "personality": "好奇心重視、身内に甘い",
   "text": "元精神科医のイス人。\n人体を得て20年以上になるにも関わらず、体を動かすのが下手。\n性格はのんびりやのマイペース。ある程度の協調性はあるが、他人には基本無関心。とはいえ人間の「愛着」には理解を示している。\n\nWhat am i？――I am me.",
   "family": "未設定",
-  "progress": "▼27歳\n・秘密と内証\n▼31歳\n・咆哮エトランゼ HOラプンツェル（予定）",
+  "progress": "▼27歳\n・秘密と内証\n▼31歳\n・咆哮エトランゼ HO2／ラプンツェル",
  },{
   "id": "shinomae-yugo",
   "image": "../images/pc-coc/shinomae-yugo.png",
@@ -1090,7 +1090,7 @@ const jsonData = [{
   "personality": "お気楽、友好的、気怠げ",
   "text": "自然主義的な思想の持ち主であり、人間に無関心気味。基本的に冷静かつ寛容。\n自分と他者のズレを自覚しており、普段は軋轢を避けて周りに合わせている。\n小～中学時代は剣舞道場に通っていた。",
   "family": "両親、祖父母、親戚",
-  "progress": "・私立花ヶ丘高校秘密倶楽部 HO12\n・廻想する夜話 KPC\n・目目目目",
+  "progress": "・私立花ヶ丘高校秘密倶楽部 HO12\n・廻想する夜話 KPC\n・目目目目\n・呪われてるのはお前だろ！！（予定）",
  },{
   "id": "hodumi-arata",
   "image": "../images/pc-coc/hodumi-arata.png",
@@ -1233,7 +1233,7 @@ const jsonData = [{
   "personality": "謙虚、素直、あまり笑わない",
   "text": "アイルランド系日本人。母国語は日本語。\n探偵と「シェイド」という喫茶店のスタッフを兼業している。\n両親を災害で失くして以降児童養護施設で育っており、身の上としては天涯孤独。",
   "family": "未設定",
-  "progress": "▼28歳\n・Dream Box KPC（進行中）",
+  "progress": "▼28歳\n・Dream Box KPC",
  },{
   "id": "kino-minami",
   "image": "../images/pc-coc/kino-minami.png",
@@ -1353,7 +1353,7 @@ const jsonData = [{
   "progress": "・動かぬ方舟 KPC\n・サイモン・スタンホープの研究 KPC\n・万物館の謎",
  },{
   "id": "watari-kaname",
-  "image": "../images/pc-coc/watari-kaname.png",
+  "image": "../images/dummy.jpg",
   "name": "渡要",
   "name_read": "Watari Kaname",
   "sex": "女",
