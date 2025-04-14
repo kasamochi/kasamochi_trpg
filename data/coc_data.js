@@ -492,7 +492,7 @@ const jsonData = [{
   "personality": "面倒くさがり、世話焼き、天邪鬼",
   "text": "むかしは明るく遊び好きだったようで、今でも時折その面が顔の覗かせる。\nツーリング用にバイクの免許を取る程度にアグレッシブ。愛車はホーネット250。親戚のお古。",
   "family": "未設定",
-  "progress": "▼17歳\n・魔法少女希望譚 HO2\n▼18歳\n・異婚チケット",
+  "progress": "▼17歳\n・魔法少女希望譚 HO2\n▼18歳\n・異婚チケット\n・WiCCa（予定）",
  },{
   "id": "oscar-burton",
   "image": "../images/pc-coc/oscar-burton.png",
@@ -1272,7 +1272,7 @@ const jsonData = [{
   "personality": "真面目、冷静、人懐こい",
   "text": "個人で小さな事務所を切り盛りしている。\n仕事に関しては、夜中になっても単身で調査をしていることもある。\nスケッチと杖術、読書が趣味で、人と話すのも好き。",
   "family": "未設定",
-  "progress": "・誰が袖に花苑 HO探偵（TP）",
+  "progress": "・誰が袖に花苑 HO探偵（TP）\n・帝都に咲く悪の影（TP）",
  },{
   "id": "hirono-romi",
   "image": "../images/pc-coc/hirono-romi.png",
