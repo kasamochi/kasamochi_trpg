@@ -934,7 +934,7 @@ const jsonData = [{
   "personality": "人懐こい、楽観的",
   "text": "第一印象で誤解を受けやすく、また変人と見られやすい常識人である。\n美術館の絵画を非常に大切に扱っており、勤務の姿勢も丁寧。",
   "family": "同僚（故人）",
-  "progress": "・ピリオド・アズール HO1",
+  "progress": "・ピリオド・アズール HO1\n・小鳥は宇宙で息をする(予定)",
  },{
   "id": "flora-applebee",
   "image": "../images/pc-coc/flora-applebee.png",
@@ -1353,7 +1353,7 @@ const jsonData = [{
   "progress": "・動かぬ方舟 KPC\n・サイモン・スタンホープの研究 KPC\n・万物館の謎",
  },{
   "id": "watari-kaname",
-  "image": "../images/dummy.jpg",
+  "image": "../images/pc-coc/watari-kaname.png",
   "name": "渡要",
   "name_read": "Watari Kaname",
   "sex": "女",
