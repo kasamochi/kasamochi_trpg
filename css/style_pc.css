@@ -1,184 +1,239 @@
-*{
- font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, "sans-serif";
+* {
+    font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, "sans-serif";
 }
+
 img {
- width: 100%;
- height: auto;
- max-width: 550px;
+    width: 100%;
+    height: auto;
+    max-width: 550px;
 }
+
 body {
- max-width: 550px;
- margin: 0 auto;
- text-align: left;
+    max-width: 550px;
+    margin: 0 auto;
+    text-align: left;
 }
+
 a:hover {
- text-decoration: underline;
+    text-decoration: underline;
 }
+
 header {
- margin-bottom: 3%;
+    margin-bottom: 3%;
 }
+
 header p {
- width: 95%;
- font-size: 12px;
- margin: 0 auto;
- margin-top: 3%;
+    width: 95%;
+    font-size: 12px;
+    margin: 0 auto;
+    margin-top: 3%;
 }
-main, main a {
- color: #000;
+
+main,
+main a {
+    color: #000;
 }
+
 footer {
- background-color: #000;
- color: #fff;
- padding: 2%;
+    background-color: #000;
+    color: #fff;
+    padding: 2%;
 }
+
 footer div {
- text-align: center;
- font-size: 8px;
+    text-align: center;
+    font-size: 8px;
 }
+
 .red {
- color: #BD0003;
+    color: #BD0003;
 }
+
 .gray {
- color: #BBB798;
- font-size: 13px;
+    color: #BBB798;
+    font-size: 13px;
 }
+
 .accordion_contents {
- display: none;
- width: 95%;
- margin: 0 auto;
+    display: none;
+    width: 95%;
+    margin: 0 auto;
 }
+
 .link_text {
- border-bottom: dashed 2px #D3CA8F;
- padding-bottom: 3%;
- margin-bottom: 3%;
+    border-bottom: dashed 2px #D3CA8F;
+    padding-bottom: 3%;
+    margin-bottom: 3%;
 }
+
 h1 {
- font-weight: bold;
- margin-top: 3%;
- margin-left: 3%;
+    font-weight: bold;
+    margin-top: 3%;
+    margin-left: 3%;
 }
+
 h2 {
- background-color: #000;
- color: #fff;
- padding-top: 2%;
- padding-bottom: 2%;
- padding-left: 2%;
- margin-bottom: 2%;
+    background-color: #000;
+    color: #fff;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    margin-bottom: 2%;
 }
+
 .pc_coc {
- float: left;
- width: 32.3%;
- margin-right: 0.5%;
- margin-bottom: 2%;
- margin-left: 0.5%;
- position: relative;
+    float: left;
+    width: 32.3%;
+    margin-right: 0.5%;
+    margin-bottom: 2%;
+    margin-left: 0.5%;
+    position: relative;
 }
+
 .pc_coc img {
- width: 100%;
- display: block;
+    width: 100%;
+    display: block;
 }
+
 .pc_coc p {
- font-size: 10px;
- height: 15px;
- margin-top: 2%;
- text-align: center;
- color: #fff;
- position: absolute;
- top: 30%;
- left: 5%;
+    font-size: 10px;
+    height: 15px;
+    margin-top: 2%;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    top: 30%;
+    left: 5%;
 }
+
 .clear {
- clear: both;
+    clear: both;
 }
+
 .mt3 {
- margin-top: 3%;
+    margin-top: 3%;
 }
+
 .pc_coc .link {
- display: block;
- position: absolute;
- top: 0;
- left: 0;
- width: 100%;
- height: 100%;
- z-index: 100;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
 }
+
 .page_coc_pc h2 {
- text-align: center;
- font-weight: bold;
+    text-align: center;
+    font-weight: bold;
 }
+
 .page_coc_pc p img {
- border: solid 1px #000;
+    border: solid 1px #000;
 }
-.coc_pc_content, .coc_pc_content2 {
- width: 96%;
- margin: 0 auto;
- margin-top: 5%;
- line-height: 17px;
- font-size: 12px;
+
+.coc_pc_content,
+.coc_pc_content2 {
+    width: 96%;
+    margin: 0 auto;
+    margin-top: 5%;
+    line-height: 17px;
+    font-size: 12px;
 }
+
 .flex {
- display: flex;
+    display: flex;
 }
+
 .coc_pc_images {
- width: 35%;
+    width: 35%;
 }
+
 .coc_pc_content table {
- width: 65%;
- margin-left: 2%;
+    width: 65%;
+    margin-left: 2%;
 }
+
 .coc_pc_content table th {
- width: 25%;
- vertical-align: middle;
- background-color: #000;
- color: #fff;
- text-align: center;
+    width: 25%;
+    vertical-align: middle;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
 }
+
 .coc_pc_content table td {
- width: 56%;
- vertical-align: middle;
- padding-left: 3%;
+    width: 56%;
+    vertical-align: middle;
+    padding-left: 3%;
 }
+
 .coc_pc_content2 ul {
- margin-left: 2%;
+    margin-left: 2%;
 }
+
 .coc_pc_content2 table {
- width: 100%;
- margin-top: 3%;
- margin-bottom: 3%;
- border-spacing: inherit;
+    width: 100%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    border-spacing: inherit;
 }
+
 .coc_pc_content2 table th {
- width: 17%;
- vertical-align: middle;
- background-color: #000;
- color: #fff;
- text-align: center;
- padding: 2%;
+    width: 17%;
+    vertical-align: middle;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 2%;
 }
+
 .coc_pc_content2 table td {
- width: 50%;
- vertical-align: middle;
- padding-left: 2%;
+    width: 50%;
+    vertical-align: middle;
+    padding-left: 2%;
 }
+
 .coc_pc_content2 .scenario {
- padding-top: 2%;
+    padding-top: 2%;
 }
+
 .back {
- width: 95%;
- text-align: right;
- font-size: 12px;
+    width: 95%;
+    text-align: right;
+    font-size: 12px;
 }
+
 .bg-black {
- background-color: #000;
+    background-color: #000;
 }
-.coc_pc_content2 .pc_spec th, .coc_pc_content2 .pc_spec td {
- width: auto; 
- padding: 0 2%;
- text-align: center;
- line-height: 200%;
+
+.coc_pc_content2 .pc_spec th,
+.coc_pc_content2 .pc_spec td {
+    width: auto;
+    padding: 0 2%;
+    text-align: center;
+    line-height: 200%;
 }
+
+@media screen and (max-width:699px) {
+    .page_coc_pc h2 {
+        font-size: 5vw;
+        line-height: 8vw;
+    }
+    .coc_pc_content, .coc_pc_content2 {
+        font-size: 3vw;
+        line-height: 5vw;
+    }
+    .back {
+        font-size: 3.5vw;
+    }
+}
+
 @media screen and (max-width:280px) {
- .coc_pc_content table th {
-  width: 35%;
- }
+    .coc_pc_content table th {
+        width: 35%;
+    }
+
 }
