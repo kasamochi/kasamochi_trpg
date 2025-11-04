@@ -11,7 +11,7 @@ const jsonData = [{
   "personality": "常識人、短気、直情",
   "text": "ホッケーマスクにパーカー、頭に花が通常装備。\n重い花粉症持ちで、花粉を何より憎んでいる。",
   "family": "未設定",
-  "progress": "・死ね！花粉電話（CoC改訂版）\n・T高のU子さん\n・とんねるいえ（TP）\n・The Backrooms",
+  "progress": "01：死ね！花粉電話（CoC改訂版）\n02：T高のU子さん\n03：とんねるいえ（TP）\n04：The Backrooms",
 },{
   "id": "kannnaduki-hajime",
   "image": "../images/pc-coc/kannnaduki-hajime.png",
@@ -24,7 +24,7 @@ const jsonData = [{
   "personality": "普通、格好つけ、臆病",
   "text": "整った容姿と筋肉質な体質を持つ。性格は凡庸。\n中学ではサッカー部に属していたが、脚の故障をきっかけに引退した。\n何も考えずに書く字が汚い。",
   "family": "弟 or 妹",
-  "progress": "▼18歳（高校生／オカルト部）\n・Bye-Bye Summer Days PC2\n・She Wore a Yellow Ribbon\n▼21歳（2010学生成長ルール採用）",
+  "progress": "▼18歳（高校生／オカルト部）\n01：Bye-Bye Summer Days PC2\n02：She Wore a Yellow Ribbon\n▼21歳（2010学生成長ルール採用）",
  },{
   "id": "watari-kunugi",
   "image": "../images/pc-coc/watari-kunugi.png",
@@ -37,7 +37,7 @@ const jsonData = [{
   "personality": "根暗、温厚、孤独好き",
   "text": "基本的にテンションが低くぼんやりとしている。\n「自分を大事にできなければ、他人を幸せにすることはできない」「俺は子どもとして大事に育てられたから、俺も子どもを大事にしたい」という考えを持つ。",
   "family": "両親、親戚兼幼馴染",
-  "progress": "▼22歳（大学生）\n01：知を孕む母よ\n▼23歳\n02：これは詳細を省くが結論だけ言うとお前はイヌ KPC\n03：蛾と踊る\n04：大発見！大きい！でかい！毘倶村！\n05：ぼくらの空想都市計画\n06：針の上で天使は何人踊れるか（TP）\n▼24歳\n07：ネクロノミコンを探して\n08：イラオリッシュジムへようこそ！\n09：aegis（進行中） ",
+  "progress": "▼22歳（大学生）\n01：知を孕む母よ\n▼23歳\n02：これは詳細を省くが結論だけ言うとお前はイヌ KPC\n03：蛾と踊る\n04：大発見！大きい！でかい！毘倶村！\n05：ぼくらの空想都市計画\n06：針の上で天使は何人踊れるか（TP）\n▼24歳\n07：ネクロノミコンを探して\n08：イラオリッシュジムへようこそ！\n09：aegis",
  },{
   "id": "kamatsuka-masumi",
   "image": "../images/pc-coc/kamatsuka-masumi.png",
@@ -50,7 +50,7 @@ const jsonData = [{
   "personality": "お気楽、善人、子どもっぽい",
   "text": "感情も愛情も豊か。悪く言えばうるさい。\n年上の恋人がいる。ゾッコン。おれをお婿さんにしてください。\n左腕の肘から先をなくしている。",
   "family": "両親（父は故人）、恋人",
-  "progress": "・雀も鳴かずば撃たれまい\n・パスハの卵\n・52Hzの救難信号（KPC／引退）",
+  "progress": "01：雀も鳴かずば撃たれまい\n02：パスハの卵\n03：52Hzの救難信号（KPC／引退）",
  },{
   "id": "sakai-yoshino",
   "image": "../images/pc-coc/sakai-yoshino.png",
@@ -63,7 +63,7 @@ const jsonData = [{
   "personality": "温厚、紳士的、厭世家",
   "text": "作家としてのメイン出版ジャンルは怪奇系。兼業で本屋のアルバイトや添削の仕事も行う。\n保身のために他者をできる限り遠ざけており、なるべく「ひとの記憶に残らないひと」「代わりのあるひと」でいたがっている。",
   "family": "母、きょうだい、幼馴染",
-  "progress": "▼27歳\n・最果てのレイル\n・Alter Ego-オルター・エゴ-\n・不完全なる図書館\n・WRECK\n・九頭鳥の散華 第一章 嗤う送り犬\n・九頭鳥の散華 第二章 宵闇影鰐\n・九頭鳥の散華 第三章 墜ちた鸞\n・ボトルレターの墓場から\n・九頭鳥の散華 第四章 狂狂番え鬼車\n▼28歳",
+  "progress": "▼27歳\n01：最果てのレイル\n02：Alter Ego-オルター・エゴ-\n03：不完全なる図書館\n04：WRECK\n05：九頭鳥の散華 第一章 嗤う送り犬\n06：九頭鳥の散華 第二章 宵闇影鰐\n07：九頭鳥の散華 第三章 墜ちた鸞\n08：ボトルレターの墓場から\n09：九頭鳥の散華 第四章 狂狂番え鬼車\n▼28歳",
  },{
   "id": "hijima-natsuho",
   "image": "../images/pc-coc/hijima-natsuho.png",
@@ -102,7 +102,7 @@ const jsonData = [{
   "personality": "冷静",
   "text": "元少女兵。今でも紛争地域など危険地帯に赴く。\n現在は日本に滞在。「日系アイルランド人の星原黒羽」で通している。",
   "family": "養父",
-  "progress": "・懐胎\n・やさしい朝をくださいね KPC",
+  "progress": "01：懐胎\n02：やさしい朝をくださいね KPC",
  },{
   "id": "hoshino-yotaka",
   "image": "../images/pc-coc/hoshino-yotaka.png",
@@ -115,7 +115,7 @@ const jsonData = [{
   "personality": "穏やか",
   "text": "適度ににこにこしている。悪く言えば八方美人。\n「占い師とは客に気持ちよく騙されてもらう仕事であり、嘘で人を幸せにできる」\n付き合いも良く、顔は広い。友人も多いが、第一印象は胡散臭く見られやすい。\n\n見えなくなったり手のひらから零したものも多いが、得たものもあった。",
   "family": "母（占い師）、幼馴染、同業者",
-  "progress": "▼30歳\n・星の神話、エンドロール PC1\n・深夜零時の秘め事 KPC\n・ナイトアクアリウムの怪\n・銀河鉄道の夜のような夜\n・CH-0\n▼31歳\n・戯曲グラスバレヱ 第一章「カボチャの馬車」\n・戯曲グラスバレヱ 第二章「ハシバミの木」\n・戯曲グラスバレヱ 第三章「シンデレラの舞踏会」\n・戯曲グラスバレヱ 第四章「双子の夢幻郷」\n・戯曲グラスバレヱ 第五章「ちるちるみちる」\n・戯曲グラスバレヱ 第六章「夢色ハーモニー」（引退）",
+  "progress": "▼30歳\n01：星の神話、エンドロール PC1\n02：深夜零時の秘め事 KPC\n03：ナイトアクアリウムの怪\n04：銀河鉄道の夜のような夜\n05：CH-0\n▼31歳\n06：戯曲グラスバレヱ 第一章「カボチャの馬車」\n07：戯曲グラスバレヱ 第二章「ハシバミの木」\n08：戯曲グラスバレヱ 第三章「シンデレラの舞踏会」\n09：戯曲グラスバレヱ 第四章「双子の夢幻郷」\n10：戯曲グラスバレヱ 第五章「ちるちるみちる」\n11：戯曲グラスバレヱ 第六章「夢色ハーモニー」（引退）",
  },{
   "id": "kisaragi-tsukasa",
   "image": "../images/pc-coc/kisaragi-tsukasa.png",
@@ -128,7 +128,7 @@ const jsonData = [{
   "personality": "刹那的、快楽重視、怖いもの好き",
   "text": "※久世久香様作「怪盗特徴表」採用\n\n趣味で「怪盗ダミー」という盗人をやっている。\n「盗みはしょせん犯罪だ」「法の敷かれた世界では自分はただの犯罪者だ」と自認する。",
   "family": "未設定",
-  "progress": "▼18歳\n・切なる願いは月夜に煌めく\n▼26歳\n・やさしい朝をくださいね KPC",
+  "progress": "▼18歳\n01：切なる願いは月夜に煌めく\n▼26歳\n02：やさしい朝をくださいね KPC",
  },{
   "id": "benedict-void",
   "image": "../images/pc-coc/benedict-void.png",
@@ -154,7 +154,7 @@ const jsonData = [{
   "personality": "おっとり、好奇心重視、能動的",
   "text": "視力が悪く病弱にも関わらず、散歩に出ると二時間は帰ってこない。\n創作料理に凝っている。うまくいったレシピはネット上のブログで公開している。",
   "family": "未設定",
-  "progress": "・びいどろの国\n・ホットココアとマシュマロを。\n・頭部α\n・焼き芋やっちゃん KPC",
+  "progress": "01：びいどろの国\n02：ホットココアとマシュマロを。\n03：頭部α\n04：焼き芋やっちゃん KPC",
  },{
   "id": "kusumi-haiiro",
   "image": "../images/pc-coc/kusumi-haiiro.png",
@@ -180,7 +180,7 @@ const jsonData = [{
   "personality": "素直、朗らか、たまに苛烈",
   "text": "幼少期を不安定な環境で過ごし、全方位ウニスタイルで引きこもっていた過去を持つ。\n警察とのコネを持っており、対サイバー犯罪の協力者として手を貸すときがある。",
   "family": "実母（疎遠）、実父（拒絶）、義弟兼従弟、養母（叔母）",
-  "progress": "・？？？\n・お酒こわい\n・これは詳細を省くが結論だけ言うとお前はイヌ\n・蒼々サイレン KPC\n・俺の注文したオムライスが動いてるんだが\n・Dream Box KPC\n・黄身と蜂蜜",
+  "progress": "01：？？？\n02：お酒こわい\n03：これは詳細を省くが結論だけ言うとお前はイヌ\n04：蒼々サイレン KPC\n05：俺の注文したオムライスが動いてるんだが\n06：Dream Box KPC\n07：黄身と蜂蜜",
  },{
   "id": "ryuuko-mitsu",
   "image": "../images/pc-coc/ryuuko-mitsu.png",
@@ -193,7 +193,7 @@ const jsonData = [{
   "personality": "冷静沈着、隠れ熱血漢",
   "text": "元警官の母親に憧れて警察官の道を志す。第二希望は体育教師。\n分からないことがあるとついついきょうだいに訊く癖がある。",
   "family": "父母（父は故人）、義父、きょうだい",
-  "progress": "・？？？\n▼（2010学生成長ルール採用）\n・傀逅",
+  "progress": "01：？？？\n▼（2010学生成長ルール採用）\n02：傀逅",
  },{
   "id": "satou-himari",
   "image": "../images/pc-coc/satou-himari.png",
@@ -206,7 +206,7 @@ const jsonData = [{
   "personality": "自信家、見栄っ張り、自分好き",
   "text": "実家が金持ちの御曹司。\n世話係や友達から「かわいい」といわれ育ったため、自らを「かわいい」と思っている。",
   "family": "両親、執事、義兄",
-  "progress": "・豪華客船と怪盗団\n・気づいたらしんでた KPC",
+  "progress": "01：豪華客船と怪盗団\n02：気づいたらしんでた KPC",
  },{
   "id": "sasaki-masaki",
   "image": "../images/pc-coc/sasaki-masaki.png",
@@ -219,7 +219,7 @@ const jsonData = [{
   "personality": "陽気、人懐こい",
   "text": "育ちの良い元不良。ケンカもしていたが素行が常識人なので、周囲を困惑させていた。\n就職後無茶をし負傷、以降足に機能性障害を負う。\n『風の落とし子』を先祖に持ち、微弱ながら隔世遺伝が発現している。",
   "family": "両親、弟、妹、恩人、同期、後輩",
-  "progress": "▼32歳\n・庭師は何を口遊む HO1\n・アステールの海に手向けを\n・最果てのベリーメリークリスマス\n▼33歳\n・これは詳細を省くが 結論だけ言うと お前はイヌ KPC\n・腐臭地下\n・オパールを分割したならば KPC\n・微睡む君に花は降る\n・キの字のきのこに気をつけて\n・A_\n・蝶と花と監禁術 KPC\n・MACH SPEED BARRETT\n・目が覚めたら部屋の窓にドラゴンが突っ込んできた KPC\n・焼き芋やっちゃん KPC\n・目が覚めたら部屋の窓にドラゴンが突っ込んできた KPC\n・真夏の凍死体\n・７匹のもちもち神話〜KPCが神話の力で７匹のもちもちな二頭身になった件〜",
+  "progress": "▼32歳\n01：庭師は何を口遊む HO1\n02：アステールの海に手向けを\n03：最果てのベリーメリークリスマス\n▼33歳\n04：これは詳細を省くが 結論だけ言うと お前はイヌ KPC\n05：腐臭地下\n06：オパールを分割したならば KPC\n07：微睡む君に花は降る\n08：キの字のきのこに気をつけて\n09：A_\n10：蝶と花と監禁術 KPC\n11：MACH SPEED BARRETT\n12：目が覚めたら部屋の窓にドラゴンが突っ込んできた KPC\n13：焼き芋やっちゃん KPC\n14：目が覚めたら部屋の窓にドラゴンが突っ込んできた KPC\n15：真夏の凍死体\n16：７匹のもちもち神話〜KPCが神話の力で７匹のもちもちな二頭身になった件〜",
  },{
   "id": "iemori-chii",
   "image": "../images/pc-coc/iemori-chii.png",
@@ -232,7 +232,7 @@ const jsonData = [{
   "personality": "排他的、天邪鬼、不愛想、人嫌い",
   "text": "母方の系譜が「イタクァの子ら」の血を引く。\nかつては風俗で稼いでいたが、客とトラブルを起こし正当防衛とはいえ殺人を犯した。",
   "family": "未設定",
-  "progress": "・怪物たちのララバイ\n・まんだらかばら",
+  "progress": "01：怪物たちのララバイ\n02：まんだらかばら",
  },{
   "id": "mako-nishiki",
   "image": "../images/pc-coc/mako-nishiki.png",
@@ -258,7 +258,7 @@ const jsonData = [{
   "personality": "善人、天邪鬼、苦労人",
   "text": "身内を治すため医者になった。\n兄にコンプレックスと苦手意識がある。",
   "family": "両親、兄、妹、同級生兼友人",
-  "progress": "▼29歳\n・空中ブランコ乗りのエリー\n・ヒポクラテスの渋難\n・君と世界の形 第二話 君と駆け抜ける非日常の形\n・三千世界のあなたを殺し、今宵二人で踊りたい\n▼30歳\n・かたく 縛られ 殉情\n・これは詳細を省くが結論だけ言うとお前はイヌKPC\n・はちみつ色のレコード",
+  "progress": "▼29歳\n01：空中ブランコ乗りのエリー\n02：ヒポクラテスの渋難\n03：君と世界の形 第二話 君と駆け抜ける非日常の形\n04：三千世界のあなたを殺し、今宵二人で踊りたい\n▼30歳\n05：かたく 縛られ 殉情\n06：これは詳細を省くが結論だけ言うとお前はイヌKPC\n07：はちみつ色のレコード",
  },{
   "id": "kotobuki-misaki",
   "image": "../images/pc-coc/kotobuki-misaki.png",
@@ -271,7 +271,7 @@ const jsonData = [{
   "personality": "一匹狼、朴念仁",
   "text": "人肌や温かい生き物が苦手。\n休日は愛車を走らせ、星空の下で単身ぼんやりと夜を明かす。",
   "family": "未設定",
-  "progress": "▼28歳\n・深夜零時の秘め事。\n・やさしい朝をくださいね\n・稲妻のように燃えて寄せ\n・月夜に捧ぐ胸臆\n・夜半の口寄せ\n・君と世界の形 第二話 君と駆け抜ける非日常の形\n▼30歳\n・獣も斯くや",
+  "progress": "▼28歳\n01：深夜零時の秘め事。\n02：やさしい朝をくださいね\n03：稲妻のように燃えて寄せ\n04：月夜に捧ぐ胸臆\n05：夜半の口寄せ\n06：君と世界の形 第二話 君と駆け抜ける非日常の形\n▼30歳\n07：獣も斯くや",
  },{
   "id": "kunikida-makibi",
   "image": "../images/pc-coc/kunikida-makibi.png",
@@ -297,7 +297,7 @@ const jsonData = [{
   "personality": "堅実、たまにズルい",
   "text": "学生時代、書類上の成績では及第点以上を叩き出していた優等生。\n以前は恋人もいたが、仕事であまり構えなくなり関係を絶った。",
   "family": "先輩",
-  "progress": "・感染自罪のモンタージュ\n・protogear-プロトギア- HO1",
+  "progress": "01：感染自罪のモンタージュ\n02：protogear-プロトギア- HO1",
  },{
   "id": "kasugame-junpei",
   "image": "../images/pc-coc/kasugame-junpei.png",
@@ -310,7 +310,7 @@ const jsonData = [{
   "personality": "共感下手、気長",
   "text": "かつては医師を志していた。\n共感下手だからこそなるべく人の隣にいたい、と思っている。",
   "family": "両親（離婚済）、きょうだい",
-  "progress": "・掌中テアトル\n・やさしい朝をくださいね KPC",
+  "progress": "01：掌中テアトル\n02：やさしい朝をくださいね KPC",
  },{
   "id": "musubi-mirai",
   "image": "../images/pc-coc/musubi-mirai.png",
@@ -323,7 +323,7 @@ const jsonData = [{
   "personality": "愛情表現豊か、博愛",
   "text": "幼少期に両親を失い、親戚の家を転々とした末に児童養護施設に預けられ育った。\n愛情表現豊かな一方で博愛のきらいがある。",
   "family": "きょうだい",
-  "progress": "・？？？\n・？？？\n・ムーンエラーアウトサイダー HO3",
+  "progress": "01：？？？\n02：？？？\n03：ムーンエラーアウトサイダー HO3",
  },{
   "id": "mirare",
   "image": "../images/pc-coc/mirare.png",
@@ -336,7 +336,7 @@ const jsonData = [{
   "personality": "素直",
   "text": "身体を動かすのが苦手。自己分析も苦手。ほかにも自覚していない苦手がたくさんある。\nきなものや嫌いなものはまだ分からない。",
   "family": "未設定",
-  "progress": "・デウス・エクス・マキナは死んだ HO1\n・？？？",
+  "progress": "01：デウス・エクス・マキナは死んだ HO1\n02：？？？",
  },{
   "id": "azuma-kazuharu",
   "image": "../images/pc-coc/azuma-kazuharu.png",
@@ -349,7 +349,7 @@ const jsonData = [{
   "personality": "お人よし",
   "text": "教室では特に目立たない静かな生徒だが、話しかけると存外明るい。\n将来は医師になりたいようだが、進学先を決めかねている。",
   "family": "未設定",
-  "progress": "・君と世界の形 第1話 君と過ごす幸せの形\n・？？？（引退）",
+  "progress": "01：君と世界の形 第1話 君と過ごす幸せの形\n02：？？？（引退）",
  },{
   "id": "theothestar",
   "image": "../images/pc-coc/theothestar.png",
@@ -362,7 +362,7 @@ const jsonData = [{
   "personality": "柔和、幼稚",
   "text": "人命を人命と思わぬ合理的な決断力に長ける。\n執着というものに軽薄な穏やか～ふらふら～な人慣れした野良猫気質。\n一見は話しやすい賢人だが、刹那的な面がある。他者の感情の機敏に疎い。",
   "family": "未設定",
-  "progress": "・蹂躙するは我が手にて HO3（2XXX年／第三次世界大戦終了後／近未来）\n・蝶と花と監禁術 KPC\n・お、捨てKPCだ。可哀想に…\n・君のためのヒポクリシー",
+  "progress": "01：蹂躙するは我が手にて HO3（2XXX年／第三次世界大戦終了後／近未来）\n02：蝶と花と監禁術 KPC\n03：お、捨てKPCだ。可哀想に…\n04：君のためのヒポクリシー",
  },{
   "id": "theodore-stuart",
   "image": "../images/pc-coc/theodore-stuart.png",
@@ -401,7 +401,7 @@ const jsonData = [{
   "personality": "気だるげ、マイペース、愛想笑い多め",
   "text": "「とりあえず適当に行けるとこまで行ってみるか」な気分で警察に就職し出世し今に至る。\n何事も適度に適当にこなし受け止め流す半端者。ことなかれ重視の面倒くさがり。",
   "family": "動機、後輩",
-  "progress": "・金糸雀の欠伸HO2\n・崩れたケーキで生きを死体 HO花婿\n・ワンルームナイトメア\n・焼き芋やっちゃん KPC\n・RE：方向音痴\n・Dream Box KPC",
+  "progress": "01：金糸雀の欠伸HO2\n02：崩れたケーキで生きを死体 HO花婿\n03：ワンルームナイトメア\n04：焼き芋やっちゃん KPC\n05：RE：方向音痴\n06：Dream Box KPC",
  },{
   "id": "madake-ban",
   "image": "../images/pc-coc/madake-ban.png",
@@ -414,7 +414,7 @@ const jsonData = [{
   "personality": "正義感が強い、短気、喧嘩っ早い",
   "text": "元刑事。\n義理堅いが悪く言うと子供っぽく、四十路になっても威厳がない。\n精密機械が苦手。",
   "family": "未設定",
-  "progress": "・縁罪連鎖 HO1\n・スモーキンバラッド",
+  "progress": "01：縁罪連鎖 HO1\n02：スモーキンバラッド",
  },{
   "id": "watami-ime",
   "image": "../images/pc-coc/watami-ime.png",
@@ -427,7 +427,7 @@ const jsonData = [{
   "personality": "好奇心重視、身内に甘い",
   "text": "元精神科医のイス人。\n人体を得て20年以上になるにも関わらず、体を動かすのが下手。\n性格はのんびりやのマイペース。ある程度の協調性はあるが、他人には基本無関心。とはいえ人間の「愛着」には理解を示している。\n\nWhat am i？――I am me.",
   "family": "未設定",
-  "progress": "▼27歳\n・秘密と内証\n▼31歳\n・咆哮エトランゼ HO2／ラプンツェル",
+  "progress": "▼27歳\n01：秘密と内証\n▼31歳\n02：咆哮エトランゼ HO2／ラプンツェル",
  },{
   "id": "shinomae-yugo",
   "image": "../images/pc-coc/shinomae-yugo.png",
@@ -466,7 +466,7 @@ const jsonData = [{
   "personality": "感情豊か、きっぱり、やや攻撃的",
   "text": "地方出身。大学進学と同時に幼馴染とともに上京し、同居していた。\n机の上に青いハーバリウム、ベッドの上に間抜けな顔をした柴犬の抱き枕を置いている。",
   "family": "幼馴染（故人）",
-  "progress": "・キルキルイキル\n・腐乱腐乱",
+  "progress": "01：キルキルイキル\n02：腐乱腐乱",
  },{
   "id": "oribe-shijima",
   "image": "../images/pc-coc/oribe-shijima.png",
@@ -479,7 +479,7 @@ const jsonData = [{
   "personality": "明朗、気分屋、刹那的、マイペース",
   "text": "『ベネディクト探偵事務所』の所長。\n出生地はイギリスだが幼児の頃に国籍を日本へ移している。",
   "family": "両親、先祖",
-  "progress": "・虚星落つ\n・相食むる豚\n・死生館迷宮事件 HO2\n・同窓会",
+  "progress": "01：虚星落つ\n02：相食むる豚\n03：死生館迷宮事件 HO2\n04：同窓会",
  },{
   "id": "hanare-naname",
   "image": "../images/pc-coc/hanare-naname.png",
@@ -492,7 +492,7 @@ const jsonData = [{
   "personality": "面倒くさがり、世話焼き、天邪鬼",
   "text": "むかしは明るく遊び好きだったようで、今でも時折その面が顔の覗かせる。\nツーリング用にバイクの免許を取る程度にアグレッシブ。愛車はホーネット250。親戚のお古。",
   "family": "未設定",
-  "progress": "▼17歳\n・魔法少女希望譚 HO2\n・異婚チケット\n▼18歳\n・WiCCa",
+  "progress": "▼17歳\n01：魔法少女希望譚 HO2\n02：異婚チケット\n▼18歳\n03：WiCCa",
  },{
   "id": "oscar-burton",
   "image": "../images/pc-coc/oscar-burton.png",
@@ -531,7 +531,7 @@ const jsonData = [{
   "personality": "自堕落、投げやり",
   "text": "バツイチ。小説のネタのために結婚して子どもを産むような倫理観の持ち主。\n右足が義肢。本人はむかし野良犬にくれてやったというが、真偽は定かではない。\n家事代行サービスに寄りかかっている。唯一ペットの猫の世話だけはしている。",
   "family": "元旦那、息子",
-  "progress": "・旅館の捕食者 HO2\n・桜狂わば胎の中",
+  "progress": "01：旅館の捕食者 HO2\n02：桜狂わば胎の中",
  },{
   "id": "onimaru-mio",
   "image": "../images/pc-coc/onimaru-mio.png",
@@ -544,7 +544,7 @@ const jsonData = [{
   "personality": "寡黙、口下手、不愛想",
   "text": "うまく伝えられない場合はぎこちない手ぶりが入るのですぐわかる。\n何を考えているか分からないと思われがちだが、存外何も考えていない。",
   "family": "未設定",
-  "progress": "・変身（1920帝都）\n・鏡鬼\n・カーテンフォール（24歳時／1916帝都）",
+  "progress": "01：変身（1920帝都）\n02：鏡鬼\n03：カーテンフォール（24歳時／1916帝都）",
  },{
   "id": "shirayuki-chika",
   "image": "../images/pc-coc/shirayuki-chika.png",
@@ -557,7 +557,7 @@ const jsonData = [{
   "personality": "ある程度従順、大人びている",
   "text": "気の置けない相手には子どもらしい挙動を見せる。またこうと決めたときには強気に出る。\n義父から虐待を受け母親と妹を守っていた。これがきっかけで家族とは離れて暮らしている。",
   "family": "両親と妹（絶縁）、保護者",
-  "progress": "▼12歳\n・？？？\n・焼き芋やっちゃん KPC\n▼13歳\n・きみとぼくのステラ 第一幕「だれかの願いが叶うとき」\n・きみとぼくのステラ 第二幕「ペレト・エム・ヘルゥ」\n・きみとぼくのステラ 第三幕「きみの願いと星の夢」",
+  "progress": "▼12歳\n01：？？？\n02：焼き芋やっちゃん KPC\n▼13歳\n03：きみとぼくのステラ 第一幕「だれかの願いが叶うとき」\n04：きみとぼくのステラ 第二幕「ペレト・エム・ヘルゥ」\n05：きみとぼくのステラ 第三幕「きみの願いと星の夢」",
  },{
   "id": "morgan-gardner",
   "image": "../images/pc-coc/morgan-gardner.png",
@@ -583,7 +583,7 @@ const jsonData = [{
   "personality": "常識人、虚栄的、臆病",
   "text": "『シェイド』という喫茶店のウェイター。\n自分を強気に見せるため不良っぽい物言いを意識している。\n高名なレストランに就職したが、パワハラから心因性味覚障害と強迫性障害を発症し退職した。",
   "family": "幼馴染（故人）",
-  "progress": "▼33歳\n・沼男は誰だ？HO4\n・ワンちゃんはここにいる。 KPC\n▼34歳",
+  "progress": "▼33歳\n01：沼男は誰だ？HO4\n02：ワンちゃんはここにいる。 KPC\n▼34歳",
  },{
   "id": "kurogane-makina",
   "image": "../images/pc-coc/kurogane-makina.png",
@@ -622,7 +622,7 @@ const jsonData = [{
   "personality": "愉快寄り、いたずら好き",
   "text": "学校では高嶺の花、と遠巻きにされがち。\n誤解を恐れずにいうのなら「暴力が好き」。\n本音をいえば両親がいた頃に触ったことのあるピアノを学んでみたかったが、卒業後は就職を考えている。",
   "family": "両親、養父",
-  "progress": "・ファミリー・マグショット HO2\n・夜に栞す",
+  "progress": "01：ファミリー・マグショット HO2\n02：夜に栞す",
  },{
   "id": "meguro-kikyou",
   "image": "../images/pc-coc/meguro-kikyou.png",
@@ -661,7 +661,7 @@ const jsonData = [{
   "personality": "物腰丁寧、人嫌い",
   "text": "ペンギンを模した作業服をまとう。\n愛称は『ペンギン』だが時には『雨夜ルィン（あまや-）』と名乗る。\nかつての戸籍にあった名は『鵲朔（かささぎ・さく）』",
   "family": "未設定",
-  "progress": "・月面世界（2069年）\n・Call the Name of Your Fate",
+  "progress": "01：月面世界（2069年）\n02：Call the Name of Your Fate",
  },{
   "id": "victor-applebee",
   "image": "../images/pc-coc/victor-applebee.png",
@@ -700,7 +700,7 @@ const jsonData = [{
   "personality": "親切、柔和",
   "text": "『鵲晃』という人間のクローンで、天涯孤独。\n出自は非倫理的だが、戸籍を筆頭にある程度の財産は保有している。",
   "family": "鵲晃（複製元）",
-  "progress": "・同じ他人\n・常夜聖戦 1話「種、または生の起源」\n・常夜聖戦 3話「犬小屋島」",
+  "progress": "01：同じ他人\n02：常夜聖戦 1話「種、または生の起源」\n03：常夜聖戦 3話「犬小屋島」",
  },{
   "id": "matsuyuki-oriduru",
   "image": "../images/pc-coc/matsuyuki-oriduru.png",
@@ -726,7 +726,7 @@ const jsonData = [{
   "personality": "口下手、正義感が強い、照れ屋",
   "text": "愛称は『ゆう』。\n子どもの頃の自分が両親に頻繁に気を揉み振り回された経歴を反面教師に、家族にはなるべく穏やかでいてほしいと思っている。",
   "family": "両親（離婚済）、妻、息子、娘",
-  "progress": "・とある幸せな家族の話 HO1\n・INSIDE MYTH PC2",
+  "progress": "01：とある幸せな家族の話 HO1\n02：INSIDE MYTH PC2",
  },{
   "id": "wolfgang-falck",
   "image": "../images/pc-coc/wolfgang-falck.png",
@@ -752,7 +752,7 @@ const jsonData = [{
   "personality": "無機質、ひよこ気質",
   "text": "自分（機械）の代わりの労働力はいくらでもあると本気で思っているが、一方でコストパフォーマンスを考え自分を大事に扱う。\n新型VOIDに加え全体的なスペックも高く、旧型VOIDや署内の人間のひんしゅくを買っている。",
   "family": "相棒、同僚",
-  "progress": "・VOID HO2（2050年）\n・ルルイエ館殺蛸事件",
+  "progress": "01：VOID HO2（2050年）\n02：ルルイエ館殺蛸事件",
  },{
   "id": "kimikage-ito",
   "image": "../images/pc-coc/kimikage-ito.png",
@@ -804,7 +804,7 @@ const jsonData = [{
   "personality": "前向き、温厚、競争が苦手",
   "text": "気さくでたおやか。人当たりはいいものの、気遣いをしがちなのでしばしば胃痛に苛まれている。いってしまえばお人よし。",
   "family": "未設定",
-  "progress": "・インビジブルの慟哭 HO2\n・静寂の声\n・殺していいのは呼吸だけ（ロスト）",
+  "progress": "01：インビジブルの慟哭 HO2\n02：静寂の声\n03：殺していいのは呼吸だけ（ロスト）",
  },{
   "id": "mokumoku",
   "image": "../images/pc-coc/mokumoku.png",
@@ -817,7 +817,7 @@ const jsonData = [{
   "personality": "人懐こい、優しい、献身的",
   "text": "「火のあるところにごきげんよう、もくもくです！」\n素直だがたまに不穏。\n職場の先輩を「かみさま」と呼び、懐いている。",
   "family": "両親、先輩",
-  "progress": "・ようこそ！迷冥市役所都市伝説課へ！ HO2\n・さよならを言いにきた –東京境界防衛戦–",
+  "progress": "01：ようこそ！迷冥市役所都市伝説課へ！ HO2\n02：さよならを言いにきた –東京境界防衛戦–",
  },{
   "id": "matsuyuki-aduki",
   "image": "../images/pc-coc/matsuyuki-aduki.png",
@@ -856,7 +856,7 @@ const jsonData = [{
   "personality": "楽観的、一匹狼",
   "text": "物事を「自分にとって気持ちがいいか」で判断するが、理性と常識があるのでセーブはする。\n頼みごとをしたいときは風呂グッズ、香水や服飾品、高い酒で買収できる。\n表では『真神冴（まかみ・さえ）』と名乗り、便利屋を営んでいる。",
   "family": "未設定",
-  "progress": "・かいぶつたちとマホラカルト HO1\n・無辜なきかいぶつたちのカオス\n・The Hog Game",
+  "progress": "01：かいぶつたちとマホラカルト HO1\n02：無辜なきかいぶつたちのカオス\n03：The Hog Game",
  },{
   "id": "kotobuki-ibuki",
   "image": "../images/pc-coc/kotobuki-ibuki.png",
@@ -869,7 +869,7 @@ const jsonData = [{
   "personality": "劣等感、天邪鬼",
   "text": "両親に焦がれて医者志望であったが、進路を上手く運べず薬剤師として就職。\n職業客には柔らかな態度を取るが、オフでは触れるものみな傷つけるナイフ状態。",
   "family": "未設定",
-  "progress": "・毒林檎より愛を秘めて\n・Undo",
+  "progress": "01：毒林檎より愛を秘めて\n02：Undo",
  },{
   "id": "haruna-kanoko",
   "image": "../images/pc-coc/haruna-kanoko.png",
@@ -882,7 +882,7 @@ const jsonData = [{
   "personality": "親切、物腰丁寧",
   "text": "『紅葉堂（もみじどう）』という小さな占い店の店主。\n相談内容毎に適した業者や人の紹介も行っている。相談屋としての儲けが多い。\n「占い師は、自分の経験がなくては成り立たない」と思想を持っており、好奇心は旺盛。",
   "family": "両親、弟、友人、同業者",
-  "progress": "・見果ての綸紡 HO4\n・Dream Box KPC",
+  "progress": "01：見果ての綸紡 HO4\n02：Dream Box KPC",
  },{
   "id": "shiokane-yorodu",
   "image": "../images/pc-coc/shiokane-yorodu.png",
@@ -908,7 +908,7 @@ const jsonData = [{
   "personality": "楽観的、世話焼き",
   "text": "困っている人を放っておけない性格。顔見知りやツテが多く、何かと頼られがち。\n探偵としては観光業の陰を主な舞台としている。\nかつて観光地で起きた殺傷事件に巻き込まれ、臨死を体験したことがある。",
   "family": "未設定",
-  "progress": "・二星座館殺人事件 HO双子座\n・君のためのヒポクリシー KPC（ロスト）\n・fifty-one:ergs（復帰）",
+  "progress": "01：二星座館殺人事件 HO双子座\n02：君のためのヒポクリシー KPC（ロスト）\n03：fifty-one:ergs（復帰）",
  },{
   "id": "asukaze-asuka",
   "image": "../images/pc-coc/asukaze-asuka.png",
@@ -921,7 +921,7 @@ const jsonData = [{
   "personality": "軽薄、表情豊か、笑い声が大きい",
   "text": "デスク上には彼女の落ちこぼれっぷりを指し示す不真面目な折り紙や紙飛行機が散見される。\n両親は離婚しており、顔もよく知らない親戚の家を転々としながら育った。",
   "family": "両親（離婚済）",
-  "progress": "・快刀乱魔 HO3\n・シルバーバレットは不死の夢を見るか？ PC1",
+  "progress": "01：快刀乱魔 HO3\n02：シルバーバレットは不死の夢を見るか？ PC1",
  },{
   "id": "yaguruma-aiba",
   "image": "../images/pc-coc/yaguruma-aiba.png",
@@ -934,7 +934,7 @@ const jsonData = [{
   "personality": "人懐こい、楽観的",
   "text": "第一印象で誤解を受けやすく、また変人と見られやすい常識人である。\n美術館の絵画を非常に大切に扱っており、勤務の姿勢も丁寧。",
   "family": "同僚（故人）",
-  "progress": "・ピリオド・アズール HO1\n・ポイエシスの墓守\n・小鳥は宇宙で息をする",
+  "progress": "01：ピリオド・アズール HO1\n02：ポイエシスの墓守\n03：小鳥は宇宙で息をする",
  },{
   "id": "flora-applebee",
   "image": "../images/pc-coc/flora-applebee.png",
@@ -973,7 +973,7 @@ const jsonData = [{
   "personality": "根明、人懐こい、反射で動く",
   "text": "家は車整備工場。\n冷静で頼りがいのある大人を夢見ているが程遠い。",
   "family": "未設定",
-  "progress": "・君待つ明日に僕はいない KPC\n・おまえがぬいぐるみになったってマジ？？\n・コフェア・サナトリウムの安息",
+  "progress": "01：君待つ明日に僕はいない KPC\n02：おまえがぬいぐるみになったってマジ？？\n03：コフェア・サナトリウムの安息",
  },{
   "id": "thomas-viola",
   "image": "../images/pc-coc/thomas-viola.png",
@@ -1012,7 +1012,7 @@ const jsonData = [{
   "personality": "真面目、おっとり、保身重視",
   "text": "考古学・民俗学主専攻。素直で夢見がち。\n考古学と民俗学が主専攻なのは、「現代では遠い冒険に擬似的にでも触れる」ため。",
   "family": "友人",
-  "progress": "・じょはり\n・スーサイデッドメアリンク",
+  "progress": "01：じょはり\n02：スーサイデッドメアリンク",
  },{
   "id": "shizuku-beni",
   "image": "../images/pc-coc/shizuku-beni.png",
@@ -1051,7 +1051,7 @@ const jsonData = [{
   "personality": "明朗快活",
   "text": "元気だけが取り柄の船舶整備士（整備専門）の少女。\n勉強熱心であるにも関わらず何をしても不器用で、とろとろしている。\n趣味はドライブ。",
   "family": "監視者の天使",
-  "progress": "・原罪の国\n・王子は僕と世界を騙る",
+  "progress": "01：原罪の国\n02：王子は僕と世界を騙る",
  },{
   "id": "iemori-nemu",
   "image": "../images/pc-coc/iemori-nemu.png",
@@ -1077,7 +1077,7 @@ const jsonData = [{
   "personality": "面食い、人懐こい、常識人",
   "text": "超高校級の『魔法使い』。\n気に入った相手には「結婚しよ」とすぐ結婚を申し込む。",
   "family": "未設定",
-  "progress": "・Zodiac school HO未\n・潜入!?入信!?カルト教団ネティコヤァン",
+  "progress": "01：Zodiac school HO未\n02：潜入!?入信!?カルト教団ネティコヤァン",
  },{
   "id": "gotou-hibari",
   "image": "../images/pc-coc/gotou-hibari.png",
@@ -1090,7 +1090,7 @@ const jsonData = [{
   "personality": "お気楽、友好的、気怠げ",
   "text": "自然主義的な思想の持ち主であり、人間に無関心気味。基本的に冷静かつ寛容。\n自分と他者のズレを自覚しており、普段は軋轢を避けて周りに合わせている。\n小～中学時代は剣舞道場に通っていた。",
   "family": "両親、祖父母、親戚",
-  "progress": "・私立花ヶ丘高校秘密倶楽部 HO12\n・廻想する夜話 KPC\n・目目目目\n・呪われてるのはお前だろ！！",
+  "progress": "01：私立花ヶ丘高校秘密倶楽部 HO12\n02：廻想する夜話 KPC\n03：目目目目\n04：呪われてるのはお前だろ！！",
  },{
   "id": "hodumi-arata",
   "image": "../images/pc-coc/hodumi-arata.png",
@@ -1103,7 +1103,7 @@ const jsonData = [{
   "personality": "物腰柔らか、物分かりが良い",
   "text": "幼少期から引っ越し続きで希薄な人間関係ばかりだった。反抗期も未通過。\n学生時代は唯一愛犬のみを親しむ日々を送っていた。",
   "family": "弟",
-  "progress": "▼25歳\n・やさしい朝をくださいね KPC\n▼27歳\n・ウィンチェスター黙示録 第1話 「人殺しの家」\n・ウィンチェスター黙示録 第2話 「被害者の庭」\n・ウィンチェスター黙示録 第3話 「容疑者の塔」\n・ウィンチェスター黙示録 第4話 「彼の星」",
+  "progress": "▼25歳\n01：やさしい朝をくださいね KPC\n▼27歳\n02：ウィンチェスター黙示録 第1話 「人殺しの家」\n03：ウィンチェスター黙示録 第2話 「被害者の庭」\n04：ウィンチェスター黙示録 第3話 「容疑者の塔」\n05：ウィンチェスター黙示録 第4話 「彼の星」",
  },{
   "id": "un",
   "image": "../images/pc-coc/un.png",
@@ -1129,7 +1129,7 @@ const jsonData = [{
   "personality": "のどやか、好々爺、子どもっぽい",
   "text": "吸血鬼。\n住所は持っているがあまり帰っておらず、正体を秘匿するため定期的に引っ越している。ホテル暮らしの時期もある。\n現在の稼ぎは主に不動産の不労所得と資産運用で得ている。",
   "family": "",
-  "progress": "・吸血鬼と椅子 KPC\n・かみさまのいうとおり\n・吸血鬼とブラックレター KPC",
+  "progress": "01：吸血鬼と椅子 KPC\n02：かみさまのいうとおり\n03：吸血鬼とブラックレター KPC",
  },{
   "id": "hoshino-fukurou",
   "image": "../images/pc-coc/hoshino-fukurou.png",
@@ -1155,7 +1155,7 @@ const jsonData = [{
   "personality": "明るい、落ち着いている",
   "text": "人好きをし、人といるとよく話す。\n表に出すことはあまりないが繊細で神経質な部分も多く、とりわけ大音や暴力は苦手。\n得意料理はシチューとグラタン。",
   "family": "未設定",
-  "progress": "・Panacea.Cry.Sentence HO2\n・The Backrooms",
+  "progress": "01：Panacea.Cry.Sentence HO2\n02：The Backrooms",
  },{
   "id": "oribe-rikumune",
   "image": "../images/pc-coc/oribe-rikumune.png",
@@ -1246,7 +1246,7 @@ const jsonData = [{
   "personality": "大人しい、ガラが悪い、たまに不穏",
   "text": "生まれはやくざの家で、頭の妾の子としてだが大事にされて育った。\n加齢につれて「かたぎとして生きたい」という思いが強くなり、成人と同時に組及び父親と円満に絶縁。\n擬似的な天涯孤独となり、独立して今に至る。",
   "family": "家族（絶縁済）",
-  "progress": "・初恋性ストックホルム症候群 KPC\n・AND/HAND\n・君が夜を終わらせて KPC\n・理不尽sermarie",
+  "progress": "01：初恋性ストックホルム症候群 KPC\n02：AND/HAND\n03：君が夜を終わらせて KPC\n04：理不尽sermarie",
  },{
   "id": "mizumi-mizuka",
   "image": "../images/pc-coc/mizumi-mizuka.png",
@@ -1272,7 +1272,7 @@ const jsonData = [{
   "personality": "真面目、冷静、人懐こい",
   "text": "個人で小さな事務所を切り盛りしている。\n仕事に関しては、夜中になっても単身で調査をしていることもある。\nスケッチと杖術、読書が趣味で、人と話すのも好き。",
   "family": "未設定",
-  "progress": "・誰が袖に花苑 HO探偵（TP）\n・帝都に咲く悪の影（TP）",
+  "progress": "01：誰が袖に花苑 HO探偵（TP）\n02：帝都に咲く悪の影（TP）",
  },{
   "id": "hirono-romi",
   "image": "../images/pc-coc/hirono-romi.png",
@@ -1337,7 +1337,7 @@ const jsonData = [{
   "personality": "のびのび、甘え上手、愛情豊か",
   "text": "のびのびした性格。しっかりしている一方で甘え上手、愛情豊か。ちゃっかりしていてスルーも上手。\n仕事に対しては真面目だが、職場は男が多いので、舐められないよう強気に出ている。\n生活のため金を安定して稼ごうと今の職についたので、出世欲がない。",
   "family": "母親、祖父母、双子の弟、姉",
-  "progress": "・7/GHOST IN THE SPINE\n・ワンちゃんはここにいる。",
+  "progress": "01：7/GHOST IN THE SPINE\n02：ワンちゃんはここにいる。",
  },{
   "id": "coco-improm",
   "image": "../images/pc-coc/coco-improm.png",
@@ -1350,7 +1350,7 @@ const jsonData = [{
   "personality": "柔らか、社交的",
   "text": "比較神話学から日本語とその文化に興味を持ち、日本へ留学している。\n日本で暮らすうちにとりわけ食文化に強く惹かれており、最近は駄菓子にハマっている。\n食文化に夢中な側面がたいへん強いが天文学にももちろん真面目に取り組んでおり、将来の夢は「まだ見ぬ星を見つけ、名前を付けること」である。",
   "family": "未設定",
-  "progress": "・動かぬ方舟 KPC\n・サイモン・スタンホープの研究 KPC\n・万物館の謎",
+  "progress": "01：動かぬ方舟 KPC\n02：サイモン・スタンホープの研究 KPC\n03：万物館の謎",
  },{
   "id": "watari-kaname",
   "image": "../images/pc-coc/watari-kaname.png",
@@ -1363,20 +1363,20 @@ const jsonData = [{
   "personality": "八方美人、若干天邪鬼、臆病",
   "text": "両親共働きの一般家庭で過不足なく育った。\n行動基準は保身重視だが、根が真面目、かつ善人なのと心身ともに健康でいたいので、「明日の自分が息をしやすく、気楽でいられるように」をモットーに過ごしている。\n自己評価は低めの一方で、精神状態は全体的に健やか。",
   "family": "両親",
-  "progress": "・白いふわふわの犬\n・人狼たちと納骨堂の王",
+  "progress": "01：白いふわふわの犬\n02：人狼たちと納骨堂の王",
  },{
   "id": "an",
   "image": "../images/pc-coc/an.png",
-  "name": "？？？",
-  "name_read": "？？？",
+  "name": "アン",
+  "name_read": "An",
   "sex": "女",
-  "age": "？？？",
+  "age": "18",
   "job": "-",
   "features": "-",
   "personality": "実直、素直、マイペース",
   "text": "協調性はあるが、時代柄、有事の際は自分を優先する。一方で心身の疲労や痛みが嫌いなので、毎日を斜に構えないよう努めて過ごしている。",
   "family": "双子のきょうだい（故人）",
-  "progress": "・ほしの心臓 HO2（予定）",
+  "progress": "・ほしの心臓 HO2",
  },{
   "id": "",
   "image": "../images/pc-coc/.png",
