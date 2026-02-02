@@ -4,7 +4,7 @@
     "name": "祝剛",
     "name_kana": "Juk Gāng",
     "image": "juk_gang.png",
-    "origin": "1982年香港",
+    "origin": "1982年",
     "age": 62,
     "job": "警備員",
     "last_active": 2026,
@@ -41,15 +41,19 @@
     ],
     "description": "漁村生まれ男所帯育ち。定年で漁師を退職後は、商店街の警備員として働いている。\n性格は勝ち気で猛々しく、いかつく大雑把。考えるより先に動く。義に厚く、武士っぽい善人。声がでかい。\n運動好きが転じ、還暦を迎えた今もピンと背筋の伸びた頑丈な肉体を維持している。",
     "history": [
-      "99（予定）"
+      "99（1982年香港 / 予定）"
     ],
     "status": "待機中",
     "traits": [
-      "警備員",
+      "STR",
+      "SIZ",
+      "EDU",
+      "槍",
+      "天文学",
       "アウトドア派",
       "受け身",
-      "槍",
-      "天文学"
+      "警備員",
+      "香港"
     ],
     "novel_url": ""
   },
@@ -58,7 +62,7 @@
     "name": "諏訪間",
     "name_kana": "Suwama",
     "image": "suwama.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 25,
     "job": "怪事庁職員",
     "last_active": 2026,
@@ -98,6 +102,8 @@
     ],
     "status": "継続可",
     "traits": [
+      "CON",
+      "DEX",
       "警察関係者",
       "怪事庁職員",
       "幸運のお守り",
@@ -146,7 +152,7 @@
     ],
     "description": "黄色の瞳を持つ人間。\n協調性はあるが、時代柄、有事の際は自分を優先する。一方で心身の疲労や痛みが嫌いなので、毎日を斜に構えないよう努めて過ごしている。",
     "history": [
-      "ほしの心臓 HO2"
+      "ほしの心臓 HO2（黙示録の後）"
     ],
     "status": null,
     "traits": [],
@@ -157,7 +163,7 @@
     "name": "渡要",
     "name_kana": "Watari Kaname",
     "image": "watari-kaname.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 23,
     "job": "大学生 / 黒蜥蜴",
     "last_active": 2025,
@@ -212,7 +218,7 @@
     "name": "ココ・アンプロン",
     "name_kana": "Coco Improm",
     "image": "coco-improm.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 20,
     "job": "大学生（理学部）",
     "last_active": 2025,
@@ -252,6 +258,7 @@
     ],
     "status": "継続可",
     "traits": [
+      "SIZ",
       "天才",
       "素早い"
     ],
@@ -262,7 +269,7 @@
     "name": "田仲子花",
     "name_kana": "Tanaka Kohana",
     "image": "tanaka-kohana.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 31,
     "job": "刑事（捜査一課）",
     "last_active": 2025,
@@ -315,7 +322,7 @@
     "name": "山多麦",
     "name_kana": "Yamada Mugi",
     "image": "yamada-mugi.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 25,
     "job": "ITエンジニア / ラーメン屋",
     "last_active": 2024,
@@ -352,6 +359,7 @@
     ],
     "status": null,
     "traits": [
+      "CON",
       "回避"
     ],
     "novel_url": ""
@@ -447,6 +455,8 @@
     ],
     "status": "ロスト",
     "traits": [
+      "CON",
+      "EDU",
       "回避",
       "盾",
       "オカルト"
@@ -458,7 +468,7 @@
     "name": "洋野ロミー",
     "name_kana": "Hirono Romi",
     "image": "hirono-romi.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 20,
     "job": "大学生 / 殺し屋",
     "last_active": 2024,
@@ -496,6 +506,7 @@
     ],
     "status": "継続可",
     "traits": [
+      "CON",
       "大学生",
       "犯罪者"
     ],
@@ -506,7 +517,7 @@
     "name": "笹記律丸",
     "name_kana": "Sasaki Ritsumaru",
     "image": "sasaki-ritsumaru.png",
-    "origin": "1923年帝都",
+    "origin": "1923年",
     "age": 32,
     "job": "探偵",
     "last_active": 2025,
@@ -544,14 +555,16 @@
     "description": "個人で小さな事務所を切り盛りしている探偵。\n常識人でノリも良く、仕事に首ったけの一方でオフではいろいろ適当。\n下に妹がひとりおり、姪もいる。",
     "history": [
       "誰が袖に花苑 HO探偵（1919年帝都 / 28歳）",
-      "帝都に咲く悪の影"
+      "帝都に咲く悪の影（1923年帝都）"
     ],
     "status": "継続可",
     "traits": [
-      "探偵",
+      "EDU",
+      "目星", 
       "夜に弱い",
       "好意を寄せられている",
-      "目星"
+      "探偵",
+      "帝都"
     ],
     "novel_url": ""
   },
@@ -560,7 +573,7 @@
     "name": "水見水花",
     "name_kana": "Mizumi Mizuka",
     "image": "mizumi-mizuka.png",
-    "origin": "2069年日本",
+    "origin": "2069年",
     "age": 20,
     "job": "大学生（工学部）",
     "last_active": 2024,
@@ -594,7 +607,7 @@
     ],
     "description": "機械工学を学ぶ大学生。蛇型ロボット兼最愛のペット「うなぎ丸シリーズ」のメンテと改造にお熱。\n感情エネルギーの浪費をきらっているので、ローテンションだが態度はそれなりに気楽で陽気。\n出自はとある医療技術臨床実験の成果として誕生した、ヒトクローンの成功例。とはいえ特殊なのはあくまで出自だけで、育成環境はごふ普通。後見人もとい保護者との関係も良好。",
     "history": [
-      "人類讃歌"
+      "人類讃歌（2069年日本 / ロスト）"
     ],
     "status": "ロスト",
     "traits": [
@@ -609,7 +622,7 @@
     "name": "紀美南",
     "name_kana": "Kno Minami",
     "image": "kino-minami.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 21,
     "job": "大学生（薬学部）",
     "last_active": 2025,
@@ -661,7 +674,7 @@
     "name": "アイザック・ファロン",
     "name_kana": "Isaac Fallon",
     "image": "isaac-fallon.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 28,
     "job": "探偵 / 喫茶店店員",
     "last_active": 2025,
@@ -699,10 +712,13 @@
     ],
     "status": "KPC",
     "traits": [
+      "CON",
+      "APP",
+      "EDU",
+      "目星",
       "戦士",
       "寄せ餌",
-      "探偵",
-      "目星"
+      "探偵"
     ],
     "novel_url": ""
   },
@@ -711,7 +727,7 @@
     "name": "葦名瑞穂",
     "name_kana": "Ashina Mizuho",
     "image": "ashina_mizuho.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 16,
     "job": "高校生",
     "last_active": 2024,
@@ -798,15 +814,17 @@
     ],
     "description": "青色を好む見習い画家。趣味で旧文明のカメラを嗜む。\n学者気質で、好きなことや気になったことはとことん追求したがる。\n地上から見た空の色や海、地上のみで見られる青色にも興味を持っている。",
     "history": [
-      "空の青さの掴み方 HO2"
+      "空の青さの掴み方 HO2（2XXX年）"
     ],
     "status": "継続可",
     "traits": [
+      "DEX",
+      "INT",
+      "回避",
+      "跳躍",
       "ド根性",
       "信頼のおける人",
-      "画家",
-      "回避",
-      "跳躍"
+      "画家"
     ],
     "novel_url": ""
   },
@@ -815,7 +833,7 @@
     "name": "ヨイ",
     "name_kana": "Yoi",
     "image": "yoi.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 5,
     "job": "保育園児",
     "last_active": 2024,
@@ -852,9 +870,10 @@
     ],
     "status": "継続可",
     "traits": [
-      "大酒飲み",
+      "DEX",
       "目星",
-      "機械修理"
+      "機械修理",
+      "大酒飲み"
     ],
     "novel_url": ""
   },
@@ -863,7 +882,7 @@
     "name": "星見葵",
     "name_kana": "Hoshimi Aoi",
     "image": "hoshimi-aoi.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 19,
     "job": "大学生 / 菓子店アルバイト",
     "last_active": 2023,
@@ -901,6 +920,8 @@
     ],
     "status": "継続可",
     "traits": [
+      "CON",
+      "DEX",
       "菓子店アルバイト",
       "前職",
       "飛ばし屋",
@@ -913,7 +934,7 @@
     "name": "織部六宗",
     "name_kana": "Oribe Rikumune",
     "image": "oribe-rikumune.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 35,
     "job": "『 憑きの輪 』",
     "last_active": 2023,
@@ -954,12 +975,14 @@
     ],
     "status": "継続可",
     "traits": [
-      "受け身",
-      "暗黒の祖先",
+      "INT",
+      "EDU",
       "回避",
       "図書館",
       "目星",
-      "芸術（説法）"
+      "芸術（説法）",
+      "受け身",
+      "暗黒の祖先"
     ],
     "novel_url": ""
   },
@@ -968,7 +991,7 @@
     "name": "笹紀優嘉",
     "name_kana": "Sasaki Yuuka",
     "image": "sasaki-yuuka.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 27,
     "job": "探偵",
     "last_active": 2024,
@@ -1007,15 +1030,15 @@
     ],
     "status": "継続可",
     "traits": [
-      "信頼のおける人",
-      "眼鏡をかけている",
-      "探偵",
       "回避",
       "鍵開け",
       "隠す",
       "隠れる",
       "聞き耳",
-      "追跡"
+      "追跡",
+      "信頼のおける人",
+      "眼鏡をかけている",
+      "探偵"
     ],
     "novel_url": ""
   },
@@ -1024,7 +1047,7 @@
     "name": "保志野福郎",
     "name_kana": "Hoshino Fukurou",
     "image": "hoshino-fukurou.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 26,
     "job": "探偵",
     "last_active": 2023,
@@ -1062,13 +1085,16 @@
     ],
     "status": "継続可",
     "traits": [
-      "探偵",
-      "天才",
-      "素早い",
+      "CON",
+      "DEX",
+      "INT",
       "回避",
       "目星",
       "図書館",
-      "心理学"
+      "心理学",
+      "天才",
+      "素早い",
+      "探偵"
     ],
     "novel_url": ""
   },
@@ -1077,7 +1103,7 @@
     "name": "東雲焔",
     "name_kana": "Shinonome Homura",
     "image": "shinonome-homura.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": "??",
     "job": null,
     "last_active": 2024,
@@ -1117,11 +1143,14 @@
     ],
     "status": "継続可",
     "traits": [
+      "STR",
+      "APP",
+      "EDU",
+      "値切り",
+      "交渉",
       "プロ・ドライバー",
       "斜め上からの発想",
-      "吸血鬼",
-      "値切り",
-      "交渉"
+      "吸血鬼"
     ],
     "novel_url": ""
   },
@@ -1167,10 +1196,11 @@
     ],
     "description": "※詫び菓子卓特徴表採用\n少女の容貌をした人物。肌に多くの傷や入れ墨がある。\n四六時中ぼーっとしていて何を考えているのか分からないが、コミュニケーションは成り立つ。\n実はノリがいいので、無茶ぶりをすると本人なりに応えてくれる。",
     "history": [
-      "NapFrappe HO Moon"
+      "NapFrappe HO Moon（2XXX年）"
     ],
     "status": "継続可",
     "traits": [
+      "CON",
       "鷹の目",
       "ナルシスト",
       "詫び菓子卓",
@@ -1183,7 +1213,7 @@
     "name": "八月朔日新",
     "name_kana": "Hozumi Arata",
     "image": "hodumi-arata.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 27,
     "job": "刑事（鑑識課警察犬係）",
     "last_active": 2024,
@@ -1232,7 +1262,7 @@
     "name": "梧桐雲雀",
     "name_kana": "Gotou Hibari",
     "image": "gotou-hibari.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 17,
     "job": "高校生",
     "last_active": 2025,
@@ -1283,7 +1313,7 @@
     "name": "昧日未日",
     "name_kana": "Mika Mika",
     "image": "mika-mika.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 16,
     "job": "高校生",
     "last_active": 2024,
@@ -1322,8 +1352,10 @@
     ],
     "status": "継続可",
     "traits": [
-      "天才",
-      "精神分析"
+      "APP",
+      "INT",
+      "精神分析",
+      "天才"
     ],
     "novel_url": ""
   },
@@ -1332,7 +1364,7 @@
     "name": "家守ねむ",
     "name_kana": "Iemori Nemu",
     "image": "iemori-nemu.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 22,
     "job": "大学生",
     "last_active": 2023,
@@ -1381,7 +1413,7 @@
     "name": "トゥーリ",
     "name_kana": "Tuli",
     "image": "tuli.png",
-    "origin": null,
+    "origin": "現代",
     "age": 17,
     "job": "船舶整備士",
     "last_active": 2023,
@@ -1430,7 +1462,7 @@
     "name": "ププハリサウロロフス",
     "name_kana": "Pupupuharisaurofusu",
     "image": "pusa.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": "??",
     "job": "-",
     "last_active": 2023,
@@ -1471,9 +1503,13 @@
     ],
     "status": "継続可",
     "traits": [
-      "神話生物",
+      "STR",
+      "CON",
+      "DEX",
+      "SIZ",
       "聞き耳",
-      "跳躍"
+      "跳躍",
+      "神話生物"   
     ],
     "novel_url": ""
   },
@@ -1482,7 +1518,7 @@
     "name": "雫紅",
     "name_kana": "Shizuku Beni",
     "image": "shizuku-beni.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 23,
     "job": "スーパー店員 / 『 駅員 』",
     "last_active": 2023,
@@ -1520,6 +1556,7 @@
     ],
     "status": "継続可",
     "traits": [
+      "CON",
       "スーパー店員",
       "駅員",
       "鋼の筋力",
@@ -1533,7 +1570,7 @@
     "name": "渡真中",
     "name_kana": "Watari Manaka",
     "image": "watari-manaka.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 19,
     "job": "大学生（人文学部）",
     "last_active": 2022,
@@ -1583,7 +1620,7 @@
     "name": "フォン",
     "name_kana": "Chóng",
     "image": "chong.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 31,
     "job": "怪盗 / サイバー探偵",
     "last_active": 2023,
@@ -1621,13 +1658,15 @@
     ],
     "status": "継続可",
     "traits": [
-      "探偵",
-      "犯罪者",
-      "怪盗",
+      "DEX",
+      "EDU",
+      "コンピューター",
+      "図書館",
       "勉強家",
       "アウトドア派",
-      "コンピューター",
-      "図書館"
+      "探偵",
+      "犯罪者",
+      "怪盗"
     ],
     "novel_url": ""
   },
@@ -1636,7 +1675,7 @@
     "name": "トーマス・ヴァイオラ",
     "name_kana": "Thomas Viola",
     "image": "thomas-viola.png",
-    "origin": "1920年代アメリカ",
+    "origin": "1920年代",
     "age": 29,
     "job": "マフィア",
     "last_active": 2022,
@@ -1673,15 +1712,18 @@
     ],
     "description": "ニューヨークを拠点とするファミリーの時期ドン。童顔で、眉間によくシワが寄っている。\n誠実で、老若男女問わず人の意見もよく聞く柔軟な気質をしているものの、「家族」を思うあまり空回って判断が鈍ることもある。\n本人の自己評価は「29にもなってまだ未熟」に尽きるが、時期ドンとしては胸を張り弱みを見せず、ファミリーを守る視点を常に持っていなければならないと思っている。",
     "history": [
-      "Aconite HO1"
+      "Aconite HO1（1920年代アメリカ / 引退）"
     ],
     "status": "引退",
     "traits": [
-      "マフィア",
-      "犯罪者",
+      "CON",
+      "EDU",
       "聞き耳",
       "信用",
-      "交渉"
+      "交渉",
+      "マフィア",
+      "犯罪者",
+      "アメリカ"
     ],
     "novel_url": ""
   },
@@ -1690,7 +1732,7 @@
     "name": "諸墨晴成",
     "name_kana": "Morozumi Harunari",
     "image": "morozumi-harunari.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 17,
     "job": "高校生（水泳部）",
     "last_active": 2023,
@@ -1742,7 +1784,7 @@
     "name": "古海岩子",
     "name_kana": "Furumi Iwako",
     "image": "furumi-iwako.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 30,
     "job": "刑事",
     "last_active": 2023,
@@ -1767,6 +1809,8 @@
       "EDU": 17
     },
     "features": [
+      "STR",
+      "SIZ",
       "飛ばし屋",
       "平凡な容姿"
     ],
@@ -1780,11 +1824,13 @@
     ],
     "status": "継続可",
     "traits": [
-      "刑事",
-      "警察関係者",
+      "CON",
+      "EDU",
+      "武道（空手）",
       "飛ばし屋",
       "平凡な容姿",
-      "武道（空手）"
+      "刑事",
+      "警察関係者"
     ],
     "novel_url": ""
   },
@@ -1793,7 +1839,7 @@
     "name": "フローラ・アップルビー",
     "name_kana": "Flora Applebee",
     "image": "flora-applebee.png",
-    "origin": "現代アメリカ",
+    "origin": "現代",
     "age": 22,
     "job": "大学生（理学部）",
     "last_active": 2022,
@@ -1825,17 +1871,18 @@
     "colors": [
       "#e95464"
     ],
-    "description": "宇宙飛行士を目指している女性。生まれつき顔に痣がある。\n根っからのロマンチストで、何かと夢見がち。\nアメリカ生まれアメリカ育ちだが、親の仕事の都合で小中学の9年間を日本で過ごしていた。中学卒業後はアメリカに帰国し進学。現在は長期休暇などに度々来日している。",
+    "description": "日本名を『林檎蜂花（Ringobachi Hana）』。宇宙飛行士を目指している女性。生まれつき顔に痣がある。\n根っからのロマンチストで、何かと夢見がち。\nアメリカ生まれアメリカ育ちだが、親の仕事の都合で小中学の9年間を日本で過ごしていた。中学卒業後はアメリカに帰国し進学。現在は長期休暇などに度々来日している。",
     "history": [
       "天体の廻転について HO2"
     ],
     "status": "継続可",
     "traits": [
-      "大学生",
+      "聞き耳",
+      "図書館",
       "奇妙な幸運",
       "目つきが悪い",
-      "聞き耳",
-      "図書館"
+      "大学生",
+      "アメリカ"
     ],
     "novel_url": ""
   },
@@ -1844,7 +1891,7 @@
     "name": "矢車藍葉",
     "name_kana": "Yaguruma Aiba",
     "image": "yaguruma-aiba.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 27,
     "job": "喫茶店店員",
     "last_active": 2025,
@@ -1883,9 +1930,10 @@
     ],
     "status": "継続可",
     "traits": [
-      "喫茶店店員",
+      "EDU",
       "目星",
-      "芸術（絵画）"
+      "芸術（絵画）",
+      "喫茶店店員"
     ],
     "novel_url": ""
   },
@@ -1894,7 +1942,7 @@
     "name": "明日風飛鳥",
     "name_kana": "Asukaze Asuka",
     "image": "asukaze-asuka.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 29,
     "job": "刑事（捜査三課）",
     "last_active": 2024,
@@ -1936,14 +1984,16 @@
     ],
     "status": "継続可",
     "traits": [
-      "捜査三課",
-      "刑事",
-      "警察関係者",
-      "不屈の精神力",
-      "ド根性",
+      "DEX",
+      "EDU",
       "日本刀",
       "信用",
-      "交渉"
+      "交渉",
+      "不屈の精神力",
+      "ド根性",
+      "捜査三課",
+      "刑事",
+      "警察関係者"
     ],
     "novel_url": ""
   },
@@ -1952,7 +2002,7 @@
     "name": "ネヴァ・ジェミニ",
     "name_kana": "Nevaeh Gemini",
     "image": "nevaeh-gemini.png",
-    "origin": "現代スペイン",
+    "origin": "現代",
     "age": 24,
     "job": "ツアーガイド / 探偵",
     "last_active": 2024,
@@ -1993,7 +2043,8 @@
     "traits": [
       "探偵",
       "ツアーガイド",
-      "鋼の筋力"
+      "鋼の筋力",
+      "スペイン"
     ],
     "novel_url": ""
   },
@@ -2002,7 +2053,7 @@
     "name": "塩金萬",
     "name_kana": "Shiokane Yorodu",
     "image": "shiokane-yorodu.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 28,
     "job": "サラリーマン",
     "last_active": 2022,
@@ -2040,10 +2091,11 @@
     ],
     "status": "継続可",
     "traits": [
-      "サラリーマン",
+      "EDU",
+      "ナビゲート",
       "不屈の精神力",
       "鋼の筋力",
-      "ナビゲート"
+      "サラリーマン"
     ],
     "novel_url": ""
   },
@@ -2052,7 +2104,7 @@
     "name": "榛名鹿子",
     "name_kana": "Haruna Kanoko",
     "image": "haruna-kanoko.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 26,
     "job": "占い師",
     "last_active": 2023,
@@ -2091,13 +2143,14 @@
     ],
     "status": "継続可",
     "traits": [
-      "占い師",
-      "スポーツ万能",
-      "鋭い洞察力",
+      "INT",
       "オカルト",
       "目星",
       "言いくるめ",
-      "交渉"
+      "交渉",
+      "スポーツ万能",
+      "鋭い洞察力",
+      "占い師"
     ],
     "novel_url": ""
   },
@@ -2106,7 +2159,7 @@
     "name": "寿伊吹",
     "name_kana": "Kotobuki Ibuki",
     "image": "kotobuki-ibuki.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 25,
     "job": "薬剤師",
     "last_active": 2022,
@@ -2145,6 +2198,7 @@
     ],
     "status": "継続可",
     "traits": [
+      "EDU",
       "オシャレ",
       "ド根性",
       "薬剤師"
@@ -2156,7 +2210,7 @@
     "name": "『狼』",
     "name_kana": "Ookami",
     "image": "ookami.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 34,
     "job": "犯罪者 / 便利屋",
     "last_active": 2025,
@@ -2196,13 +2250,15 @@
     ],
     "status": "継続可",
     "traits": [
-      "犯罪者",
-      "君は風邪をひかない",
-      "アウトドア派",
+      "DEX",
+      "EDU",
       "回避",
       "ナイフ",
       "隠れる",
-      "戦闘"
+      "戦闘",
+      "君は風邪をひかない",
+      "アウトドア派",
+      "犯罪者"
     ],
     "novel_url": ""
   },
@@ -2211,7 +2267,7 @@
     "name": "笹記縁",
     "name_kana": "Sasaki Yosuga",
     "image": "sasaki-yosuga.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 24,
     "job": "司法修習生",
     "last_active": 2022,
@@ -2261,7 +2317,7 @@
     "name": "松雪あづき",
     "name_kana": "Matsuyuki Aduki",
     "image": "matsuyuki-aduki.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 19,
     "job": "フリーター",
     "last_active": 2022,
@@ -2310,7 +2366,7 @@
     "name": "黙々",
     "name_kana": "Mokumoku",
     "image": "mokumoku.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 23,
     "job": "市役所職員",
     "last_active": 2022,
@@ -2349,9 +2405,10 @@
     ],
     "status": "継続可",
     "traits": [
+      "回避",
+      "オカルト",
       "影が薄い",
-      "不屈の精神力",
-      "オカルト"
+      "不屈の精神力"
     ],
     "novel_url": ""
   },
@@ -2360,7 +2417,7 @@
     "name": "小此木環",
     "name_kana": "Okonogi Tamaki",
     "image": "okonogi-tamaki.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 31,
     "job": "科学捜査研究員",
     "last_active": 2022,
@@ -2399,9 +2456,10 @@
     ],
     "status": "ロスト",
     "traits": [
+      "EDU",
+      "写真術",
       "科学捜査研究員",
-      "科捜研",
-      "写真術"
+      "科捜研"
     ],
     "novel_url": ""
   },
@@ -2410,7 +2468,7 @@
     "name": "大伴雪吉",
     "name_kana": "Ootomo Yukiyoshi",
     "image": "dummy.jpg",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 23,
     "job": "古書店店員 / 便利屋",
     "last_active": 2022,
@@ -2448,6 +2506,9 @@
     ],
     "status": "継続可",
     "traits": [
+      "CON",
+      "DEX",
+      "EDU",
       "奇妙な幸運",
       "不屈の精神力"
     ],
@@ -2458,7 +2519,7 @@
     "name": "オズワルド・バートン",
     "name_kana": "Oswald Burton",
     "image": "oswald-burton.png",
-    "origin": "1891年イギリス",
+    "origin": "1891年",
     "age": 24,
     "job": "時計屋",
     "last_active": 2021,
@@ -2491,11 +2552,12 @@
     ],
     "description": "見習いの時計職人。ロンドンにある祖父の店を手伝っている。\n華奢な見た目をしており、角度や服装によっては女性に見える。\n両親と折り合いが悪く、父方の祖父母に長いこと預けられていた。下に弟か妹がいるが、両親から離れてから産まれたため会ったことがない。",
     "history": [
-      "里幻想奇譚ーシャーロック・ホームズの遺言ー"
+      "里幻想奇譚ーシャーロック・ホームズの遺言ー（1891年イギリス）"
     ],
     "status": "継続可",
     "traits": [
-      "時計屋"
+      "時計屋",
+      "イギリス"
     ],
     "novel_url": ""
   },
@@ -2544,10 +2606,12 @@
     ],
     "status": "ロスト",
     "traits": [
-      "医師",
-      "医療従事者",
+      "APP",
+      "EDU",
       "医学",
-      "化学"
+      "化学",
+      "医師",
+      "医療従事者"
     ],
     "novel_url": ""
   },
@@ -2556,7 +2620,7 @@
     "name": "六花モノ",
     "name_kana": "Rikka Mono",
     "image": "rikka-mono.png",
-    "origin": "2050年日本",
+    "origin": "2050年",
     "age": 1,
     "job": "刑事（アンドロイド事件捜査係）",
     "last_active": 2021,
@@ -2593,23 +2657,27 @@
     ],
     "description": "とある刑事のパートナーロボットを務める新型アンドロイド。\n補助端末にメカインコを連れており、モノ本体が淡々としている代わりに感情を模した多彩な表現を担う。飛ぶし歌うし踊るし、光る。\n自分（機械）の代わりの労働力はいくらでもあると本気で思っているが、一方でコストパフォーマンスを考えて自分を大事に扱う。",
     "history": [
-      "VOID HO2",
+      "VOID HO2（2050年日本）",
       "ルルイエ館殺蛸事件"
     ],
     "status": "継続可",
     "traits": [
-      "刑事",
-      "警察関係者",
-      "ロボット",
-      "アンドロイド",
+      "APP",
+      "INT",
+      "EDU",
       "回避",
       "ショットガン",
+      "応急手当",
       "目星",
       "機械修理",
       "信用",
       "コンピューター",
       "交渉",
-      "戦闘"
+      "戦闘",
+      "刑事",
+      "警察関係者",
+      "ロボット",
+      "アンドロイド"
     ],
     "novel_url": ""
   },
@@ -2618,7 +2686,7 @@
     "name": "ヴォルフガング・F",
     "name_kana": "Wolfgang Falck",
     "image": "wolfgang-falck.png",
-    "origin": "1938年ドイツ",
+    "origin": "1938年",
     "age": 36,
     "job": "-",
     "last_active": 2021,
@@ -2651,10 +2719,12 @@
     ],
     "description": "自他共に厳しく、口下手。人並みに温和の一方、「無機質」「冷血」と断じられやすい。\n上に兄がふたり、下に妹がひとりいる。兄らをはじめ家族とはろくな交流を持たないものの、妹とは今も連絡を取り合っていて、彼なりに可愛がっている。\nプライベートでも物々しい雰囲気はそのままだが、音楽を鑑賞しているときだけは表情がやわらぐ。",
     "history": [
-      "残夜の結晶 HO1（引退）"
+      "残夜の結晶 HO1（1938年ドイツ / 引退）"
     ],
     "status": "引退",
     "traits": [
+      "STR",
+      "EDU",
       "拳銃",
       "組み付き"
     ],
@@ -2665,7 +2735,7 @@
     "name": "五鹿佑",
     "name_kana": "Itsuka Tasuku",
     "image": "itsuka-tasuku.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 41,
     "job": "消防士",
     "last_active": 2024,
@@ -2704,10 +2774,11 @@
     ],
     "status": "継続可",
     "traits": [
+      "EDU",
+      "応急手当",
       "暗黒の祖先",
       "天気予報士",
-      "消防士",
-      "応急手当"
+      "消防士"
     ],
     "novel_url": ""
   },
@@ -2716,7 +2787,7 @@
     "name": "松雪織鶴",
     "name_kana": "Matsuyuki Oriduru",
     "image": "matsuyuki-oriduru.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 31,
     "job": "教師（化学）",
     "last_active": 2025,
@@ -2776,12 +2847,13 @@
     ],
     "status": "継続可",
     "traits": [
-      "教師（化学）",
-      "大酒飲み",
-      "俊敏",
+      "EDU",
       "目星",
       "天文学",
-      "化学"
+      "化学",
+      "大酒飲み",
+      "俊敏",
+      "教師（化学）"
     ],
     "novel_url": ""
   },
@@ -2790,7 +2862,7 @@
     "name": "白鳥光",
     "name_kana": "Shiratori Hikaru",
     "image": "shiratori-hikaru.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 2,
     "job": "ITエンジニア",
     "last_active": 2024,
@@ -2830,13 +2902,16 @@
     ],
     "status": "継続可",
     "traits": [
-      "IT関係者",
-      "ITエンジニア",
+      "SIZ",
+      "INT",
+      "EDU",
+      "天文学",
+      "目星",
       "ド根性",
       "動物に好かれる",
-      "クローン",
-      "天文学",
-      "目星"
+      "IT関係者",
+      "ITエンジニア",
+      "クローン"
     ]
   },
   {
@@ -2844,7 +2919,7 @@
     "name": "転柏",
     "name_kana": "Utata Kashiwa",
     "image": "utata-kashiwa.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 24,
     "job": "暴力団組員",
     "last_active": 2021,
@@ -2881,6 +2956,7 @@
     ],
     "status": "ロスト",
     "traits": [
+      "EDU",
       "暴力団組員"
     ]
   },
@@ -2889,7 +2965,7 @@
     "name": "ヴィクター・A",
     "name_kana": "Victor Applebee",
     "image": "victor-applebee.png",
-    "origin": "1971年アメリカ",
+    "origin": "1971年",
     "age": 28,
     "job": "宇宙飛行士",
     "last_active": 2021,
@@ -2922,12 +2998,15 @@
     ],
     "description": "かつて望遠鏡を抱えていた少年の心そのままに宇宙飛行士を志し、叶えた。\n怖がりやすい自分を隠すためによく喋り笑うものの、有事では素直に怖がっている。\n祖父は日本人。天文台のあるまちで育った。",
     "history": [
-      "Euterpe-1（引退）"
+      "Euterpe-1（1971年アメリカ / 引退）"
     ],
     "status": "引退",
     "traits": [
+      "APP",
+      "EDU",
+      "電気修理",
       "宇宙飛行士",
-      "電気修理"
+      "アメリカ"
     ]
   },
   {
@@ -2935,7 +3014,7 @@
     "name": "片銀",
     "name_kana": "pengin",
     "image": "pengin.png",
-    "origin": "2069年日本",
+    "origin": "2069年",
     "age": 30,
     "job": "月面研究員",
     "last_active": 2021,
@@ -2969,16 +3048,17 @@
     ],
     "description": "ペンギンを模した作業服をまとう男。\n幼少期は感受性と好奇心の強い子どもで、両親の書斎にこもってあらゆる知識に触れる。その中で物理学と天文学にいっとうの興味を示し、紆余曲折を得て高名な研究者となる。\n時を重ねるにつれて人目に嫌悪感を抱くようになり、今では「自分のために生きたい」と人生のやり直しを望むようになった。",
     "history": [
-      "月面世界",
+      "月面世界（2069年日本）",
       "Call the Name of Your Fate."
     ],
     "status": "継続可",
     "traits": [
-      "オシャレ",
-      "素早い",
+      "EDU",
       "図書館",
       "操縦（宇宙船）",
-      "物理学"
+      "物理学",
+      "オシャレ",
+      "素早い"
     ]
   },
   {
@@ -2986,7 +3066,7 @@
     "name": "椎名真理",
     "name_kana": "Shiina Mari",
     "image": "shiina-mari.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 23,
     "job": "フリーター / 大学生",
     "last_active": 2021,
@@ -3024,10 +3104,12 @@
     ],
     "status": "継続可",
     "traits": [
-      "フリーター",
-      "大学生",
+      "EDU",
       "値切り",
-      "交渉"
+      "精神分析",
+      "交渉",
+      "フリーター",
+      "大学生"
     ]
   },
   {
@@ -3035,7 +3117,7 @@
     "name": "目黒ききょう",
     "name_kana": "Meguro Kikyou",
     "image": "meguro-kikyou.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 18,
     "job": "高校生 / 女優",
     "last_active": 2021,
@@ -3075,12 +3157,14 @@
     },
     "status": "継続可",
     "traits": [
+      "APP",
+      "INT",
+      "操縦（自分）",
+      "斜め上からの発想",
       "高校生",
       "学生",
       "女優",
-      "俳優",
-      "斜め上からの発想",
-      "操縦（自分）"
+      "俳優"
     ]
   },
   {
@@ -3088,7 +3172,7 @@
     "name": "篝栞",
     "name_kana": "Kagari Shiori",
     "image": "kagari-shiori.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 16,
     "job": "高校生",
     "last_active": 2021,
@@ -3127,11 +3211,14 @@
     ],
     "status": "継続可",
     "traits": [
-      "高校生",
-      "学生",
+      "STR",
+      "DEX",
+      "APP",
+      "こぶし",
       "不屈の精神力",
       "戦士",
-      "こぶし"
+      "高校生",
+      "学生"
     ]
   },
   {
@@ -3139,7 +3226,7 @@
     "name": "マティアス",
     "name_kana": "Mathias",
     "image": "mathias.png",
-    "origin": "1453年フランス",
+    "origin": "1453年",
     "age": 26,
     "job": "騎士",
     "last_active": 2021,
@@ -3175,16 +3262,17 @@
     ],
     "description": "剣だけが取り柄のいわゆる落ちこぼれ。とにかく座学が不得手で、言葉を覚えるのも遅かった。\n誰にでもニコニコと分け隔てなく接するが、本心では上流階級の人間を苦手としている。\n紆余曲折ある子供時代を送るも、身内に恵まれ致命的な捻曲は避けて今に至っている。",
     "history": [
-      "ジャンヌの猟犬 HO1"
+      "ジャンヌの猟犬 HO1（1453年フランス / 引退）"
     ],
     "status": "引退",
     "traits": [
-      "騎士",
       "回避",
       "剣",
       "信用",
       "交渉",
-      "戦闘"
+      "戦闘",
+      "騎士",
+      "フランス"
     ]
   },
   {
@@ -3192,7 +3280,7 @@
     "name": "鉄まきな",
     "name_kana": "Kurogane Makina",
     "image": "kurogane-makina.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 31,
     "job": "自動車整備士",
     "last_active": 2021,
@@ -3229,8 +3317,9 @@
     ],
     "status": "継続可",
     "traits": [
-      "自動車整備士",
-      "機械修理"
+      "EDU",
+      "機械修理",
+      "自動車整備士"
     ]
   },
   {
@@ -3238,7 +3327,7 @@
     "name": "水見蓮",
     "name_kana": "Mizumi Ren",
     "image": "mizumi-ren.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 34,
     "job": "ウェイター",
     "last_active": 2021,
@@ -3277,10 +3366,12 @@
     ],
     "status": "継続可",
     "traits": [
-      "ウェイター",
+      "SIZ",
+      "EDU",
+      "聞き耳",
       "暗黒の祖先",
       "寄せ餌",
-      "聞き耳"
+      "ウェイター"
     ]
   },
   {
@@ -3288,7 +3379,7 @@
     "name": "モーガン・ガードナー",
     "name_kana": "Morgan Gardner",
     "image": "morgan-gardner.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 34,
     "job": "樹木医 / マホロバPSI研究所職員",
     "last_active": 2021,
@@ -3329,12 +3420,13 @@
     ],
     "status": "継続可",
     "traits": [
-      "樹木医",
+      "EDU",
+      "図書館",
+      "博物学",
       "奇妙な幸運",
       "天才",
-      "マホロバPSI研究所",
-      "図書館",
-      "博物学"
+      "樹木医",
+      "マホロバPSI研究所"
     ]
   },
   {
@@ -3342,7 +3434,7 @@
     "name": "白雪チカ",
     "name_kana": "Shirayuki Chika",
     "image": "shirayuki-chika.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 13,
     "job": "中学生",
     "last_active": 2025,
@@ -3395,7 +3487,7 @@
     "name": "鬼丸澪",
     "name_kana": "Onimaru Mio",
     "image": "onimaru-mio.png",
-    "origin": "1920年帝都",
+    "origin": "1920年",
     "age": 28,
     "job": "官憲",
     "last_active": 2025,
@@ -3429,17 +3521,18 @@
     ],
     "description": "雑談や無駄も人並みに好むが、人相の悪さと無愛想と口下手が相まって近づきがたい印象の持ち主。\n何を考えているか分からないと思われがちだが、存外何も考えていないか、刀のことを考えている。さっき見かけた猫可愛かったな。\n戦闘狂いの気があり、殺しあいになると楽しそうな様子を見せる。「生まれる時代を間違えている」と言われたこともあるものの、ルールを守った上で本人なりにのびのびと過ごしているので気にしていない。",
     "history": [
-      "変身",
+      "変身（1920年帝都）",
       "鏡鬼",
       "カーテンフォール（24歳時 / 1916年帝都）"
     ],
     "status": "継続可",
     "traits": [
-      "警察関係者",
       "日本刀",
       "説得",
       "目星",
-      "交渉"
+      "交渉",
+      "警察関係者",
+      "帝都"
     ]
   },
   {
@@ -3447,7 +3540,7 @@
     "name": "蜜美摘",
     "name_kana": "Mitsu Mitsumi",
     "image": "mitsu-mitsumi.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 44,
     "job": "作家（ミステリー）",
     "last_active": 2021,
@@ -3486,10 +3579,11 @@
     ],
     "status": "継続可",
     "traits": [
-      "作家（ミステリー）",
+      "EDU",
+      "制作（推理小説）",
       "夜に弱い",
       "ペット",
-      "制作（推理小説）"
+      "作家（ミステリー）"
     ]
   },
   {
@@ -3497,7 +3591,7 @@
     "name": "鵲晃",
     "name_kana": "Kasasagi Akira",
     "image": "kasasagi-akira.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 29,
     "job": "医師（精神科）",
     "last_active": 2021,
@@ -3535,12 +3629,15 @@
     ],
     "status": "ロスト",
     "traits": [
-      "医師（精神科）",
-      "医療従事者",
+      "SIZ",
+      "INT",
+      "EDU",
+      "精神分析",
+      "医学" ,
       "飛ばし屋",
       "ド根性",
-      "精神分析",
-      "医学"
+      "医師（精神科）",
+      "医療従事者"
     ]
   },
   {
@@ -3548,7 +3645,7 @@
     "name": "オスカー・バートン",
     "name_kana": "Oscar Burton",
     "image": "oscar-burton.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 29,
     "job": "翻訳家",
     "last_active": 2021,
@@ -3585,6 +3682,9 @@
     ],
     "status": "ロスト",
     "traits": [
+      "CON",
+      "APP",
+      "EDU",
       "翻訳家"
     ]
   },
@@ -3593,7 +3693,7 @@
     "name": "離斜",
     "name_kana": "Hanare Naname",
     "image": "hanare-naname.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 17,
     "job": "高校生",
     "last_active": 2025,
@@ -3648,7 +3748,7 @@
     "name": "織部四十万",
     "name_kana": "Oribe Shijima",
     "image": "oribe-shijima.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 33,
     "job": "探偵",
     "last_active": 2022,
@@ -3689,10 +3789,11 @@
     ],
     "status": "継続可",
     "traits": [
-      "探偵",
+      "EDU",
+      "目星",
       "格闘センスの持ち主",
       "不思議ちゃん",
-      "目星"
+      "探偵"
     ]
   },
   {
@@ -3700,7 +3801,7 @@
     "name": "狢川まつり",
     "name_kana": "Kakugawa Matsuri",
     "image": "kakugawa-matsuri.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 20,
     "job": "大学生（法学部）",
     "last_active": 2022,
@@ -3739,10 +3840,11 @@
     ],
     "status": "継続可",
     "traits": [
-      "大学生",
+      "INT",
+      "歴史",
       "素早い",
       "アウトドア派",
-      "歴史"
+      "大学生"
     ]
   },
   {
@@ -3750,7 +3852,7 @@
     "name": "星原緋色",
     "name_kana": "Hoshihara Hiiro",
     "image": "hoshihara-hiiro.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 20,
     "job": "大学生",
     "last_active": 2021,
@@ -3787,6 +3889,7 @@
     ],
     "status": "継続可",
     "traits": [
+      "CON",
       "大学生"
     ]
   },
@@ -3795,7 +3898,7 @@
     "name": "篠前優護",
     "name_kana": "Shinomae Yuugo",
     "image": "shinomae-yugo.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 30,
     "job": "教師（美術）",
     "last_active": 2021,
@@ -3833,11 +3936,12 @@
     ],
     "status": "引退",
     "traits": [
-      "教師（美術）",
-      "飛ばし屋",
+      "EDU",
       "俊敏",
       "回避",
-      "芸術（西洋画）"
+      "芸術（西洋画）",
+      "飛ばし屋",
+      "教師（美術）"
     ]
   },
   {
@@ -3845,7 +3949,7 @@
     "name": "綿見アイミー",
     "name_kana": "Watami ime",
     "image": "watami-ime.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 31,
     "job": "医師（精神科）",
     "last_active": 2025,
@@ -3884,14 +3988,16 @@
     ],
     "status": "継続可",
     "traits": [
-      "医師（精神科）",
-      "医療従事者",
+      "INT",
+      "EDU",
       "医学",
       "精神分析",
       "生物学",
       "薬学",
       "暗黒の祖先",
       "斜め上からの発想",
+      "医師（精神科）",
+      "医療従事者",
       "イス人"
     ]
   },
@@ -3900,7 +4006,7 @@
     "name": "真竹伴",
     "name_kana": "Madake Ban",
     "image": "madake-ban.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 42,
     "job": "犯罪者",
     "last_active": 2022,
@@ -3938,9 +4044,10 @@
     ],
     "status": "継続可",
     "traits": [
-      "犯罪者",
+      "INT",
       "組み付き",
-      "目星"
+      "目星",
+      "犯罪者"
     ]
   },
   {
@@ -3948,7 +4055,7 @@
     "name": "渡基",
     "name_kana": "Watari Motoi",
     "image": "watari-motoi.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 32,
     "job": "刑事（捜査一課）",
     "last_active": 2024,
@@ -3991,14 +4098,15 @@
     ],
     "status": "継続可",
     "traits": [
-      "警察関係者",
-      "刑事",
-      "捜査一課",
-      "潜水の名人",
-      "愛書家",
+      "EDU",
       "聞き耳",
       "目星",
-      "心理学"
+      "心理学",
+      "潜水の名人",
+      "愛書家",
+      "警察関係者",
+      "刑事",
+      "捜査一課"
     ]
   },
   {
@@ -4054,7 +4162,7 @@
     "name": "セオドア・スチュアート",
     "name_kana": "Teodore Stuart",
     "image": "theodore-stuart.png",
-    "origin": "1890年イギリス",
+    "origin": "1890年",
     "age": 28,
     "job": "探偵助手",
     "last_active": 2021,
@@ -4090,11 +4198,12 @@
     ],
     "description": "とある探偵の助手。補佐役をすすんで務めている。\n誰にでも気楽だが万人に親切ということはなく、それなりに打算的。",
     "history": [
-      "X2U 探偵×助手 HO助手"
+      "X2U 探偵×助手 HO助手（1890年イギリス）"
     ],
     "status": "継続可",
     "traits": [
-      "探偵助手"
+      "探偵助手",
+      "イギリス"
     ]
   },
   {
@@ -4145,8 +4254,9 @@
     ],
     "status": "継続可",
     "traits": [
-      "サイボーグ",
-      "制作（軍事作戦）"
+      "EDU",
+      "制作（軍事作戦）",
+      "サイボーグ"
     ]
   },
   {
@@ -4154,7 +4264,7 @@
     "name": "東一春",
     "name_kana": "Azuma Kazutahu",
     "image": "azuma-kazuharu.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 18,
     "job": "高校生",
     "last_active": 2021,
@@ -4201,7 +4311,7 @@
     "name": "結未来",
     "name_kana": "Musubi Mirai",
     "image": "musubi-mirai.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 20,
     "job": "大学生（美術・彫刻科）",
     "last_active": 2023,
@@ -4241,10 +4351,12 @@
     ],
     "status": "継続可",
     "traits": [
-      "大学生",
+      "INT",
+      "EDU",
+      "芸術（彫刻）",
       "アウトドア派",
-      "大切なもの",
-      "芸術（彫刻）"
+      "大切なもの", 
+      "大学生"
     ]
   },
   {
@@ -4252,7 +4364,7 @@
     "name": "春日亀潤平",
     "name_kana": "Kasugame Junpei",
     "image": "kasugame-junpei.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 30,
     "job": "病院警備員",
     "last_active": 2020,
@@ -4291,10 +4403,10 @@
     ],
     "status": "継続可",
     "traits": [
-      "警備員",
+      "応急手当",
       "平凡な容姿",
       "大切なもの",
-      "応急手当"
+      "警備員"
     ]
   },
   {
@@ -4302,7 +4414,7 @@
     "name": "久葉菫",
     "name_kana": "Kuba Smire",
     "image": "kuba-sumire.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 31,
     "job": "サイバー犯罪捜査官",
     "last_active": 2023,
@@ -4341,12 +4453,13 @@
     ],
     "status": "継続可",
     "traits": [
-      "刑事",
-      "警察関係者",
+      "EDU",
+      "拳銃",
+      "コンピューター",
       "夜に弱い",
       "奇妙な幸運",
-      "拳銃",
-      "コンピューター"
+      "刑事",
+      "警察関係者"
     ]
   },
   {
@@ -4354,7 +4467,7 @@
     "name": "國木田真備",
     "name_kana": "Kunikida Makibi",
     "image": "kunikida-makibi.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 18,
     "job": "高校生",
     "last_active": 2020,
@@ -4401,7 +4514,7 @@
     "name": "寿美咲",
     "name_kana": "Kotobuki Misaki",
     "image": "kotobuki-misaki.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 30,
     "job": "葬儀屋",
     "last_active": 2023,
@@ -4455,7 +4568,7 @@
     "name": "笹記祈",
     "name_kana": "Sasaki Inori",
     "image": "sasaki-inori.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 30,
     "job": "医師（内科）",
     "last_active": 2021,
@@ -4499,10 +4612,14 @@
     ],
     "status": "継続可",
     "traits": [
-      "医師（内科）",
+      "CON",
+      "DEX",
+      "EDU",
+      "医学",
       "実は生きていた",
       "素早い",
-      "医学"
+      "医師（内科）",
+      "医療従事者"
     ]
   },
   {
@@ -4559,7 +4676,7 @@
     "name": "家守ちい",
     "name_kana": "Iamori Chii",
     "image": "iemori-chii.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 20,
     "job": "家政婦",
     "last_active": 2020,
@@ -4598,9 +4715,11 @@
     ],
     "status": "継続可",
     "traits": [
-      "家政婦",
+      "SIZ",
+      "INT",
       "銃火器の達人",
-      "暗黒の祖先"
+      "暗黒の祖先",
+      "家政婦"
     ]
   },
   {
@@ -4608,7 +4727,7 @@
     "name": "笹記正喜",
     "name_kana": "Sasaki Masaki",
     "image": "sasaki-masaki.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 33,
     "job": "刑事（零課）",
     "last_active": 2023,
@@ -4661,15 +4780,15 @@
     ],
     "status": "継続可",
     "traits": [
-      "刑事",
-      "警察関係者",
-      "零課",
-      "オシャレ",
-      "暗黒の祖先",
       "拳銃",
       "聞き耳",
       "運転（二輪）",
-      "心理学"
+      "心理学",
+      "オシャレ",
+      "暗黒の祖先",
+      "刑事",
+      "警察関係者",
+      "零課"
     ]
   },
   {
@@ -4677,7 +4796,7 @@
     "name": "左藤ひま莉",
     "name_kana": "Satou Himari",
     "image": "satou-himari.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 20,
     "job": "ディレッタント / 怪盗",
     "last_active": 2021,
@@ -4716,10 +4835,12 @@
     ],
     "status": "継続可",
     "traits": [
-      "ディレッタント",
-      "怪盗",
+      "EDU",
+      "精神分析",
       "前職",
-      "暗黒の祖先"
+      "暗黒の祖先",
+      "ディレッタント",
+      "怪盗"
     ]
   },
   {
@@ -4727,7 +4848,7 @@
     "name": "竜子実",
     "name_kana": "Ryuuko Mitsu",
     "image": "ryuuko-mitsu.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 22,
     "job": "大学生（体育学部）",
     "last_active": 2022,
@@ -4777,7 +4898,7 @@
     "name": "星原水色",
     "name_kana": "Hoshihara Mizuiro",
     "image": "hoshihara-mizuiro.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 24,
     "job": "ホワイトハッカー / サイバー探偵",
     "last_active": 2023,
@@ -4821,14 +4942,15 @@
     ],
     "status": "継続可",
     "traits": [
-      "ハッカー",
-      "探偵",
-      "俊敏",
-      "おおらか",
+      "INT",
       "コンピューター",
       "回避",
       "目星",
-      "聞き耳"
+      "聞き耳",
+      "俊敏",
+      "おおらか",
+      "ハッカー",
+      "探偵"
     ]
   },
   {
@@ -4876,8 +4998,9 @@
     ],
     "status": "引退",
     "traits": [
-      "探偵",
-      "聞き耳"
+      "INT",
+      "聞き耳",
+      "探偵"
     ]
   },
   {
@@ -4885,7 +5008,7 @@
     "name": "織部六仔",
     "name_kana": "Oribe Rokuko",
     "image": "oribe-rokuko.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 15,
     "job": "高校生",
     "last_active": 2021,
@@ -4926,10 +5049,11 @@
     ],
     "status": "継続可",
     "traits": [
-      "高校生",
-      "学生",
+      "INT",
       "目つきが悪い",
-      "夜に弱い"
+      "夜に弱い",
+      "高校生",
+      "学生"
     ]
   },
   {
@@ -4937,7 +5061,7 @@
     "name": "ベネディクト・ボイド",
     "name_kana": "Benedict Void",
     "image": "benedict-void.png",
-    "origin": "1921年秋イギリス",
+    "origin": "1921年",
     "age": 36,
     "job": "私立探偵",
     "last_active": 2020,
@@ -4971,11 +5095,12 @@
     ],
     "description": "「いろいろな景色が一番よく見えるから」と最後尾を好む。\n過去ヤブヘビに見舞われた結果、左足を切断するに至り、右足にも重い障害が残っている。\n実家は病院。両親からは将来的には当然家を継ぐものと思われ、大学では医学を学んでいた。",
     "history": [
-      "人形姫 PC1"
+      "人形姫 PC1（1921年秋イギリス）"
     ],
     "status": "継続可",
     "traits": [
-      "探偵"
+      "探偵",
+      "イギリス"
     ]
   },
   {
@@ -4983,7 +5108,7 @@
     "name": "如月司",
     "name_kana": "Kisaragi Tsukasa",
     "image": "kisaragi-tsukasa.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 26,
     "job": "花屋 / 怪盗",
     "last_active": 2021,
@@ -5022,6 +5147,7 @@
     ],
     "status": "継続可",
     "traits": [
+      "DEX",
       "怪盗",
       "花屋",
       "二十面相",
@@ -5035,7 +5161,7 @@
     "name": "保志野与孝",
     "name_kana": "Hoshino Yotaka",
     "image": "hoshino-yotaka.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 32,
     "job": "占い師",
     "last_active": 2022,
@@ -5097,7 +5223,7 @@
     "name": "星原黒羽",
     "name_kana": "Hoshihara Kuroba",
     "image": "hoshihara-kuroba.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": "??",
     "job": "用心棒",
     "last_active": 2021,
@@ -5136,13 +5262,14 @@
     ],
     "status": "継続可",
     "traits": [
-      "兵士",
-      "用心棒",
-      "傭兵",
+      "CON",
+      "ライフル",
+      "ナイフ",
       "異性が苦手",
       "不屈の精神力",
-      "ライフル",
-      "ナイフ"
+      "兵士",
+      "用心棒",
+      "傭兵"
     ]
   },
   {
@@ -5150,7 +5277,7 @@
     "name": "シスター・サーティーン",
     "name_kana": "Sister 13",
     "image": "13.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": "??",
     "job": "聖職者",
     "last_active": 2020,
@@ -5197,7 +5324,7 @@
     "name": "日島夏歩",
     "name_kana": "Hijima Natsuho",
     "image": "hijima-natsuho.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 16,
     "job": "高校生",
     "last_active": 2020,
@@ -5246,7 +5373,7 @@
     "name": "境吉野",
     "name_kana": "Sakai_Yoshino",
     "image": "sakai-yoshino.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 28,
     "job": "作家",
     "last_active": 2021,
@@ -5292,10 +5419,10 @@
     ],
     "status": "継続可",
     "traits": [
-      "作家",
+      "図書館",
       "行方不明の家族",
       "影が薄い",
-      "図書館"
+      "作家"
     ]
   },
   {
@@ -5303,7 +5430,7 @@
     "name": "一尺八寸真澄",
     "name_kana": "Kamatsuka Masumi",
     "image": "kamatsuka-masumi.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 20,
     "job": "ジャーナリスト",
     "last_active": 2021,
@@ -5351,7 +5478,7 @@
     "name": "渡椚",
     "name_kana": "Watari Kunugi",
     "image": "watari-kunugi.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 24,
     "job": "プログラマー",
     "last_active": 2025,
@@ -5401,13 +5528,16 @@
     ],
     "status": "継続可",
     "traits": [
-      "IT関係者",
-      "プログラマー",
-      "愛書家",
-      "受け身",
+      "DEX",
+      "SIZ",
       "コンピューター",
       "図書館",
-      "目星"
+      "目星",
+      "愛書家",
+      "受け身", 
+      "IT関係者",
+      "プログラマー"
+
     ]
   },
   {
@@ -5415,7 +5545,7 @@
     "name": "神無月始",
     "name_kana": "Kannaduki Hajime",
     "image": "kannnaduki-hajime.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": 21,
     "job": "大学生（考古学部）",
     "last_active": 2020,
@@ -5454,10 +5584,13 @@
     ],
     "status": "継続可",
     "traits": [
-      "大学生",
+      "STR",
+      "APP",
+      "INT",
+      "図書館",
       "前職",
       "オシャレ",
-      "図書館"
+      "大学生"
     ]
   },
   {
@@ -5465,7 +5598,7 @@
     "name": "杉山チャッカマン",
     "name_kana": "Sugiyama -",
     "image": "sugiyama-chakkaman.png",
-    "origin": "現代日本",
+    "origin": "現代",
     "age": "??",
     "job": "農家",
     "last_active": 2024,
@@ -5507,8 +5640,9 @@
     ],
     "status": "継続可",
     "traits": [
-      "農家",
-      "火炎放射器"
+      "INT",
+      "火炎放射器",
+      "農家"
     ],
     "novel_url": ""
   }
