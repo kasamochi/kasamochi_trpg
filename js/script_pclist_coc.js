@@ -33,7 +33,7 @@ function renderList(list) {
     const a = document.createElement("a");
     a.href = `./pc_data_coc.html?id=${char.id}`;
     a.className = "text-decoration-none text-center";
-    a.style.width = "110px";
+    // a.style.width = "100px";
 
     if (char.status === "ロスト") a.classList.add("pc-lost");
     if (char.status === "引退") a.classList.add("pc-retired");
