@@ -1,0 +1,167 @@
+[
+  {
+    "scenario": "常夜聖戦 2話「宇宙は女の顔をしている」",
+    "result": "-",
+    "note": "-",
+    "cs": "ヨイ",
+    "class": "text_red"
+  },
+  {
+    "scenario": "きみとぼくのステラ 第三幕「きみの願いと星の夢」",
+    "result": "全生還",
+    "note": "-",
+    "cs": "白雪チカ",
+    "class": "text_red"
+  },
+  {
+    "scenario": "常夜聖戦 3話「犬小屋島」",
+    "result": "全生還",
+    "note": "-",
+    "cs": "白鳥光",
+    "class": "text_red"
+  },
+  {
+    "scenario": "シルバーバレットは不死の夢を見るか？",
+    "result": "両生還",
+    "note": "PC1",
+    "cs": "明日風明日香",
+    "class": "text_red"
+  },
+  {
+    "scenario": "Panacea.Cry.Sentence",
+    "result": "全生還",
+    "note": "HO2",
+    "cs": "笹紀優嘉",
+    "class": "text_red"
+  },
+  {
+    "scenario": "ネクロノミコンを探して",
+    "result": "生還",
+    "note": "",
+    "cs": "渡椚",
+    "class": "text_red"
+  },
+  {
+    "scenario": "ウィンチェスター黙示録 第3話「容疑者の塔」",
+    "result": "全生還",
+    "note": "-",
+    "cs": "八月朔日新",
+    "class": "text_red"
+  },
+  {
+    "scenario": "探索から始める化学実験",
+    "result": "両生還",
+    "note": "-",
+    "cs": "松雪織鶴",
+    "class": "text_red"
+  },
+  {
+    "scenario": "空の青さの掴み方",
+    "result": "両生還",
+    "note": "HO2",
+    "cs": "矢車群青",
+    "class": "text_red"
+  },
+  {
+    "scenario": "The Backrooms",
+    "result": "-",
+    "note": "-",
+    "cs": "杉山チャッカマン,笹紀優嘉",
+    "class": "text_red"
+  },
+  {
+    "scenario": "INSIDE MYTH",
+    "result": "両生還",
+    "note": "PC2",
+    "cs": "五鹿佑"
+  },
+  {
+    "scenario": "ウィンチェスター黙示録 第4話「彼の星」",
+    "result": "ED2",
+    "note": "-",
+    "cs": "八月朔日新",
+    "class": "text_red"
+  },
+  {
+    "scenario": "梅に鶯、白百合に烏",
+    "result": "両生還",
+    "note": "HO妹",
+    "cs": "葦名瑞穂",
+    "class": "text_red"
+  },
+  {
+    "scenario": "fifty-one:ergs",
+    "result": "両生還",
+    "note": "-",
+    "cs": "Nevaeh",
+    "class": "text_red"
+  },
+  {
+    "scenario": "カーテンフォール",
+    "result": "全生還",
+    "note": "-",
+    "cs": "鬼丸澪",
+    "class": "text_red"
+  },
+  {
+    "scenario": "AND/HAND",
+    "result": "両生還",
+    "note": "-",
+    "cs": "紀美南",
+    "class": "text_red"
+  },
+  {
+    "scenario": "誰が袖に花苑",
+    "result": "",
+    "note": "HO探偵",
+    "cs": "笹記律丸",
+    "class": "text_red"
+  },
+  {
+    "scenario": "迷い猫に缶切りひとつ",
+    "result": "両生還",
+    "note": "-",
+    "cs": "松雪織鶴",
+    "class": "text_red"
+  },
+  {
+    "scenario": "潜入!?入信!?カルト教団ネティコヤァン",
+    "result": "両生還",
+    "note": "-",
+    "cs": "昧日未日"
+  },
+  {
+    "scenario": "人類讃歌",
+    "result": "全ロスト",
+    "note": "-",
+    "cs": "水見水花",
+    "class": "text_red"
+  },
+  {
+    "scenario": "GODARCA",
+    "result": "2生還20ロスト",
+    "note": "HOIV, HOXX",
+    "cs": "Pengin, Noma",
+    "class": "text_red"
+  },
+  {
+    "scenario": "PHOENIX=EXE=EXPRESS",
+    "result": "全生還",
+    "note": "HO2",
+    "cs": "洋野ロミー",
+    "class": "text_red"
+  },
+  {
+    "scenario": "学生服と君の幽霊",
+    "result": "両生還",
+    "note": "-",
+    "cs": "松雪織鶴"
+  },
+  {
+    "scenario": "Good morning ALL",
+    "result": "両生還",
+    "note": "HO重病人",
+    "cs": "山多麦",
+    "class": "text_red"
+  }
+]

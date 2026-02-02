@@ -1,0 +1,461 @@
+[
+  {
+    "scenario": "X2Uバイガスライト 探偵×助手",
+    "result": "両生還",
+    "note": "HO助手",
+    "cs": "Theodore"
+  },
+  {
+    "scenario": "稲妻のように燃えて寄せ",
+    "result": "両生還",
+    "note": "-",
+    "cs": "寿美咲"
+  },
+  {
+    "scenario": "銀河鉄道の夜のような夜",
+    "result": "両生還",
+    "note": "-",
+    "cs": "保志野与孝"
+  },
+  {
+    "scenario": "秘密と内証",
+    "result": "両生還",
+    "note": "-",
+    "cs": "綿見アイミー"
+  },
+  {
+    "scenario": "空の色すら知らない",
+    "result": "全生還",
+    "note": "HO3",
+    "cs": "ユッカ",
+    "class": "text_red"
+  },
+  {
+    "scenario": "縁罪連鎖",
+    "result": "全生還",
+    "note": "HO1",
+    "cs": "真竹伴"
+  },
+  {
+    "scenario": "感染自罪のモンタージュ",
+    "result": "全生還",
+    "note": "-",
+    "cs": "久葉菫"
+  },
+  {
+    "scenario": "ホットココアとマシュマロを。",
+    "result": "生還",
+    "note": "-",
+    "cs": "織部六仔"
+  },
+  {
+    "scenario": "かたく 縛られ 殉情",
+    "result": "生還",
+    "note": "-",
+    "cs": "笹記祈"
+  },
+  {
+    "scenario": "頭部α",
+    "result": "生還",
+    "note": "-",
+    "cs": "織部六仔",
+    "class": "text_red"
+  },
+  {
+    "scenario": "腐臭地下",
+    "result": "全生還",
+    "note": "-",
+    "cs": "笹記正喜"
+  },
+  {
+    "scenario": "不完全なる図書館",
+    "result": "生還",
+    "note": "-",
+    "cs":"境吉野",
+    "class": "text_red"
+  },
+  {
+    "scenario": "君と世界の形 第3話「君と僕の愛の形」",
+    "result": "両生還",
+    "note": "HO1",
+    "cs": "星原緋色"
+  },
+  {
+    "scenario": "月夜に捧ぐ胸臆",
+    "result": "両生還",
+    "note": "-",
+    "cs": "寿美咲"
+  },
+  {
+    "scenario": "WRECK",
+    "result": "両生還",
+    "note": "-",
+    "cs": "境吉野"
+  },
+  {
+    "scenario": "キルキルイキル",
+    "result": "1生還1ロスト",
+    "note": "-",
+    "cs": "狢川まつり"
+  },
+  {
+    "scenario": "金糸雀の欠伸",
+    "result": "全生還",
+    "note": "HO2",
+    "cs": "渡基"
+  },
+  {
+    "scenario": "虚星落つ",
+    "result": "全生還",
+    "note": "HO探偵",
+    "cs": "織部四十万"
+  },
+  {
+    "scenario": "ソープスクール",
+    "result": "全生還",
+    "note": "HO4",
+    "cs": "篠前優護"
+  },
+  {
+    "scenario": "魔法少女希望譚",
+    "result": "全生還",
+    "note": "HO2",
+    "cs": "離斜",
+    "class": "text_red"
+  },
+  {
+    "scenario": "蛾と踊る",
+    "result": "両生還",
+    "note": "-",
+    "cs": "渡椚"
+  },
+  {
+    "scenario": "俺の注文したオムライスが動いているんだが",
+    "result": "両生還",
+    "note": "-",
+    "cs": "星原水色"
+  },
+  {
+    "scenario": "大発見！大きい！でかい！毘倶村",
+    "result": "両生還",
+    "note": "-",
+    "cs": "渡椚"
+  },
+  {
+    "scenario": "Alice",
+    "result": "両ロスト",
+    "note": "HO Lewes",
+    "cs": "Oscar",
+    "class": "text_red"
+  },
+  {
+    "scenario": "君と世界の形 第4話「君と僕の死の形」",
+    "result": "両生還",
+    "note": "-",
+    "cs": "？？？",
+    "class": "text_red"
+  },
+  {
+    "scenario": "君と世界の形 第5話「君と紡ぐ世界の形」",
+    "result": "両生還",
+    "note": "-",
+    "cs": "東一春",
+    "class": "text_red"
+  },
+  {
+    "scenario": "夜半の口寄せ",
+    "result": "両生還",
+    "note": "-",
+    "cs": "寿美咲"
+  },
+  {
+    "scenario": "紡命論とシンギュラリティー",
+    "result": "3生還1ロスト",
+    "note": "HO4",
+    "cs": "鵲晃"
+  },
+  {
+    "scenario": "微睡む君に花は降る",
+    "result": "両生還",
+    "note": "-",
+    "cs": "笹記正喜"
+  },
+  {
+    "scenario": "旅館の捕食者",
+    "result": "全生還",
+    "note": "HO2",
+    "cs": "蜜美摘"
+  },
+  {
+    "scenario": "変身",
+    "result": "全生還",
+    "note": "-",
+    "cs": "鬼丸澪"
+  },
+  {
+    "scenario": "九頭鳥の散華 第一話「嗤う送り犬」",
+    "result": "全生還",
+    "note": "-",
+    "cs": "境吉野",
+    "class": "text_red"
+  },
+  {
+    "scenario": "鏡鬼",
+    "result": "生還",
+    "note": "-",
+    "cs": "鬼丸澪",
+    "class": "text_red"
+  },
+  {
+    "scenario": "崩れたケーキで生きを死体",
+    "result": "生還",
+    "note": "HO花婿",
+    "cs": "渡基",
+    "class": "text_red"
+  },
+  {
+    "scenario": "相食むる豚",
+    "result": "生還",
+    "note": "-",
+    "cs": "織部四十万"
+  },
+  {
+    "scenario": "私に贈るスノードーム",
+    "result": "全生還",
+    "note": "HO2",
+    "cs": "？？？",
+    "class": "text_red"
+  },
+  {
+    "scenario": "キの字のきのこに気をつけて",
+    "result": "両生還",
+    "note": "-",
+    "cs": "笹記正喜"
+  },
+  {
+    "scenario": "キザイア・メイスンとまほろばの庭",
+    "result": "全生還",
+    "note": "HO1",
+    "cs": "Morgan",
+    "class": "text_red"
+  },
+  {
+    "scenario": "ジャンヌの猟犬",
+    "result": "全生還",
+    "note": "HO1",
+    "cs": "Mathias",
+    "class": "text_red"
+  },
+  {
+    "scenario": "九頭鳥の散華 第二話「宵闇影鰐」",
+    "result": "全生還",
+    "note": "-",
+    "cs": "境吉野"
+  },
+  {
+    "scenario": "ファミリー・マグショット",
+    "result": "両生還",
+    "note": "HO2",
+    "cs": "篝栞",
+    "class": "text_red"
+  },
+  {
+    "scenario": "はちみつ色のレコード",
+    "result": "両生還",
+    "note": "-",
+    "cs": "笹記祈",
+    "class": "text_red"
+  },
+  {
+    "scenario": "凶夢に踊れグランギニョル",
+    "result": "全生還",
+    "note": "HO3",
+    "cs": "鉄まきな"
+  },
+  {
+    "scenario": "A_",
+    "result": "生還",
+    "note": "-",
+    "cs": "笹記正喜",
+    "class": "text_red"
+  },
+  {
+    "scenario": "同じ他人",
+    "result": "生還",
+    "note": "-",
+    "cs": "白鳥光"
+  },
+  {
+    "scenario": "ハイフェッツをなぞる病",
+    "result": "両生還",
+    "note": "HO天才",
+    "cs": "目黒ききょう"
+  },
+  {
+    "scenario": "九頭鳥の散華 第三話「墜ちた鸞」",
+    "result": "全生還",
+    "note": "-",
+    "cs": "境吉野",
+    "class": "text_red"
+  },
+  {
+    "scenario": "アンチテェゼ・ポジション",
+    "result": "両ロスト",
+    "note": "HO2",
+    "cs": "転柏"
+  },
+  {
+    "scenario": "海も枯れるまで",
+    "result": "両生還",
+    "note": "HO1",
+    "cs": "椎名真理"
+  },
+  {
+    "scenario": "ボトルレターの墓場から",
+    "result": "全生還",
+    "note": "-",
+    "cs": "境吉野",
+    "class": "text_red"
+  },
+  {
+    "scenario": "君待つ明日に僕はいない",
+    "result": "両生還",
+    "note": "-",
+    "cs": "松雪織鶴",
+    "class": "text_red"
+  },
+  {
+    "scenario": "Ditto moon",
+    "result": "生還",
+    "note": "-",
+    "cs": "松雪織鶴",
+    "class": "text_red"
+  },
+  {
+    "scenario": "ミルタの碑銘",
+    "result": "生還",
+    "note": "-",
+    "cs": "松雪織鶴"
+  },
+  {
+    "scenario": "割れない卵",
+    "result": "生還",
+    "note": "-",
+    "cs": "松雪織鶴"
+  },
+  {
+    "scenario": "9と8と点がひとつ",
+    "result": "生還",
+    "note": "",
+    "cs": "松雪織鶴"
+  },
+  {
+    "scenario": "MACH SPEED BARRETT",
+    "result": "両生還",
+    "note": "-",
+    "cs": "笹記正喜"
+  },
+  {
+    "scenario": "ワンルームナイトメア",
+    "result": "両生還",
+    "note": "-",
+    "cs": "渡基"
+  },
+  {
+    "scenario": "Euterpe-1",
+    "result": "生還",
+    "note": "-",
+    "cs": "Victor"
+  },
+  {
+    "scenario": "お、捨てKPCだ。可哀想に…",
+    "result": "両生還",
+    "note": "-",
+    "cs": "Theothestar"
+  },
+  {
+    "scenario": "残夜の結晶",
+    "result": "両生還",
+    "note": "HO1",
+    "cs": "Wolfgang"
+  },
+  {
+    "scenario": "とある幸せな家族の話",
+    "result": "全生還",
+    "note": "HO1",
+    "cs": "五鹿佑"
+  },
+  {
+    "scenario": "沼男は誰だ？",
+    "result": "1生還3ロスト",
+    "note": "HO4",
+    "cs": "水見蓮"
+  },
+  {
+    "scenario": "月面世界",
+    "result": "全生還",
+    "note": "HO月面研究員",
+    "cs": "片銀",
+    "class": "text_red"
+  },
+  {
+    "scenario": "九頭鳥の散華 第四話「狂狂番え鬼車」",
+    "result": "全生還",
+    "note": "-",
+    "cs": "境吉野"
+  },
+  {
+    "scenario": "CH-0",
+    "result": "生還",
+    "note": "-",
+    "cs": "保志野与孝",
+    "class": "text_red"
+  },
+  {
+    "scenario": "桜狂わば胎の中",
+    "result": "全生還",
+    "note": "-",
+    "cs": "蜜美摘",
+    "class": "text_red"
+  },
+  {
+    "scenario": "VOID",
+    "result": "全生還",
+    "note": "HO2",
+    "cs": "六花モノ",
+    "class": "text_red"
+  },
+  {
+    "scenario": "ルルイエ館殺蛸事件",
+    "result": "全生還",
+    "note": "-",
+    "cs": "六花モノ"
+  },
+  {
+    "scenario": "夜に栞す",
+    "result": "生還",
+    "note": "-",
+    "cs": "篝栞",
+    "class": "text_red"
+  },
+  {
+    "scenario": "永業回帰",
+    "result": "両ロスト",
+    "note": "HO1",
+    "cs": "君影いと",
+    "class": "text_red"
+  },
+  {
+    "scenario": "Call the Name of Your Fate.",
+    "result": "両生還",
+    "note": "-",
+    "cs": "片銀"
+  },
+  {
+    "scenario": "巴里幻想奇譚ーシャーロック・ホームズの遺言ー",
+    "result": "全生還",
+    "note": "-",
+    "cs": "Oswald",
+    "class": "text_red"
+  }
+]

@@ -1,0 +1,289 @@
+[
+  {
+    "scenario": "オーダーメイド",
+    "result": "生還",
+    "note": "-",
+    "cs": "大伴雪吉",
+    "class": "text_red"
+  },
+  {
+    "scenario": "君のためのヒポクリシー",
+    "result": "両生還",
+    "note": "-",
+    "cs": "Theothestar",
+    "class": "text_red"
+  },
+  {
+    "scenario": "ようこそ！迷冥市役所都市伝説課へ！",
+    "result": "END5",
+    "note": "HO2",
+    "cs": "黙々",
+    "class": "text_red"
+  },
+  {
+    "scenario": "インビジブルの慟哭",
+    "result": "両生還",
+    "note": "HO2",
+    "cs": "小此木環",
+    "class": "text_red"
+  },
+  {
+    "scenario": "死生館迷宮事件",
+    "result": "両生還",
+    "note": "HO2",
+    "cs": "織部四十万"
+  },
+  {
+    "scenario": "アイリスからの恋文",
+    "result": "生還",
+    "note": "-",
+    "cs": "笹記縁"
+  },
+  {
+    "scenario": "スモーキンバラッド",
+    "result": "両生還",
+    "note": "-",
+    "cs": "真竹伴"
+  },
+  {
+    "scenario": "ぼくらの空想都市計画",
+    "result": "全生還",
+    "note": "-",
+    "cs": "渡椚"
+  },
+  {
+    "scenario": "傀逅",
+    "result": "全生還",
+    "note": "-",
+    "cs": "竜子実"
+  },
+  {
+    "scenario": "毒林檎より愛を秘めて",
+    "result": "両生還",
+    "note": "-",
+    "cs": "寿伊吹"
+  },
+  {
+    "scenario": "静寂の声",
+    "result": "生還",
+    "note": "-",
+    "cs": "小此木環",
+    "class": "text_red"
+  },
+  {
+    "scenario": "かいぶつたちとマホラカルト",
+    "result": "全生還",
+    "note": "HO1",
+    "cs": "「狼」",
+    "class": "text_red"
+  },
+  {
+    "scenario": "見果ての綸紡",
+    "result": "3生還1ロスト",
+    "note": "HO4",
+    "cs": "榛名鹿子"
+  },
+  {
+    "scenario": "今夜も二人でロードショー！ ラストライブ in ルルイエ ライブビューイング",
+    "result": "両生還",
+    "note": "-",
+    "cs": "松雪織鶴"
+  },
+  {
+    "scenario": "同窓会",
+    "result": "両生還",
+    "note": "-",
+    "cs": "織部四十万",
+    "class": "text_red"
+  },
+  {
+    "scenario": "戯曲グラスバレヱ 第一章「カボチャの馬車」",
+    "result": "全生還",
+    "note": "-",
+    "cs": "保志野与孝",
+    "class": "text_red"
+  },
+  {
+    "scenario": "Undo",
+    "result": "両生還",
+    "note": "-",
+    "cs": "寿伊吹"
+  },
+  {
+    "scenario": "十二星座館殺人事件",
+    "result": "全生還",
+    "note": "HO双子座",
+    "cs": "Nevaeh",
+    "class": "text_red"
+  },
+  {
+    "scenario": "白々明けに我が牙と舞え",
+    "result": "生還",
+    "note": "-",
+    "cs": "松雪あづき",
+    "class": "text_red"
+  },
+  {
+    "scenario": "針の上で天使は何人踊れるか",
+    "result": "生還",
+    "note": "-",
+    "cs": "渡椚",
+    "class": "text_red"
+  },
+  {
+    "scenario": "戯曲グラスバレヱ 第二章「ハシバミの木」",
+    "result": "全生還",
+    "note": "-",
+    "cs": "保志野与孝",
+    "class": "text_red"
+  },
+  {
+    "scenario": "殺していいのは呼吸だけ",
+    "result": "ロスト",
+    "note": "-",
+    "cs": "小此木環",
+    "class": "text_red"
+  },
+  {
+    "scenario": "ルベライトジャム",
+    "result": "全生還",
+    "note": "HO5",
+    "cs": "塩金萬",
+    "class": "text_red"
+  },
+  {
+    "scenario": "腐乱腐乱",
+    "result": "生還",
+    "note": "-",
+    "cs": "狢川まつり",
+    "class": "text_red"
+  },
+  {
+    "scenario": "プラネタリウム終末論",
+    "result": "両生還",
+    "note": "-",
+    "cs": "松雪織鶴",
+    "class": "text_red"
+  },
+  {
+    "scenario": "コトワリ",
+    "result": "両生還",
+    "note": "-",
+    "cs": "繋遥"
+  },
+  {
+    "scenario": "快刀乱魔",
+    "result": "全生還",
+    "note": "HO3",
+    "cs": "明日風明日香"
+  },
+  {
+    "scenario": "ピリオド・アズール",
+    "result": "1生還1ロスト",
+    "note": "HO1",
+    "cs": "矢車藍葉",
+    "class": "text_red"
+  },
+  {
+    "scenario": "おまえがぬいぐるみになったってマジ！？",
+    "result": "両生還",
+    "note": "-",
+    "cs": "諸墨晴成"
+  },
+  {
+    "scenario": "真夏の凍死体",
+    "result": "両生還",
+    "note": "-",
+    "cs": "笹記正喜",
+    "class": "text_red"
+  },
+  {
+    "scenario": "とける",
+    "result": "両生還",
+    "note": "-",
+    "cs": "松雪織鶴",
+    "class": "text_red"
+  },
+  {
+    "scenario": "異婚チケット",
+    "result": "生還",
+    "note": "-",
+    "cs": "離斜",
+    "class": "text_red"
+  },
+  {
+    "scenario": "RE：方向音痴",
+    "result": "生還",
+    "note": "-",
+    "cs": "渡基",
+    "class": "text_red"
+  },
+  {
+    "scenario": "戯曲グラスバレヱ 第三章「シンデレラの舞踏会」",
+    "result": "全生還",
+    "note": "-",
+    "cs": "保志野与孝",
+    "class": "text_red"
+  },
+  {
+    "scenario": "じょはり",
+    "result": "生還",
+    "note": "-",
+    "cs": "渡真中",
+    "class": "text_red"
+  },
+  {
+    "scenario": "戯曲グラスバレヱ 第四章「双子の夢幻郷」",
+    "result": "全生還",
+    "note": "-",
+    "cs": "保志野与孝",
+    "class": "text_red"
+  },
+  {
+    "scenario": "のっく、のっく、ちゃいむ",
+    "result": "全生還",
+    "note": "-",
+    "cs": "傘持屋台",
+    "class": "text_red"
+  },
+  {
+    "scenario": "天体の廻転について",
+    "result": "両生還",
+    "note": "HO2",
+    "cs": "林檎蜂花",
+    "class": "text_red"
+  },
+  {
+    "scenario": "Aconite",
+    "result": "2生還2ロスト",
+    "note": "HO1",
+    "cs": "Thomas"
+  },
+  {
+    "scenario": "スーサイデッドメアリンク",
+    "result": "両生還",
+    "note": "-",
+    "cs": "渡真中"
+  },
+  {
+    "scenario": "夢見るホーリーキャロル",
+    "result": "両生還",
+    "note": "-",
+    "cs": "松雪織鶴",
+    "class": "text_red"
+  },
+  {
+    "scenario": "戯曲グラスバレヱ 第五章「ちるちるみちる」",
+    "result": "全生還",
+    "note": "-",
+    "cs": "保志野与孝",
+    "class": "text_red"
+  },
+  {
+    "scenario": "戯曲グラスバレヱ 第六章「夢色ハーモニー」",
+    "result": "全生還",
+    "note": "-",
+    "cs": "保志野与孝",
+    "class": "text_red"
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "scenario": "きみとぼくのステラ 第一幕「だれかの願いが叶うとき」",
+    "result": "全生還",
+    "note": "-",
+    "cs": "白雪チカ",
+    "class": "text_red"
+  },{
+    "scenario": "黄身と蜂蜜",
+    "result": "両生還",
+    "note": "-",
+    "cs": "星原水色"
+  },{
+    "scenario": "愛飢ゑヲワル",
+    "result": "両生還",
+    "note": "HO神話生物",
+    "cs": "プサ",
+    "class": "text_red"
+  },{
+    "scenario": "コフェア・サナトリウムの安息",
+    "result": "両生還",
+    "note": "-",
+    "cs": "諸墨晴成"
+  },{
+    "scenario": "晩夏の聖処女",
+    "result": "全生還",
+    "note": "HO2",
+    "cs": "古海岩子",
+    "class": "text_red"
+  },{
+    "scenario": "こん、こんこん",
+    "result": "生還",
+    "note": "-",
+    "cs": "家守ねむ",
+    "class": "text_red"
+  },{
+    "scenario": "午前二時には眠れない",
+    "result": "全生還",
+    "note": "-",
+    "cs": "雫紅",
+    "class": "text_red"
+  },{
+    "scenario": "protogear-プロトギア-",
+    "result": "両生還",
+    "note": "HO1",
+    "cs": "久葉菫",
+    "class": "text_red"
+  },{
+    "scenario": "JOKER≒JOKER",
+    "result": "全生還",
+    "note": "HO参謀",
+    "cs": "フォン",
+    "class": "text_red"
+  },{
+    "scenario": "ムーンエラーアウトサイダー",
+    "result": "全生還",
+    "note": "HO3",
+    "cs": "結未来",
+    "class": "text_red"
+  },{
+    "scenario": "Zodiac school",
+    "result": "全生還",
+    "note": "HO未",
+    "cs": "昧日未日",
+    "class": "text_red"
+  },{
+    "scenario": "7匹のもちもち神話 〜KPCが神話の力で7匹のもちもちな二頭身になった件〜",
+    "result": "両生還",
+    "note": "-",
+    "cs": "笹記正喜"
+  },{
+    "scenario": "私立花ヶ丘高校秘密倶楽部",
+    "result": "全生還",
+    "note": "HO12",
+    "cs": "梧桐雲雀",
+    "class": "text_red"
+  },{
+    "scenario": "きみとぼくのステラ 第二幕「ペレト・エム・ヘルゥ」",
+    "result": "全生還",
+    "note": "-",
+    "cs": "白雪チカ",
+    "class": "text_red"
+  },{
+    "scenario": "ウィンチェスター黙示録 第1話「人殺しの家」",
+    "result": "全生還",
+    "note": "-",
+    "cs": "八月朔日新",
+    "class": "text_red"
+  },{
+    "scenario": "NapFrappe",
+    "result": "1生還1ロスト",
+    "note": "HO Moon",
+    "cs": "Un",
+    "class": "text_red"
+  },{
+    "scenario": "原罪の国",
+    "result": "両生還",
+    "note": "-",
+    "cs": "Tuli",
+    "class": "text_red"
+  },{
+    "scenario": "かみさまのいうとおり",
+    "result": "両生還",
+    "note": "-",
+    "cs": "東雲焔",
+    "class": "text_red"
+  },{
+    "scenario": "一二人の密室",
+    "result": "11生還1ロスト",
+    "note": "HO1",
+    "cs": "保志野福郎",
+    "class": "text_red"
+  },{
+    "scenario": "目目目目",
+    "result": "全生還",
+    "note": "-",
+    "cs": "梧桐雲雀",
+    "class": "text_red"
+  },{
+    "scenario": "愛罠蜂",
+    "result": "両生還",
+    "note": "HO2",
+    "cs": "星見葵"
+  },{
+    "scenario": "シュガー＆バンビマンとツキノワ奇譚",
+    "result": "全生還",
+    "note": "HO1-A",
+    "cs": "織部六宗",
+    "class": "text_red"
+  },{
+    "scenario": "ウィンチェスター黙示録 第2話「被害者の庭」",
+    "result": "全生還",
+    "note": "-",
+    "cs": "八月朔日新"
+  },{
+    "scenario": "さよならを言いにきた –東京境界防衛戦–",
+    "result": "両生還",
+    "note": "-",
+    "cs": "黙々",
+    "class": "text_red"
+  },{
+    "scenario": "獣も斯くや",
+    "result": "生還",
+    "note": "-",
+    "cs": "寿美咲",
+    "class": "text_red"
+  },{
+    "scenario": "王子は僕と世界を騙る",
+    "result": "両生還",
+    "note": "-",
+    "cs": "Tuli"
+  },{
+    "scenario": "常夜聖戦 1話「種、または生の起源」",
+    "result": "全生還",
+    "note": "-",
+    "cs": "白鳥光"
+  },{
+    "scenario": "HAL",
+    "result": "生還",
+    "note": "-",
+    "cs": "松雪織鶴"
+  }
+]

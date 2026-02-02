@@ -1,0 +1,180 @@
+[
+  {
+    "scenario": "最果てのレイル",
+    "result": "両生還",
+    "note": "-",
+    "cs": "境吉野",
+    "class": "text_red"
+  },{
+    "scenario": "She Wore a Yellow Ribbon",
+    "result": "両生還",
+    "note": "-",
+    "cs": "神無月始"
+  },{
+    "scenario": "パスハの卵",
+    "result": "生還",
+    "note": "-",
+    "cs": "一尺八寸真澄"
+  },{
+    "scenario": "なわばり",
+    "result": "ロスト",
+    "note": "-",
+    "cs": "日島夏歩",
+    "class": "text_red"
+  },{
+    "scenario": "異世界転生探索者と神託者の旅",
+    "result": "全生還",
+    "note": "-",
+    "cs": "Sister 13"
+  },{
+    "scenario": "壊胎",
+    "result": "両生還",
+    "note": "-",
+    "cs": "星原黒羽",
+    "class": "text_red"
+  },{
+    "scenario": "星の神話、エンドロール",
+    "result": "全生還",
+    "note": "PC1",
+    "cs": "保志野与孝",
+    "class": "text_red"
+  },{
+    "scenario": "切なる願いは月夜に煌めく",
+    "result": "生還",
+    "note": "-",
+    "cs": "如月司"
+  },{
+    "scenario": "なにぬねの国",
+    "result": "-",
+    "note": "-",
+    "cs": "-",
+    "class": "text_red"
+  },{
+    "scenario": "びいどろの国",
+    "result": "生還",
+    "note": "-",
+    "cs": "織部六仔",
+    "class": "text_red"
+  },{
+    "scenario": "カノヨ街",
+    "result": "全生還",
+    "note": "壱番地の標本",
+    "cs": "久住灰色",
+    "class": "text_red"
+  },{
+    "scenario": "人形姫（りんご屋発行）",
+    "result": "全生還",
+    "note": "PC1",
+    "cs": "Benedict",
+    "class": "text_red"
+  },{
+    "scenario": "お酒こわい",
+    "result": "全生還",
+    "note": "-",
+    "cs": "星原水色"
+  },{
+    "scenario": "豪華客船と怪盗団",
+    "result": "全生還",
+    "note": "-",
+    "cs": "左藤ひま莉"
+  },{
+    "scenario": "怪物たちのララバイ",
+    "result": "全生還",
+    "note": "-",
+    "cs": "家守ちい",
+    "class": "text_red"
+  },{
+    "scenario": "これは詳細を省くが 結論だけ言うと お前はイヌ",
+    "result": "両生還",
+    "note": "-",
+    "cs": "星原水色"
+  },{
+    "scenario": "執着針",
+    "result": "生還",
+    "note": "-",
+    "cs": "真子錦",
+    "class": "text_red"
+  },{
+    "scenario": "庭師は何を口遊む",
+    "result": "全生還",
+    "note": "HO1",
+    "cs": "笹記正喜"
+  },{
+    "scenario": "空中ブランコ乗りのエリー",
+    "result": "両生還",
+    "note": "-",
+    "cs": "笹記祈"
+  },{
+    "scenario": "脱獄は乙女の嗜み",
+    "result": "全生還",
+    "note": "HO1",
+    "cs": "國木田真備"
+  },{
+    "scenario": "まんだらかばら",
+    "result": "生還",
+    "note": "-",
+    "cs": "家守ちい",
+    "class": "text_red"
+  },{
+    "scenario": "Alter Ego-オルター・エゴ-（好き勝手堂ほっぷす。発行）",
+    "result": "生還",
+    "note": "-",
+    "cs": "境吉野"
+  },{
+    "scenario": "ナイトアクアリウムの怪",
+    "result": "全生還",
+    "note": "-",
+    "cs": "保志野与孝"
+  },{
+    "scenario": "アステールの海に手向けを",
+    "result": "両生還",
+    "note": "-",
+    "cs": "笹記正喜"
+  },{
+    "scenario": "掌中テアトル",
+    "result": "両生還",
+    "note": "-",
+    "cs": "春日亀潤平"
+  },{
+    "scenario": "ヒポクラテスの渋難",
+    "result": "生還",
+    "note": "-",
+    "cs": "笹記祈",
+    "class": "text_red"
+  },{
+    "scenario": "君と世界の形 第1話「君と過ごす幸せの形」",
+    "result": "両生還",
+    "note": "HO1",
+    "cs": "東一春",
+    "class": "text_red"
+  },{
+    "scenario": "君と世界の形 第2話「君と駆け抜ける非日常の形」",
+    "result": "両生還",
+    "note": "-",
+    "cs": "笹記祈"
+  },{
+    "scenario": "蹂躙するは我が手にて",
+    "result": "全生還",
+    "note": "HO3",
+    "cs": "Theothestar",
+    "class": "text_red"
+  },{
+    "scenario": "デウス・エクス・マキナは死んだ",
+    "result": "両生還",
+    "note": "HO1",
+    "cs": "？？？",
+    "class": "text_red"
+  },{
+    "scenario": "最果てのベリーメリークリスマス",
+    "result": "生還",
+    "note": "-",
+    "cs": "笹記正喜",
+    "class": "text_red"
+  },{
+    "scenario": "三千世界のあなたを殺し、今宵二人で踊りたい",
+    "result": "生還",
+    "note": "-",
+    "cs": "笹記祈",
+    "class": "text_red"
+  }
+]

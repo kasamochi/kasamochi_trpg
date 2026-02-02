@@ -1,0 +1,5501 @@
+[
+  {
+    "id": "juk-gang",
+    "name": "祝剛",
+    "name_kana": "Juk Gāng",
+    "image": "juk_gang.png",
+    "origin": "1982年香港",
+    "age": 62,
+    "job": "警備員",
+    "last_active": 2026,
+    "first_active": [
+      "普通シナリオ",
+      "過去シナリオ"
+    ],
+    "gender": "男",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 17,
+      "CON": 14,
+      "POW": 15,
+      "DEX": 10,
+      "APP": 8,
+      "SIZ": 18,
+      "INT": 8,
+      "EDU": 19
+    },
+    "features": [
+      "アウトドア派",
+      "受け身"
+    ],
+    "personality": "勝気、大雑把、武士っぽい",
+    "colors": [
+      "#698aab"
+    ],
+    "description": "漁村生まれ男所帯育ち。定年で漁師を退職後は、商店街の警備員として働いている。\n性格は勝ち気で猛々しく、いかつく大雑把。考えるより先に動く。義に厚く、武士っぽい善人。声がでかい。\n運動好きが転じ、還暦を迎えた今もピンと背筋の伸びた頑丈な肉体を維持している。",
+    "history": [
+      "99（予定）"
+    ],
+    "status": "待機中",
+    "traits": [
+      "警備員",
+      "アウトドア派",
+      "受け身",
+      "槍",
+      "天文学"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "suwama",
+    "name": "諏訪間",
+    "name_kana": "Suwama",
+    "image": "suwama.png",
+    "origin": "現代日本",
+    "age": 25,
+    "job": "怪事庁職員",
+    "last_active": 2026,
+    "first_active": [
+      "秘匿シナリオ",
+      "特殊シナリオ"
+    ],
+    "gender": "女",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": null,
+      "CON": null,
+      "POW": null,
+      "DEX": null,
+      "APP": null,
+      "SIZ": null,
+      "INT": null,
+      "EDU": null
+    },
+    "features": [
+      "幸運のお守り"
+    ],
+    "personality": "能天気、人懐こい、マイペース",
+    "colors": [
+      "#F6BFBC"
+    ],
+    "description": "怪事庁勤めの青年。雷の異能を持つ。\n子どもの頃の将来の夢は『かっこいい大人』。成人した今も子どもの頃の自分を裏切らないよう心掛けている。\n礼儀作法として表向きは女性らしく振舞うが、自認は「どっちでもいい」と思っており、ある種の無関心さが態度にも出ている。",
+    "history": [
+      "東京ゴーストマティカ HO壱 雷"
+    ],
+    "status": "継続可",
+    "traits": [
+      "警察関係者",
+      "怪事庁職員",
+      "幸運のお守り",
+      "斧",
+      "回避",
+      "目星"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "an",
+    "name": "アン",
+    "name_kana": "An",
+    "image": "an.png",
+    "origin": "黙示録の後",
+    "age": 18,
+    "job": "-",
+    "last_active": 2025,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": "保志野",
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": true
+    },
+    "params": {
+      "STR": 9,
+      "CON": 12,
+      "POW": 15,
+      "DEX": 17,
+      "APP": 14,
+      "SIZ": 10,
+      "INT": 12,
+      "EDU": 12
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "実直、素直、マイペース",
+    "colors": [
+      "#f39800"
+    ],
+    "description": "黄色の瞳を持つ人間。\n協調性はあるが、時代柄、有事の際は自分を優先する。一方で心身の疲労や痛みが嫌いなので、毎日を斜に構えないよう努めて過ごしている。",
+    "history": [
+      "ほしの心臓 HO2"
+    ],
+    "status": "継続可",
+    "traits": [],
+    "novel_url": ""
+  },
+  {
+    "id": "watari-kaname",
+    "name": "渡要",
+    "name_kana": "Watari Kaname",
+    "image": "watari-kaname.png",
+    "origin": "現代日本",
+    "age": 23,
+    "job": "大学生 / 黒蜥蜴",
+    "last_active": 2025,
+    "first_active": "特殊シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": "渡",
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 9,
+      "CON": 12,
+      "POW": 15,
+      "DEX": 13,
+      "APP": 12,
+      "SIZ": 11,
+      "INT": 12,
+      "EDU": 15
+    },
+    "features": [
+      "急速な回復力",
+      "素早い"
+    ],
+    "personality": "八方美人、若干天邪鬼、臆病",
+    "colors": [
+      "#ffa500"
+    ],
+    "description": "大学生と黒蜥蜴の二足のわらじを履く人物。\n性格は良くも悪くも普通の八方美人。若干天邪鬼で、まあまあ口が悪い(APP12)。基本的に臆病で、開き直ると図太い。\n趣味としてサブカルチャー、特にテレビゲームを好む。黒蜥蜴になり拳銃を実際に触るようになってからは対人サバイバルゲームを楽しめなくなったが、致し方ないかと諦めている。",
+    "history": [
+      "白いふわふわの犬",
+      "人狼たちと納骨堂の王"
+    ],
+    "status": "継続可",
+    "traits": [
+      "大学生",
+      "黒蜥蜴",
+      "抗神組織",
+      "急速な回復力",
+      "素早い",
+      "回避",
+      "拳銃"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "coco-improm",
+    "name": "ココ・アンプロン",
+    "name_kana": "Coco Improm",
+    "image": "coco-improm.png",
+    "origin": "現代日本",
+    "age": 20,
+    "job": "大学生（理学部）",
+    "last_active": 2025,
+    "first_active": "普通シナリオ",
+    "gender": "不明",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 11,
+      "CON": 8,
+      "POW": 12,
+      "DEX": 11,
+      "APP": 14,
+      "SIZ": 17,
+      "INT": 14,
+      "EDU": 14
+    },
+    "features": [
+      "天才",
+      "素早い"
+    ],
+    "personality": "柔らか、社交的",
+    "colors": [
+      "#32cd32"
+    ],
+    "description": "比較神話学から日本語とその文化に興味を持ち、日本へ留学している大学生。\n日本で暮らすうちに食文化に強く惹かれ、最近は駄菓子にハマっている。\n食文化に夢中な側面がたいへん強いが天文学にももちろん真面目に取り組んでおり、将来の夢は「まだ見ぬ星を見つけ、名前を付けること」である。",
+    "history": [
+      "動かぬ方舟 KPC",
+      "サイモン・スタンホープの研究 KPC",
+      "万物館の謎"
+    ],
+    "status": "継続可",
+    "traits": [
+      "天才",
+      "素早い"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "tanaka-kohana",
+    "name": "田仲子花",
+    "name_kana": "Tanaka Kohana",
+    "image": "tanaka-kohana.png",
+    "origin": "現代日本",
+    "age": 31,
+    "job": "刑事（捜査一課）",
+    "last_active": 2025,
+    "first_active": "普通シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 12,
+      "CON": 14,
+      "POW": 15,
+      "DEX": 11,
+      "APP": 12,
+      "SIZ": 11,
+      "INT": 12,
+      "EDU": 15
+    },
+    "features": [
+      "芸術的才能",
+      "影が薄い"
+    ],
+    "personality": "のびのび、甘え上手、愛情豊か",
+    "colors": [
+      "#ba2636"
+    ],
+    "description": "しっかりしている一方で甘え上手、愛情豊か。ちゃっかりしていてスルーも上手。\n生活のため金を安定して稼ごうと今の職についたため、出世欲がない。\n上に姉がひとりと、双子の兄弟がひとりいる。姉が産んだ姪もひとりおり、片割れともども溺愛している。家族大好き。",
+    "history": [
+      "7/GHOST IN THE SPINE",
+      "ワンちゃんはここにいる。"
+    ],
+    "status": "継続可",
+    "traits": [
+      "警察関係者",
+      "刑事",
+      "捜査一課",
+      "芸術的才能",
+      "影が薄い",
+      "回避",
+      "目星"
+    ]
+  },
+  {
+    "id": "yamada-mugi",
+    "name": "山多麦",
+    "name_kana": "Yamada Mugi",
+    "image": "yamada-mugi.png",
+    "origin": "現代日本",
+    "age": 25,
+    "job": "ITエンジニア / ラーメン屋",
+    "last_active": 2024,
+    "first_active": "普通シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 11,
+      "CON": 16,
+      "POW": 16,
+      "DEX": 15,
+      "APP": 15,
+      "SIZ": 10,
+      "INT": 13,
+      "EDU": 14
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "積極的、素直、勤勉",
+    "colors": [
+      "#e9546b"
+    ],
+    "description": "古い商店街に建つラーメン屋「やまだラーメン」の一人娘。\n容姿健康ともに恵まれており、それを自覚した上で鼻にかけない素直な人物。\n大学卒業後は実家のラーメン屋を手伝いながら、在宅ITエンジニアとして働いている。",
+    "history": [
+      "Good morning ALL HO重病人"
+    ],
+    "status": "継続可",
+    "traits": [
+      "回避"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "noma-parker-godarca",
+    "name": "ノーマ・パーカー",
+    "name_kana": "Noma Parker",
+    "image": "noma-parker-godarca.png",
+    "origin": null,
+    "age": 18,
+    "job": "対神話殲滅機関構成員",
+    "last_active": 2024,
+    "first_active": "特殊シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": true
+    },
+    "params": {
+      "STR": 12,
+      "CON": 14,
+      "POW": 18,
+      "DEX": 16,
+      "APP": 14,
+      "SIZ": 11,
+      "INT": 13,
+      "EDU": 12
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "素朴、穏やか、世話好き",
+    "colors": [
+      "#028760"
+    ],
+    "description": "対神話殲滅機関アルカナにて、原初のアルカナ「審判」を預かる少女。\n過不足のない家庭で過ごし、幼少期からいつでも独り立ちできるようにと育てられた。アルカナにやってくる前は、近いうちに見合いで誰かと結婚し、家庭を作るものと考えていた。\n先祖は極東の人間だったらしく、別名として「ソノエ・ナツキ」という名も持つ。",
+    "history": [
+      "GODARCA HOXX：審判（ロスト）"
+    ],
+    "status": "ロスト",
+    "traits": [
+      "回避",
+      "図書館",
+      "目星",
+      "オカルト"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "pengin-godarca",
+    "name": "ペンギン",
+    "name_kana": "Pengin",
+    "image": "pengin-godarca.png",
+    "origin": null,
+    "age": 24,
+    "job": "対神話殲滅機関構成員",
+    "last_active": 2024,
+    "first_active": "特殊シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": "星原",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": true
+    },
+    "params": {
+      "STR": 13,
+      "CON": 16,
+      "POW": 16,
+      "DEX": 15,
+      "APP": 14,
+      "SIZ": 13,
+      "INT": 12,
+      "EDU": 18
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "真面目、冷静、偏屈",
+    "colors": [
+      "#5383c3"
+    ],
+    "description": "対神話殲滅機関アルカナにて、原初のアルカナ「皇帝」を預かる青年。\n言動が胡乱な上たまに辛辣な、人懐こいペンギン（？）。\n幼少期から周囲に期待されて育った。人に頼られるのが好きだが、あてにされるのは嫌い。人間嫌いであると同時に、同僚のことは「一蓮托生」くらいには想っている。",
+    "history": [
+      "GODARCA HOⅣ：皇帝（ロスト）"
+    ],
+    "status": "ロスト",
+    "traits": [
+      "回避",
+      "盾",
+      "オカルト"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "hirono-romi",
+    "name": "洋野ロミー",
+    "name_kana": "Hirono Romi",
+    "image": "hirono-romi.png",
+    "origin": "現代日本",
+    "age": 20,
+    "job": "大学生 / 殺し屋",
+    "last_active": 2024,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 12,
+      "CON": 18,
+      "POW": 14,
+      "DEX": 12,
+      "APP": 11,
+      "SIZ": 10,
+      "INT": 14,
+      "EDU": 14
+    },
+    "features": [
+      "オーラなし",
+      "しぶとい"
+    ],
+    "personality": "明るい、善良、真面目",
+    "colors": [
+      "#d7003a"
+    ],
+    "description": "※「PHOENIX=EXE=EXPRESS」殺し屋特徴表採用\n\n本名は『 海野識（Umino shiki） 』。裏稼業で稼ぎながら通信制大学で学ぶ青年。\n一般的な風貌で、常識的な感性を持つが、たまにドライ。また死生観がざっくばらんとしている。\n幼少期にとある事件で両親を失っており、犯人への復讐を願って自らアンダーグラウンドへ踏み込んだ。本人なりの理を持って犯罪者を続けており、己の今の人生は余生である、という認識でいる。",
+    "history": [
+      "PHOENIX=EXE=EXPRESS HO2"
+    ],
+    "status": "継続可",
+    "traits": [
+      "大学生",
+      "犯罪者"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "sasaki-ritsumaru",
+    "name": "笹記律丸",
+    "name_kana": "Sasaki Ritsumaru",
+    "image": "sasaki-ritsumaru.png",
+    "origin": "1923年帝都",
+    "age": 32,
+    "job": "探偵",
+    "last_active": 2025,
+    "first_active": [
+      "普通シナリオ",
+      "過去シナリオ"
+    ],
+    "gender": "男",
+    "myth": false,
+    "family": "笹記",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 12,
+      "CON": 11,
+      "POW": 16,
+      "DEX": 14,
+      "APP": 12,
+      "SIZ": 13,
+      "INT": 15,
+      "EDU": 17
+    },
+    "features": [
+      "夜に弱い",
+      "好意を寄せられている"
+    ],
+    "personality": "真面目、冷静、人懐こい",
+    "colors": [
+      "#7ebea5"
+    ],
+    "description": "個人で小さな事務所を切り盛りしている探偵。\n常識人でノリも良く、仕事に首ったけの一方でオフではいろいろ適当。\n下に妹がひとりおり、姪もいる。",
+    "history": [
+      "誰が袖に花苑 HO探偵（1919年帝都 / 28歳）",
+      "帝都に咲く悪の影"
+    ],
+    "status": "継続可",
+    "traits": [
+      "探偵",
+      "夜に弱い",
+      "好意を寄せられている",
+      "目星"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "mizumi-mizuka",
+    "name": "水見水花",
+    "name_kana": "Mizumi Mizuka",
+    "image": "mizumi-mizuka.png",
+    "origin": "2069年日本",
+    "age": 20,
+    "job": "大学生（工学部）",
+    "last_active": 2024,
+    "first_active": "未来シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": "渡",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 9,
+      "CON": 12,
+      "POW": 14,
+      "DEX": 15,
+      "APP": 12,
+      "SIZ": 10,
+      "INT": 15,
+      "EDU": 14
+    },
+    "features": [
+      "俊敏",
+      "ペット"
+    ],
+    "personality": "謙虚、温厚、天邪鬼",
+    "colors": [
+      "#eb6ea5"
+    ],
+    "description": "機械工学を学ぶ大学生。蛇型ロボット兼最愛のペット「うなぎ丸シリーズ」のメンテと改造にお熱。\n感情エネルギーの浪費をきらっているので、ローテンションだが態度はそれなりに気楽で陽気。\n出自はとある医療技術臨床実験の成果として誕生した、ヒトクローンの成功例。とはいえ特殊なのはあくまで出自だけで、育成環境はごふ普通。後見人もとい保護者との関係も良好。",
+    "history": [
+      "人類讃歌"
+    ],
+    "status": "ロスト",
+    "traits": [
+      "俊敏",
+      "ペット",
+      "大学生"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "kino-minami",
+    "name": "紀美南",
+    "name_kana": "Kno Minami",
+    "image": "kino-minami.png",
+    "origin": "現代日本",
+    "age": 21,
+    "job": "大学生（薬学部）",
+    "last_active": 2025,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 14,
+      "CON": 12,
+      "POW": 14,
+      "DEX": 10,
+      "APP": 14,
+      "SIZ": 11,
+      "INT": 12,
+      "EDU": 14
+    },
+    "features": [
+      "おおらか",
+      "暗黒の祖先（48）"
+    ],
+    "personality": "大人しい、ガラが悪い、たまに不穏",
+    "colors": [
+      "#3e62ad"
+    ],
+    "description": "自称「いたいけな大学生」で、素性もいたいけな大学生。\n善良な性格をしているが、肝はある程度据わっている。\n生まれはやくざの家で、大事にされて育った。加齢につれて「かたぎとして生きたい」という思いが強くなり、成人と同時に組及び父親と円満に絶縁。擬似的な天涯孤独となり、独立して今に至る。",
+    "history": [
+      "初恋性ストックホルム症候群 KPC",
+      "AND/HAND",
+      "君が夜を終わらせて KPC",
+      "理不尽sermarie"
+    ],
+    "status": "継続可",
+    "traits": [
+      "大学生",
+      "おおらか",
+      "暗黒の祖先"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "isaac-fallon",
+    "name": "アイザック・ファロン",
+    "name_kana": "Isaac Fallon",
+    "image": "isaac-fallon.png",
+    "origin": "現代日本",
+    "age": 28,
+    "job": "探偵 / 喫茶店店員",
+    "last_active": 2025,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": null,
+    "organization": "喫茶店シェイド",
+    "relations": {
+      "partner": true,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 10,
+      "CON": 17,
+      "POW": 12,
+      "DEX": 13,
+      "APP": 18,
+      "SIZ": 11,
+      "INT": 14,
+      "EDU": 16
+    },
+    "features": [
+      "戦士",
+      "寄せ餌"
+    ],
+    "personality": "謙虚、素直、あまり笑わない",
+    "colors": [
+      "#1e50a2"
+    ],
+    "description": "探偵と「シェイド」という喫茶店のスタッフを兼業しているアイルランド系日本人。母国語は日本語。\n他人にあまり興味がないので交遊関係は狭く浅いが、身内に甘いのでだいたい他人に合わせるし、優先している。\n両親を災害で失くして以降児童養護施設で育っており、身の上としては天涯孤独。",
+    "history": [
+      "Dream Box KPC"
+    ],
+    "status": "KPC",
+    "traits": [
+      "戦士",
+      "寄せ餌",
+      "探偵",
+      "目星"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "ashina-mizuho",
+    "name": "葦名瑞穂",
+    "name_kana": "Ashina Mizuho",
+    "image": "ashina_mizuho.png",
+    "origin": "現代日本",
+    "age": 16,
+    "job": "高校生",
+    "last_active": 2024,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": "葦名",
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 8,
+      "CON": 12,
+      "POW": 10,
+      "DEX": 13,
+      "APP": 12,
+      "SIZ": 10,
+      "INT": 11,
+      "EDU": 10
+    },
+    "features": [
+      "君は風邪をひかない",
+      "愛書家"
+    ],
+    "personality": "気まま、惚れっぽい",
+    "colors": [
+      "#e7609e"
+    ],
+    "description": "姉妹制度がある女子高の生徒。実家は剣術道場をやっている。\n自由で表情豊か。下に弟や妹がいて、面倒見もいい。\n兄もしくは姉という存在に憧れている時期があった。",
+    "history": [
+      "梅に鶯、白百合に鳥 HO妹"
+    ],
+    "status": "継続可",
+    "traits": [
+      "高校生",
+      "学生",
+      "君は風邪をひかない",
+      "愛書家"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "yaguruma-gunjou",
+    "name": "矢車群青",
+    "name_kana": "Yaguruma Gunjou",
+    "image": "yaguruma-gunjou.png",
+    "origin": "2XXX年",
+    "age": 21,
+    "job": "画家",
+    "last_active": 2024,
+    "first_active": [
+      "秘匿シナリオ",
+      "未来シナリオ"
+    ],
+    "gender": "女",
+    "myth": false,
+    "family": "矢車",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 9,
+      "CON": 13,
+      "POW": 16,
+      "DEX": 16,
+      "APP": 12,
+      "SIZ": 12,
+      "INT": 17,
+      "EDU": 14
+    },
+    "features": [
+      "ド根性",
+      "信頼のおける人"
+    ],
+    "personality": "素直、好奇心旺盛",
+    "colors": [
+      "#4c6cb3"
+    ],
+    "description": "青色を好む見習い画家。趣味で旧文明のカメラを嗜む。\n学者気質で、好きなことや気になったことはとことん追求したがる。\n地上から見た空の色や海、地上のみで見られる青色にも興味を持っている。",
+    "history": [
+      "空の青さの掴み方 HO2"
+    ],
+    "status": "継続可",
+    "traits": [
+      "ド根性",
+      "信頼のおける人",
+      "画家",
+      "回避",
+      "跳躍"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "yoi",
+    "name": "ヨイ",
+    "name_kana": "Yoi",
+    "image": "yoi.png",
+    "origin": "現代日本",
+    "age": 5,
+    "job": "保育園児",
+    "last_active": 2024,
+    "first_active": "特殊シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 9,
+      "CON": 12,
+      "POW": 15,
+      "DEX": 16,
+      "APP": 10,
+      "SIZ": 9,
+      "INT": 15,
+      "EDU": 6
+    },
+    "features": [
+      "大酒飲み"
+    ],
+    "personality": "人懐こい、素直、犬っぽい",
+    "colors": [
+      "#4d5aaf"
+    ],
+    "description": "素直で優しく、人の言うことをよく聞く子ども。甘え上手。同年代と比較するとかなり大人びていて、時折鋭く悟った発言をする。\n機械とりんごと友達が大好き。\n「りっぱなおとな」「やさしいおとな」になるのが夢で、何事も自分でやるのを好む。",
+    "history": [
+      "常夜聖戦 2話「宇宙は女の顔をしている」"
+    ],
+    "status": "継続可",
+    "traits": [
+      "大酒飲み",
+      "目星",
+      "機械修理"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "hoshimi-aoi",
+    "name": "星見葵",
+    "name_kana": "Hoshimi Aoi",
+    "image": "hoshimi-aoi.png",
+    "origin": "現代日本",
+    "age": 19,
+    "job": "大学生 / 菓子店アルバイト",
+    "last_active": 2023,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": "葦名",
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": true
+    },
+    "params": {
+      "STR": 14,
+      "CON": 18,
+      "POW": 14,
+      "DEX": 16,
+      "APP": 12,
+      "SIZ": 10,
+      "INT": 12,
+      "EDU": 13
+    },
+    "features": [
+      "前職",
+      "飛ばし屋"
+    ],
+    "personality": "誠実、勉強好き、まっすぐ",
+    "colors": [
+      "#fcc800"
+    ],
+    "description": "過不足ない家庭で育った大学生。\n困った人を放っておけない性格で、ロマンチスト。\nかつては探偵社でアルバイトをしていて、大学卒業後は正社員になってはどうかと打診されていた。",
+    "history": [
+      "愛罠蜂 HO2"
+    ],
+    "status": "継続可",
+    "traits": [
+      "菓子店アルバイト",
+      "前職",
+      "飛ばし屋",
+      "芸術"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "oribe-rikumune",
+    "name": "織部六宗",
+    "name_kana": "Oribe Rikumune",
+    "image": "oribe-rikumune.png",
+    "origin": "現代日本",
+    "age": 35,
+    "job": "『 憑きの輪 』",
+    "last_active": 2023,
+    "first_active": [
+      "秘匿シナリオ",
+      "特殊シナリオ"
+    ],
+    "gender": "男",
+    "myth": false,
+    "family": "織部",
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 10,
+      "CON": 4,
+      "POW": 18,
+      "DEX": 13,
+      "APP": 10,
+      "SIZ": 13,
+      "INT": 16,
+      "EDU": 18
+    },
+    "features": [
+      "受け身",
+      "暗黒の祖先"
+    ],
+    "personality": "大胆不敵、刹那的、楽観的",
+    "colors": [
+      "#9079ad"
+    ],
+    "description": "呪詛、怪異、神話存在の専門家『 憑きの輪 』の実質的なボス。\n外なる神と接点を持つ知識にまつわる怪異『 本の蟲 』に憑かれており、以降、知識（情報）に関する権能を得る。\n「フィジカルがメンタルに全部吸われている」と揶揄される心身を持つ生まれつきの虚弱体質。他者には良くも悪くも無関心なノンデリだが、経験や立場を共有する家族や友人は身内として贔屓する。",
+    "history": [
+      "シュガー＆バンビマンとツキノワ奇譚 HO1-A"
+    ],
+    "status": "継続可",
+    "traits": [
+      "受け身",
+      "暗黒の祖先",
+      "回避",
+      "図書館",
+      "目星",
+      "芸術（説法）"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "sasaki-yuuka",
+    "name": "笹紀優嘉",
+    "name_kana": "Sasaki Yuuka",
+    "image": "sasaki-yuuka.png",
+    "origin": "現代日本",
+    "age": 27,
+    "job": "探偵",
+    "last_active": 2024,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 15,
+      "CON": 12,
+      "POW": 16,
+      "DEX": 15,
+      "APP": 11,
+      "SIZ": 11,
+      "INT": 13,
+      "EDU": 15
+    },
+    "features": [
+      "信頼のおける人",
+      "眼鏡をかけている"
+    ],
+    "personality": "明るい、落ち着いている",
+    "colors": [
+      "#d7003a"
+    ],
+    "description": "個人で事務所を抱え、切り盛りしている探偵。\n人好きをし、人といるとよく話す。一方で表に出すことはあまりないが繊細で神経質な部分も多く、とりわけ大音や暴力は苦手。\n未成年時代は警察志望だったが、警察の組織的拘束力が自らには不向きと判断し、進路を転向し今に至る。",
+    "history": [
+      "Panacea.Cry.Sentence HO2",
+      "The Backrooms"
+    ],
+    "status": "継続可",
+    "traits": [
+      "信頼のおける人",
+      "眼鏡をかけている",
+      "探偵",
+      "回避",
+      "鍵開け",
+      "隠す",
+      "隠れる",
+      "聞き耳",
+      "追跡"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "hoshino-fukurou",
+    "name": "保志野福郎",
+    "name_kana": "Hoshino Fukurou",
+    "image": "hoshino-fukurou.png",
+    "origin": "現代日本",
+    "age": 26,
+    "job": "探偵",
+    "last_active": 2023,
+    "first_active": "秘匿シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": "保志野",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 12,
+      "CON": 16,
+      "POW": 15,
+      "DEX": 19,
+      "APP": 12,
+      "SIZ": 12,
+      "INT": 17,
+      "EDU": 15
+    },
+    "features": [
+      "天才",
+      "素早い"
+    ],
+    "personality": "優しい",
+    "colors": [
+      "#1e50a2"
+    ],
+    "description": "穏やかで、喜怒哀楽がはっきりしている。優しさが転じて身内には人一倍甘く、あまり強く叱れない。\nなんでもそつなくこなすハイスペックな人材。できないことは荒事くらいだが、悪く言えば器用貧乏。人並みに挫折や後悔も経験している。\n探偵業を「警察では手の届きづらい案件を預かる仕事」と思っている。",
+    "history": [
+      "一二人の密室"
+    ],
+    "status": "継続可",
+    "traits": [
+      "探偵",
+      "天才",
+      "素早い",
+      "回避",
+      "目星",
+      "図書館",
+      "心理学"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "shinonome-homura",
+    "name": "東雲焔",
+    "name_kana": "Shinonome Homura",
+    "image": "shinonome-homura.png",
+    "origin": "現代日本",
+    "age": "??",
+    "job": null,
+    "last_active": 2024,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 16,
+      "CON": 14,
+      "POW": 17,
+      "DEX": 11,
+      "APP": 17,
+      "SIZ": 14,
+      "INT": 12,
+      "EDU": 19
+    },
+    "features": [
+      "プロ・ドライバー",
+      "斜め上からの発想"
+    ],
+    "personality": "のどやか、好々爺、子どもっぽい",
+    "colors": [
+      "#ed6d3d"
+    ],
+    "description": "人間社会にまぎれて暮らす吸血鬼。住所は持っているがあまり帰っておらず、正体を秘匿するため定期的に引っ越している。ホテル暮らしの時期もある。\n見目の良さが相まって人間に取り入るのがうまく、よく（適当に）目をつけた人間の家に（男女問わず）転がりこんでいる。\n現在の稼ぎは主に不動産の不労所得と資産運用で得ている。",
+    "history": [
+      "吸血鬼と椅子 KPC",
+      "かみさまのいうとおり",
+      "吸血鬼とブラックレター KPC"
+    ],
+    "status": "継続可",
+    "traits": [
+      "プロ・ドライバー",
+      "斜め上からの発想",
+      "吸血鬼",
+      "値切り"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "un",
+    "name": "アン",
+    "name_kana": "Un",
+    "image": "un.png",
+    "origin": "2XXX年",
+    "age": "??",
+    "job": null,
+    "last_active": 2023,
+    "first_active": [
+      "秘匿シナリオ",
+      "未来シナリオ"
+    ],
+    "gender": "不明",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 6,
+      "CON": 16,
+      "POW": 17,
+      "DEX": 14,
+      "APP": 8,
+      "SIZ": 8,
+      "INT": 13,
+      "EDU": 15
+    },
+    "features": [
+      "鷹の目",
+      "ナルシスト"
+    ],
+    "personality": "寡黙、のんびり",
+    "colors": [
+      "#bbc8e6"
+    ],
+    "description": "※詫び菓子卓特徴表採用\n少女の容貌をした人物。肌に多くの傷や入れ墨がある。\n四六時中ぼーっとしていて何を考えているのか分からないが、コミュニケーションは成り立つ。\n実はノリがいいので、無茶ぶりをすると本人なりに応えてくれる。",
+    "history": [
+      "NapFrappe HO Moon"
+    ],
+    "status": "継続可",
+    "traits": [
+      "鷹の目",
+      "ナルシスト",
+      "詫び菓子卓",
+      "目星"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "hodumi-arata",
+    "name": "八月朔日新",
+    "name_kana": "Hozumi Arata",
+    "image": "hodumi-arata.png",
+    "origin": "現代日本",
+    "age": 27,
+    "job": "刑事（鑑識課警察犬係）",
+    "last_active": 2024,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": null,
+    "organization": "喫茶店シェイド",
+    "relations": {
+      "partner": true,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 11,
+      "CON": 15,
+      "POW": 12,
+      "DEX": 16,
+      "APP": 13,
+      "SIZ": 11,
+      "INT": 14,
+      "EDU": 16
+    },
+    "features": [
+      "戦士",
+      "寄せ餌"
+    ],
+    "personality": "物腰柔らか、物分かりが良い",
+    "colors": [
+      "#f8b500"
+    ],
+    "description": "警視庁鑑識課 警察犬係所属。\n外面は明るく丁重な振る舞いを心掛けている。とはいえ「こうすれば人に良く捉えてもらえる」と知っているからそうしているだけで、根はどちらかと言えば人見知りかつ人間関係を築くのが苦手。\n未成年時代になんとなく「早く家を出たい」と考えていて、その考えの矛先として警察を選んだ。ほかの選択肢には自衛隊があったらしい。",
+    "history": [
+      "やさしい朝をくださいね KPC",
+      "ウィンチェスター黙示録 第一話「人殺しの家」",
+      "ウィンチェスター黙示録 第二話「被害者の庭」",
+      "ウィンチェスター黙示録 第三話「容疑者の塔」",
+      "ウィンチェスター黙示録 第四話「彼の星」"
+    ],
+    "status": "継続可",
+    "traits": [],
+    "novel_url": ""
+  },
+  {
+    "id": "gotou-hibari",
+    "name": "梧桐雲雀",
+    "name_kana": "Gotou Hibari",
+    "image": "gotou-hibari.png",
+    "origin": "現代日本",
+    "age": 17,
+    "job": "高校生",
+    "last_active": 2025,
+    "first_active": "秘匿シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": "織部",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 13,
+      "CON": 12,
+      "POW": 15,
+      "DEX": 10,
+      "APP": 13,
+      "SIZ": 12,
+      "INT": 12,
+      "EDU": 11
+    },
+    "features": [
+      "受け身"
+    ],
+    "personality": "お気楽、友好的、気怠げ",
+    "colors": [
+      "#9d5b8b"
+    ],
+    "description": "四方谷高校新聞部。\n自然主義的な思想の持ち主で、他人には良くも悪くも無関心。己がややズレているのを自覚しているぶん、基本的に冷静かつ寛容。\n紆余曲折あって肉親とは離縁や自然な死に別れが重なっていて、現在は親戚の援助を受けながら祖父母とともに暮らしていた一軒家で生活している。",
+    "history": [
+      "私立花ヶ丘高校秘密倶楽部 HO12",
+      "廻想する夜話 KPC",
+      "目目目目",
+      "呪われてるのはお前だろ！！"
+    ],
+    "status": "継続可",
+    "traits": [
+      "受け身",
+      "高校生",
+      "学生"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "mika-mika",
+    "name": "昧日未日",
+    "name_kana": "Mika Mika",
+    "image": "mika-mika.png",
+    "origin": "現代日本",
+    "age": 16,
+    "job": "高校生",
+    "last_active": 2024,
+    "first_active": "秘匿シナリオ",
+    "gender": "男",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 8,
+      "CON": 14,
+      "POW": 14,
+      "DEX": 10,
+      "APP": 16,
+      "SIZ": 8,
+      "INT": 17,
+      "EDU": 10
+    },
+    "features": [
+      "天才",
+      "-"
+    ],
+    "personality": "面食い、人懐こい、常識人",
+    "colors": [
+      "#00a3af"
+    ],
+    "description": "超高校級の『魔法使い』。\n自らの見た目の良さを自覚していて、自分に似合う格好を好んでやっている。\n運動好きだが筋力には恵まれない体質。",
+    "history": [
+      "Zodiac school HO未",
+      "潜入!?入信!?カルト教団ネティコヤァン"
+    ],
+    "status": "継続可",
+    "traits": [
+      "天才",
+      "精神分析"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "iemori-nemu",
+    "name": "家守ねむ",
+    "name_kana": "Iemori Nemu",
+    "image": "iemori-nemu.png",
+    "origin": "現代日本",
+    "age": 22,
+    "job": "大学生",
+    "last_active": 2023,
+    "first_active": "普通シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": "家守",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 9,
+      "CON": 15,
+      "POW": 18,
+      "DEX": 12,
+      "APP": 13,
+      "SIZ": 9,
+      "INT": 13,
+      "EDU": 13
+    },
+    "features": [
+      "俊敏",
+      "アウトドア派"
+    ],
+    "personality": "天真爛漫、素直",
+    "colors": [
+      "#59b9c6"
+    ],
+    "description": "異父兄と暮らす青年。\n通信制大学に通う傍ら、フリーのライター及びカメラマンとして働いている。\nライター業の傍らで都市伝説や怪談、廃墟に首を突っ込んでいたらオカルト話に強くなった。",
+    "history": [
+      "こん、こんこん"
+    ],
+    "status": "継続可",
+    "traits": [
+      "俊敏",
+      "アウトドア派",
+      "大学生"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "tuli",
+    "name": "トゥーリ",
+    "name_kana": "Tuli",
+    "image": "tuli.png",
+    "origin": null,
+    "age": 17,
+    "job": "船舶整備士",
+    "last_active": 2023,
+    "first_active": "特殊シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 10,
+      "CON": 15,
+      "POW": 14,
+      "DEX": 5,
+      "APP": 12,
+      "SIZ": 8,
+      "INT": 11,
+      "EDU": 11
+    },
+    "features": [
+      "実は生きていた",
+      "強固な意志"
+    ],
+    "personality": "明朗快活",
+    "colors": [
+      "#e9546b"
+    ],
+    "description": "元気だけが取り柄な船舶整備士（整備専門）の少女。\n勉強熱心であるにも関わらず何をしても不器用。\n整備士業においても作業時間こそ長いものの、ゆっくり集中することで正確な整備を行っている。",
+    "history": [
+      "原罪の国",
+      "王子は僕と世界を騙る"
+    ],
+    "status": "継続可",
+    "traits": [
+      "実は生きていた",
+      "強固な意志"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "pusa",
+    "name": "ププハリサウロロフス",
+    "name_kana": "Pupupuharisaurofusu",
+    "image": "pusa.png",
+    "origin": "現代日本",
+    "age": "??",
+    "job": "-",
+    "last_active": 2023,
+    "first_active": [
+      "普通シナリオ",
+      "特殊シナリオ"
+    ],
+    "gender": "不明",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 34,
+      "CON": 23,
+      "POW": 23,
+      "DEX": 17,
+      "APP": null,
+      "SIZ": 35,
+      "INT": 18,
+      "EDU": null
+    },
+    "features": [
+      "-",
+      "-"
+    ],
+    "personality": "大人しい、のんびり",
+    "colors": [
+      "#c1e4e9"
+    ],
+    "description": "「月棲兎（ムーン＝ラビースト）」と呼ばれる大きなウサギのような生き物。「ぶー」「ぷー」と鳴く。雑食。暑いところは苦手。耳がよく、跳ねると高くまで届く。\n人間観察が趣味で、なわばりの山に入ってきた人間をよく遠くから眺めている。\nあるとき出会った少年からはププハリサウロロフス、縮めて「プサ」と呼ばれている。少年のことは「ぱー」と呼んでいる。",
+    "history": [
+      "愛飢ゑヲワル HO神話生物"
+    ],
+    "status": "継続可",
+    "traits": [
+      "神話生物",
+      "聞き耳",
+      "跳躍"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "shizuku-beni",
+    "name": "雫紅",
+    "name_kana": "Shizuku Beni",
+    "image": "shizuku-beni.png",
+    "origin": "現代日本",
+    "age": 23,
+    "job": "スーパー店員 / 『 駅員 』",
+    "last_active": 2023,
+    "first_active": "特殊シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 12,
+      "CON": 16,
+      "POW": 13,
+      "DEX": 11,
+      "APP": 9,
+      "SIZ": 11,
+      "INT": 10,
+      "EDU": 14
+    },
+    "features": [
+      "鋼の筋力",
+      "スポーツ万能"
+    ],
+    "personality": "無口, 真面目, 激情家",
+    "colors": [
+      "#d7003a"
+    ],
+    "description": "昼はスーパーマーケットのアルバイト、夜は『地下鉄』の駅員として働く女性。体力自慢。\n昼の顔では自分を制している反動で、オフや駅員としては若干ガラが悪い。\nロードバイクに興味があり、気になるバイクのために貯金中。",
+    "history": [
+      "午前二時には眠れない"
+    ],
+    "status": "継続可",
+    "traits": [
+      "スーパー店員",
+      "駅員",
+      "鋼の筋力",
+      "スポーツ万能",
+      "杖"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "watari-manaka",
+    "name": "渡真中",
+    "name_kana": "Watari Manaka",
+    "image": "watari-manaka.png",
+    "origin": "現代日本",
+    "age": 19,
+    "job": "大学生（人文学部）",
+    "last_active": 2022,
+    "first_active": "普通シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": "渡",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 11,
+      "CON": 13,
+      "POW": 15,
+      "DEX": 13,
+      "APP": 11,
+      "SIZ": 11,
+      "INT": 12,
+      "EDU": 13
+    },
+    "features": [
+      "動物に好かれる",
+      "アウトドア派"
+    ],
+    "personality": "真面目, おっとり, 騙されやすい",
+    "colors": [
+      "#f6ad49"
+    ],
+    "description": "考古学・民俗学主専攻の大学生。冒険好きで、しかし現代で冒険はなかなか難しいので研究を通して「未知に触れる」ことを自らの冒険として定義づけている。\n夢見がちだが保身を重視する。根はリアリストであると同時に、善人、かつ害意や悪意への耐性がないので、情に流してしまえば非常に騙しやすい。\n将来的には学芸員への就職を目指している。",
+    "history": [
+      "じょはり",
+      "スーサイデッドメアリンク"
+    ],
+    "status": "継続可",
+    "traits": [
+      "大学生",
+      "動物に好かれる",
+      "アウトドア派"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "chong",
+    "name": "フォン",
+    "name_kana": "Chóng",
+    "image": "chong.png",
+    "origin": "現代日本",
+    "age": 31,
+    "job": "怪盗 / サイバー探偵",
+    "last_active": 2023,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 7,
+      "CON": 5,
+      "POW": 18,
+      "DEX": 16,
+      "APP": 15,
+      "SIZ": 9,
+      "INT": 15,
+      "EDU": 21
+    },
+    "features": [
+      "勉強家",
+      "アウトドア派"
+    ],
+    "personality": "落ち着いている、明るい",
+    "colors": [
+      "#88cb7f"
+    ],
+    "description": "とある怪盗団に所属しながら、ネットトラブル限定の探偵としても活動している女性。\n楽しいことしたがりで、お祭り、おしゃれといった賑やかできらきらしたことを好む。クリスマスのイルミネーションや夜景が好きだし、宝石も好き。\n炊事洗濯、掃除なども一通りこなす生活力と技量の持ち主だが、貧弱な体質なのですぐ息切れするのが悩み。",
+    "history": [
+      "JOKER≒JOKER HO参謀"
+    ],
+    "status": "継続可",
+    "traits": [
+      "探偵",
+      "犯罪者",
+      "怪盗",
+      "勉強家",
+      "アウトドア派",
+      "コンピューター",
+      "図書館"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "thomas-viola",
+    "name": "トーマス・ヴァイオラ",
+    "name_kana": "Thomas Viola",
+    "image": "thomas-viola.png",
+    "origin": "1920年代アメリカ",
+    "age": 29,
+    "job": "マフィア",
+    "last_active": 2022,
+    "first_active": [
+      "秘匿シナリオ",
+      "過去シナリオ"
+    ],
+    "gender": "男",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 12,
+      "CON": 16,
+      "POW": 15,
+      "DEX": 13,
+      "APP": 14,
+      "SIZ": 10,
+      "INT": 12,
+      "EDU": 18
+    },
+    "features": [
+      "-",
+      "-"
+    ],
+    "personality": "真面目、身内に甘い",
+    "colors": [
+      "#7058a3"
+    ],
+    "description": "ニューヨークを拠点とするファミリーの時期ドン。童顔で、眉間によくシワが寄っている。\n誠実で、老若男女問わず人の意見もよく聞く柔軟な気質をしているものの、「家族」を思うあまり空回って判断が鈍ることもある。\n本人の自己評価は「29にもなってまだ未熟」に尽きるが、時期ドンとしては胸を張り弱みを見せず、ファミリーを守る視点を常に持っていなければならないと思っている。",
+    "history": [
+      "Aconite HO1"
+    ],
+    "status": "引退",
+    "traits": [
+      "マフィア",
+      "犯罪者",
+      "聞き耳",
+      "信用"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "morozumi-harunari",
+    "name": "諸墨晴成",
+    "name_kana": "Morozumi Harunari",
+    "image": "morozumi-harunari.png",
+    "origin": "現代日本",
+    "age": 17,
+    "job": "高校生（水泳部）",
+    "last_active": 2023,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 13,
+      "CON": 10,
+      "POW": 11,
+      "DEX": 12,
+      "APP": 11,
+      "SIZ": 12,
+      "INT": 13,
+      "EDU": 11
+    },
+    "features": [
+      "潜水の名人",
+      "手先が器用"
+    ],
+    "personality": "根明, 人懐こい, 反射で動く",
+    "colors": [
+      "#e45e32"
+    ],
+    "description": "過不足ない環境で育った少年。家は車の整備工場をやっていて、晴成自身も車に詳しい。\n小さなころから冷静で頼り甲斐のある大人になることを夢見ている一方で、そうなるには程遠い三枚目。\n最近は進路に悩んでいる。第一志望は工業大学。実家を継ぐとまでは言わないが、車や機械に携わる仕事がしたいと考えている。",
+    "history": [
+      "君待つ明日に僕はいない KPC",
+      "おまえがぬいぐるみになったってマジ？？",
+      "コフェア・サナトリウムの安息"
+    ],
+    "status": "継続可",
+    "traits": [
+      "高校生",
+      "学生",
+      "潜水の名人",
+      "手先が器用"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "furumi-iwako",
+    "name": "古海岩子",
+    "name_kana": "Furumi Iwako",
+    "image": "furumi-iwako.png",
+    "origin": "現代日本",
+    "age": 30,
+    "job": "刑事",
+    "last_active": 2023,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 18,
+      "CON": 16,
+      "POW": 11,
+      "DEX": 11,
+      "APP": 10,
+      "SIZ": 16,
+      "INT": 12,
+      "EDU": 17
+    },
+    "features": [
+      "飛ばし屋",
+      "平凡な容姿"
+    ],
+    "personality": "冷静沈着, 寡黙, 適当",
+    "colors": [
+      "#ba2636"
+    ],
+    "description": "かつて家族に「イワシくらい強い子が女性警官になったら女の子はみんな助かるね」と言われたのを真に受けて警察を志した。\n感情が顔に出にくく、端的に言えば真面目ボケ。\n体格の良さを同僚や知り合いの女性に（不審者除けなどで）よく利用されている。",
+    "history": [
+      "晩夏の聖処女 HO2"
+    ],
+    "status": "継続可",
+    "traits": [
+      "刑事",
+      "警察関係者",
+      "飛ばし屋",
+      "平凡な容姿",
+      "武道（空手）"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "flora-applebee",
+    "name": "フローラ・アップルビー",
+    "name_kana": "Flora Applebee",
+    "image": "flora-applebee.png",
+    "origin": "現代アメリカ",
+    "age": 22,
+    "job": "大学生（理学部）",
+    "last_active": 2022,
+    "first_active": "普通シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": "アップルビー",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 8,
+      "CON": 13,
+      "POW": 14,
+      "DEX": 14,
+      "APP": 8,
+      "SIZ": 13,
+      "INT": 13,
+      "EDU": 12
+    },
+    "features": [
+      "奇妙な幸運",
+      "目つきが悪い"
+    ],
+    "personality": "大人しい, 照れ屋, 積極的",
+    "colors": [
+      "#e95464"
+    ],
+    "description": "宇宙飛行士を目指している女性。生まれつき顔に痣がある。\n根っからのロマンチストで、何かと夢見がち。\nアメリカ生まれアメリカ育ちだが、親の仕事の都合で小中学の9年間を日本で過ごしていた。中学卒業後はアメリカに帰国し進学。現在は長期休暇などに度々来日している。",
+    "history": [
+      "天体の廻転について HO2"
+    ],
+    "status": "継続可",
+    "traits": [
+      "大学生",
+      "奇妙な幸運",
+      "目つきが悪い",
+      "聞き耳",
+      "図書館"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "yaguruma-aiba",
+    "name": "矢車藍葉",
+    "name_kana": "Yaguruma Aiba",
+    "image": "yaguruma-aiba.png",
+    "origin": "現代日本",
+    "age": 27,
+    "job": "喫茶店店員",
+    "last_active": 2025,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": "矢車",
+    "organization": "喫茶店シェイド",
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 13,
+      "CON": 9,
+      "POW": 12,
+      "DEX": 15,
+      "APP": 11,
+      "SIZ": 12,
+      "INT": 13,
+      "EDU": 18
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "人懐こい、楽観的",
+    "colors": [
+      "#4169e1"
+    ],
+    "description": "元学芸員。同僚の死をきっかけに美術館を離れ、現在は喫茶店で働いている。\n見た目から思うよりリアクションが大きいので第一印象で誤解を受けやすく、変人と見られやすい。根は常識人。\n学芸員ではなくなっても美術品（特に絵画）への審美眼は健在で、気になる展覧会があれば最寄りの美術館へ足を運んでいる。",
+    "history": [
+      "ピリオド・アズール HO1",
+      "ポイエシスの墓守",
+      "小鳥は宇宙で息をする"
+    ],
+    "status": "継続可",
+    "traits": [
+      "喫茶店店員",
+      "目星",
+      "芸術（絵画）"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "asukaze-asuka",
+    "name": "明日風飛鳥",
+    "name_kana": "Asukaze Asuka",
+    "image": "asukaze-asuka.png",
+    "origin": "現代日本",
+    "age": 29,
+    "job": "刑事（捜査三課）",
+    "last_active": 2024,
+    "first_active": [
+      "秘匿シナリオ",
+      "特殊シナリオ"
+    ],
+    "gender": "女",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 12,
+      "CON": 9,
+      "POW": 13,
+      "DEX": 18,
+      "APP": 15,
+      "SIZ": 13,
+      "INT": 12,
+      "EDU": 19
+    },
+    "features": [
+      "不屈の精神力",
+      "ド根性"
+    ],
+    "personality": "軽薄、表情豊か、笑い声が大きい",
+    "colors": [
+      "#59b9c6"
+    ],
+    "description": "捜査三課に所属する落ちこぼれ刑事。サボタージュ常習犯で、彼女のデスク上には折り紙や紙飛行機が散乱している。\n誰にでも屈託のない態度で接し、怒られても悪意を向けられてもヘラヘラしている。お年寄りや子どもに優しい。\n両親は子どもの頃に離婚しており、顔もよく知らない親戚の家を転々としながら育った。",
+    "history": [
+      "快刀乱魔 HO3",
+      "シルバーバレットは不死の夢を見るか？ PC1"
+    ],
+    "status": "継続可",
+    "traits": [
+      "捜査三課",
+      "刑事",
+      "警察関係者",
+      "不屈の精神力",
+      "ド根性",
+      "日本刀",
+      "信用"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "nevaeh-gemini",
+    "name": "ネヴァ・ジェミニ",
+    "name_kana": "Nevaeh Gemini",
+    "image": "nevaeh-gemini.png",
+    "origin": "現代スペイン",
+    "age": 24,
+    "job": "ツアーガイド / 探偵",
+    "last_active": 2024,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 8,
+      "CON": 11,
+      "POW": 13,
+      "DEX": 10,
+      "APP": 10,
+      "SIZ": 11,
+      "INT": 12,
+      "EDU": 14
+    },
+    "features": [
+      "鋼の筋力"
+    ],
+    "personality": "楽観的, 世話焼き",
+    "colors": [
+      "#eb6101"
+    ],
+    "description": "スペイン人ツアーガイド。「探偵」としては観光業の陰を主な舞台としている。\nおせっかい焼きで、困っている人を放っておけない性格。\n人柄の付き合いやすさから顔見知りやツテが多く、親戚間や仕事仲間、ご近所さん、果てはガイドの担当客からもよく頼られている。",
+    "history": [
+      "十二星座館殺人事件 HO双子座",
+      "君のためのヒポクリシー KPC（ロスト）",
+      "fifty-one:ergs（復活）"
+    ],
+    "status": "継続可",
+    "traits": [
+      "探偵",
+      "ツアーガイド",
+      "鋼の筋力"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "shiokane-yorodu",
+    "name": "塩金萬",
+    "name_kana": "Shiokane Yorodu",
+    "image": "shiokane-yorodu.png",
+    "origin": "現代日本",
+    "age": 28,
+    "job": "サラリーマン",
+    "last_active": 2022,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 10,
+      "CON": 11,
+      "POW": 14,
+      "DEX": 14,
+      "APP": 13,
+      "SIZ": 13,
+      "INT": 15,
+      "EDU": 21
+    },
+    "features": [
+      "不屈の精神力",
+      "鋼の筋力"
+    ],
+    "personality": "ローテンション, ノリが良い, 気が強い",
+    "colors": [
+      "#007bbb"
+    ],
+    "description": "とある会社の事務員。暗い雰囲気を漂わせているが、体力を節約するためにそうしているだけで、素は人並みに明るい。\n物事をはっきり言いたがり、ひとの気持ちには無神経気味。\n一般より頭一つ教養の高い秀才だが、本人にやる気はない。",
+    "history": [
+      "ルベライトジャム HO5"
+    ],
+    "status": "継続可",
+    "traits": [
+      "サラリーマン",
+      "不屈の精神力",
+      "鋼の筋力",
+      "ナビゲート"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "haruna-kanoko",
+    "name": "榛名鹿子",
+    "name_kana": "Haruna Kanoko",
+    "image": "haruna-kanoko.png",
+    "origin": "現代日本",
+    "age": 26,
+    "job": "占い師",
+    "last_active": 2023,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": "",
+    "organization": "紅葉堂",
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 5,
+      "CON": 8,
+      "POW": 18,
+      "DEX": 10,
+      "APP": 13,
+      "SIZ": 12,
+      "INT": 16,
+      "EDU": 15
+    },
+    "features": [
+      "スポーツ万能",
+      "鋭い洞察力"
+    ],
+    "personality": "仕事熱心、丁寧、自己評価低め",
+    "colors": [
+      "#ea5506"
+    ],
+    "description": "「紅葉堂（もみじどう）」という小さな占い店の店主。相談内容毎に適した業者や人の紹介（仲介）も行っていて、占いよりも相談屋としての儲けが多い。\n愛想のいい仕事人間。オフでも敬語で喋るが、得意ではないのですぐにボロが出る。\n「占い師は、自分の経験がなくては成り立たない」という思想を持っている。",
+    "history": [
+      "見果ての綸紡 HO4",
+      "Dream Box KPC"
+    ],
+    "status": "継続可",
+    "traits": [
+      "占い師",
+      "スポーツ万能",
+      "鋭い洞察力",
+      "オカルト",
+      "目星",
+      "言いくるめ"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "kotobuki-ibuki",
+    "name": "寿伊吹",
+    "name_kana": "Kotobuki Ibuki",
+    "image": "kotobuki-ibuki.png",
+    "origin": "現代日本",
+    "age": 25,
+    "job": "薬剤師",
+    "last_active": 2022,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": false,
+    "family": "寿",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 8,
+      "CON": 10,
+      "POW": 12,
+      "DEX": 14,
+      "APP": 14,
+      "SIZ": 13,
+      "INT": 12,
+      "EDU": 18
+    },
+    "features": [
+      "オシャレ",
+      "ド根性"
+    ],
+    "personality": "卑屈、へそ曲がり、責任感が強い",
+    "colors": [
+      "#4d5aaf"
+    ],
+    "description": "医者の家系に育った青年。両親に憧れ同じく医者を志望していたが、進路を上手く運べず薬剤師として就職。今に至る。\n幼少期から周囲に期待されて育っての現在であるため、エリートとしての自覚が中途半端にあるので劣等感も強く、捻くれている。\n職業客には柔らかな態度を取るが、オフでは触れるものみな傷つけるナイフ状態。",
+    "history": [
+      "毒林檎より愛を秘めて",
+      "Undo"
+    ],
+    "status": "継続可",
+    "traits": [
+      "オシャレ",
+      "ド根性",
+      "薬剤師"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "ookami",
+    "name": "『狼』",
+    "name_kana": "Ookami",
+    "image": "ookami.png",
+    "origin": "現代日本",
+    "age": 34,
+    "job": "犯罪者 / 便利屋",
+    "last_active": 2025,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": "星原",
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 9,
+      "CON": 15,
+      "POW": 17,
+      "DEX": 16,
+      "APP": 13,
+      "SIZ": 12,
+      "INT": 12,
+      "EDU": 20
+    },
+    "features": [
+      "君は風邪をひかない",
+      "アウトドア派"
+    ],
+    "personality": "冷静、楽観的、一匹狼",
+    "colors": [
+      "#c9171e"
+    ],
+    "description": "とある犯罪組織に属する女性。\n男性的な口調で喋る。理性が強い一方で、根は刹那的なので脳直行動が多い。\nきれい好きの風呂好き、また派手好き。長風呂や天体観測、酒が趣味。頼みごとをしたいときはバスボムやバスソルトなどの風呂グッズに、香水や服飾品、高い酒で買収できる。",
+    "history": [
+      "かいぶつたちとマホラカルト HO1",
+      "無辜なきかいぶつたちのカオス",
+      "The Hog Game"
+    ],
+    "status": "継続可",
+    "traits": [
+      "犯罪者",
+      "君は風邪をひかない",
+      "アウトドア派",
+      "回避",
+      "ナイフ",
+      "隠れる"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "sasaki-yosuga",
+    "name": "笹記縁",
+    "name_kana": "Sasaki Yosuga",
+    "image": "sasaki-yosuga.png",
+    "origin": "現代日本",
+    "age": 24,
+    "job": "司法修習生",
+    "last_active": 2022,
+    "first_active": "普通シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": "笹記",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 10,
+      "CON": 13,
+      "POW": 17,
+      "DEX": 13,
+      "APP": 12,
+      "SIZ": 13,
+      "INT": 15,
+      "EDU": 14
+    },
+    "features": [
+      "格闘センスの持ち主",
+      "親の七光り"
+    ],
+    "personality": "活発、人懐こい、惚れっぽい",
+    "colors": [
+      "#aacf53"
+    ],
+    "description": "法学部出身、弁護士志望の女性。\n喜怒哀楽のはっきりした人物。愛情深く、人の笑顔や平和が好きな善人。昆虫色やジビエ料理、海外文化の料理など、「食べたことがないもの」「珍味」を食べるのが趣味。\n三人きょうだいの末っ子。両親からはやや過保護に育てられた。心配性を克服させようと護身術を習っていた時期があり、努力の方向性が若干音痴な点には気づいていない。",
+    "history": [
+      "アイリスからの恋文"
+    ],
+    "status": "継続可",
+    "traits": [
+      "司法修習生",
+      "弁護士",
+      "格闘センスの持ち主",
+      "親の七光り"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "matsuyuki-aduki",
+    "name": "松雪あづき",
+    "name_kana": "Matsuyuki Aduki",
+    "image": "matsuyuki-aduki.png",
+    "origin": "現代日本",
+    "age": 19,
+    "job": "フリーター",
+    "last_active": 2022,
+    "first_active": "普通シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": "松雪",
+    "organization": "",
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 10,
+      "CON": 11,
+      "POW": 9,
+      "DEX": 9,
+      "APP": 13,
+      "SIZ": 12,
+      "INT": 10,
+      "EDU": 13
+    },
+    "features": [
+      "急速な回復力",
+      "暗黒の祖先"
+    ],
+    "personality": "真面目、気弱、卑屈",
+    "colors": [
+      "#96514d"
+    ],
+    "description": "大学受験に失敗し、絶賛浪人中の青年。アルバイトをしながら次回の受験対策中。\n工業高校出身で、機械に強く、特にコンピューターが得意。しかしあがり症から本番に弱い。\n卑屈さが自らのコストパフォーマンスを下げていることに無自覚。開き直ると何をするか分からない悪癖があるものの、逆に言えば開き直ればあがり症を一時的にだが克服できる。\n",
+    "history": [
+      "白々明けに我が牙と舞え"
+    ],
+    "status": "継続可",
+    "traits": [
+      "急速な回復力",
+      "暗黒の祖先",
+      "フリーター"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "mokumoku",
+    "name": "黙々",
+    "name_kana": "Mokumoku",
+    "image": "mokumoku.png",
+    "origin": "現代日本",
+    "age": 23,
+    "job": "市役所職員",
+    "last_active": 2022,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": "家守",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 11,
+      "CON": 12,
+      "POW": 15,
+      "DEX": 8,
+      "APP": 9,
+      "SIZ": 9,
+      "INT": 14,
+      "EDU": 11
+    },
+    "features": [
+      "影が薄い",
+      "不屈の精神力"
+    ],
+    "personality": "人懐こい、優しい、献身的",
+    "colors": [
+      "#ba2636"
+    ],
+    "description": "迷冥市の役所に務める新人職員。\n明るく素直だがたまに不穏。とりわけ「子どもの敵」や「加害者」には辛辣。独り言が多く、どこか箍が外れているのに、人の話はちゃんと聞いているし考えてもいる。\n職場の先輩を「かみさま」と呼び、懐いているし慕っている。可愛がられる側なのに可愛がってもいる。",
+    "history": [
+      "ようこそ！迷冥市役所都市伝説課へ！ HO2",
+      "さよならを言いにきた –東京境界防衛戦–"
+    ],
+    "status": "継続可",
+    "traits": [
+      "影が薄い",
+      "不屈の精神力",
+      "オカルト"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "okonogi-tamaki",
+    "name": "小此木環",
+    "name_kana": "Okonogi Tamaki",
+    "image": "okonogi-tamaki.png",
+    "origin": "現代日本",
+    "age": 31,
+    "job": "科学捜査研究員",
+    "last_active": 2022,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": "",
+    "organization": "",
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 8,
+      "CON": 10,
+      "POW": 14,
+      "DEX": 15,
+      "APP": 12,
+      "SIZ": 12,
+      "INT": 15,
+      "EDU": 18
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "前向き、温厚、競争が苦手",
+    "colors": [
+      "#d9333f"
+    ],
+    "description": "可もなく不可もない科学捜査研究員。\n人当たりはいいものの、他人に気を使いがちなのでしばしば胃痛に苛まれている。\n学生時代に人間関係と競争環境へ適応できず、体を壊した経験がある。振り返るときは「あの頃は周囲を気にし過ぎていた」と苦笑する。",
+    "history": [
+      "インビジブルの慟哭 HO2",
+      "静寂の声",
+      "殺していいのは呼吸だけ（ロスト）"
+    ],
+    "status": "ロスト",
+    "traits": [
+      "科学捜査研究員",
+      "科捜研",
+      "写真術"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "ootomo-yukiyoshi",
+    "name": "大伴雪吉",
+    "name_kana": "Ootomo Yukiyoshi",
+    "image": "dummy.jpg",
+    "origin": "現代日本",
+    "age": 23,
+    "job": "古書店店員 / 便利屋",
+    "last_active": 2022,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": false,
+    "family": null,
+    "organization": "徳河書店",
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 13,
+      "CON": 18,
+      "POW": 13,
+      "DEX": 16,
+      "APP": 13,
+      "SIZ": 12,
+      "INT": 13,
+      "EDU": 17
+    },
+    "features": [
+      "奇妙な幸運",
+      "不屈の精神力"
+    ],
+    "personality": "素直, 実直, 博愛",
+    "colors": [
+      "#f09199"
+    ],
+    "description": "古書店「徳河書店」の店員兼、便利屋の契約社員。高齢の気難しい店主から、店の掃除や図書修理などの業務を任されている。\n生後間もないころに児童養護施設に預けられて育った。\n博愛の精神を有しており、決まった一人を愛したことがない（出自の都合で「よく分からない」まま成長したため、自然と博愛に着地した。）",
+    "history": [
+      "オーダーメイド"
+    ],
+    "status": "継続可",
+    "traits": [
+      "奇妙な幸運",
+      "不屈の精神力"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "oswald-burton",
+    "name": "オズワルド・バートン",
+    "name_kana": "Oswald Burton",
+    "image": "oswald-burton.png",
+    "origin": "1891年イギリス",
+    "age": 24,
+    "job": "時計屋",
+    "last_active": 2021,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": "バートン",
+    "organization": "",
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 8,
+      "CON": 6,
+      "POW": 12,
+      "DEX": 13,
+      "APP": 15,
+      "SIZ": 11,
+      "INT": 14,
+      "EDU": 15
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "職人気質、神経質",
+    "colors": [
+      "#84a2d4"
+    ],
+    "description": "見習いの時計職人。ロンドンにある祖父の店を手伝っている。\n華奢な見た目をしており、角度や服装によっては女性に見える。\n両親と折り合いが悪く、父方の祖父母に長いこと預けられていた。下に弟か妹がいるが、両親から離れてから産まれたため会ったことがない。",
+    "history": [
+      "里幻想奇譚ーシャーロック・ホームズの遺言ー"
+    ],
+    "status": "継続可",
+    "traits": [
+      "時計屋"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "kimikage-ito",
+    "name": "君影いと",
+    "name_kana": "Kimikage Ito",
+    "image": "kimikage-ito.png",
+    "origin": null,
+    "age": 40,
+    "job": "医師",
+    "last_active": 2021,
+    "first_active": [
+      "秘匿シナリオ",
+      "特殊シナリオ"
+    ],
+    "gender": "女",
+    "myth": false,
+    "family": "",
+    "organization": "",
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": true
+    },
+    "params": {
+      "STR": 9,
+      "CON": 13,
+      "POW": 16,
+      "DEX": 11,
+      "APP": 18,
+      "SIZ": 11,
+      "INT": 14,
+      "EDU": 20
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "仕事熱心、優しい",
+    "colors": [
+      "#00a3af"
+    ],
+    "description": "水没都市唯一の医者。患者に自分を見つけてもらいやすくしようと、鈴を身に付けている。\n悠々自適でいながら老若男女に世話焼きで、患者をけして見捨てない。\n自らを「人より特別」「人より幸福」と自認した上で、自分には他者を少しだけ不幸から遠ざける力があるし、そうしたいと思っている。",
+    "history": [
+      "永業回帰 HO1（ロスト）"
+    ],
+    "status": "ロスト",
+    "traits": [
+      "医師",
+      "医療従事者",
+      "医学",
+      "化学"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "rikka-mono",
+    "name": "六花モノ",
+    "name_kana": "Rikka Mono",
+    "image": "rikka-mono.png",
+    "origin": "2050年日本",
+    "age": 1,
+    "job": "刑事（アンドロイド事件捜査係）",
+    "last_active": 2021,
+    "first_active": [
+      "秘匿シナリオ",
+      "未来シナリオ"
+    ],
+    "gender": "不明",
+    "myth": true,
+    "family": null,
+    "organization": "",
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": true
+    },
+    "params": {
+      "STR": 10,
+      "CON": 13,
+      "POW": 14,
+      "DEX": 12,
+      "APP": 16,
+      "SIZ": 8,
+      "INT": 16,
+      "EDU": 21
+    },
+    "features": [
+      "応急存亡",
+      "才華爛発"
+    ],
+    "personality": "無機質、学習したがり、ひよこ気質",
+    "colors": [
+      "#83ccd2"
+    ],
+    "description": "とある刑事のパートナーロボットを務める新型アンドロイド。\n補助端末にメカインコを連れており、モノ本体が淡々としている代わりに感情を模した多彩な表現を担う。飛ぶし歌うし踊るし、光る。\n自分（機械）の代わりの労働力はいくらでもあると本気で思っているが、一方でコストパフォーマンスを考えて自分を大事に扱う。",
+    "history": [
+      "VOID HO2",
+      "ルルイエ館殺蛸事件"
+    ],
+    "status": "継続可",
+    "traits": [
+      "刑事",
+      "警察関係者",
+      "ロボット",
+      "アンドロイド",
+      "回避",
+      "ショットガン",
+      "目星",
+      "機械修理",
+      "信用",
+      "コンピューター"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "wolfgang-falck",
+    "name": "ヴォルフガング・F",
+    "name_kana": "Wolfgang Falck",
+    "image": "wolfgang-falck.png",
+    "origin": "1938年ドイツ",
+    "age": 36,
+    "job": "-",
+    "last_active": 2021,
+    "first_active": "秘匿シナリオ",
+    "gender": "男",
+    "myth": false,
+    "family": "ファルク",
+    "organization": "",
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 18,
+      "CON": 15,
+      "POW": 10,
+      "DEX": 12,
+      "APP": 14,
+      "SIZ": 12,
+      "INT": 9,
+      "EDU": 16
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "朴念仁",
+    "colors": [
+      "#005243"
+    ],
+    "description": "自他共に厳しく、口下手。人並みに温和の一方、「無機質」「冷血」と断じられやすい。\n上に兄がふたり、下に妹がひとりいる。兄らをはじめ家族とはろくな交流を持たないものの、妹とは今も連絡を取り合っていて、彼なりに可愛がっている。\nプライベートでも物々しい雰囲気はそのままだが、音楽を鑑賞しているときだけは表情がやわらぐ。",
+    "history": [
+      "残夜の結晶 HO1（引退）"
+    ],
+    "status": "引退",
+    "traits": [
+      "拳銃",
+      "組み付き"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "itsuka-tasuku",
+    "name": "五鹿佑",
+    "name_kana": "Itsuka Tasuku",
+    "image": "itsuka-tasuku.png",
+    "origin": "現代日本",
+    "age": 41,
+    "job": "消防士",
+    "last_active": 2024,
+    "first_active": "秘匿シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": null,
+    "organization": "",
+    "relations": {
+      "partner": true,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 14,
+      "CON": 14,
+      "POW": 13,
+      "DEX": 11,
+      "APP": 12,
+      "SIZ": 14,
+      "INT": 8,
+      "EDU": 16
+    },
+    "features": [
+      "暗黒の祖先（28）",
+      "天気予報士"
+    ],
+    "personality": "口下手、正義感が強い、照れ屋",
+    "colors": [
+      "#5b7e91"
+    ],
+    "description": "あまりお喋りではないものの正義感が強く、気は大きい。照れ屋であがり症。\n学生時代にはなるべく周囲に波風を立たせないようと意識してふるまった末、「誰かにとって都合のいい人」の性質を会得した。\n子どもの頃の自分が両親に頻繁に気を揉み振り回された経歴を反面教師に、家族にはなるべく穏やかでいてほしいと思っている。",
+    "history": [
+      "とある幸せな家族の話 HO1",
+      "INSIDE MYTH PC2"
+    ],
+    "status": "継続可",
+    "traits": [
+      "暗黒の祖先",
+      "天気予報士",
+      "消防士",
+      "応急手当"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "matsuyuki-oriduru",
+    "name": "松雪織鶴",
+    "name_kana": "Matsuyuki Oriduru",
+    "image": "matsuyuki-oriduru.png",
+    "origin": "現代日本",
+    "age": 31,
+    "job": "教師（化学）",
+    "last_active": 2025,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": "松雪",
+    "organization": "",
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 8,
+      "CON": 6,
+      "POW": 14,
+      "DEX": 14,
+      "APP": 11,
+      "SIZ": 11,
+      "INT": 13,
+      "EDU": 17
+    },
+    "features": [
+      "大酒飲み",
+      "俊敏"
+    ],
+    "personality": "内向的、子ども好き、天邪鬼",
+    "colors": [
+      "#00ff7f"
+    ],
+    "description": "学校にひとりはいる「生徒に怖がられている若めの先生」。\n生育環境の都合で孤独慣れしている。人間関係は極めて狭く交際経験もなかったが、よく一緒に過ごす相手が最近でき、よくわからないなりに距離感を探ったり経験値を積んだりしている。\nペットにめだかとエビとネオンテトラがいる。前半二種は理科室飼育で増えたのを引き取った。",
+    "history": [
+      "君待つ明日に僕はいない",
+      "Ditto moon",
+      "ミルタの碑銘",
+      "割れない卵",
+      "9と8と点がひとつ",
+      "これは詳細を省くが結論だけ言うとお前はイヌ KPC",
+      "Call the Name of Your Fate.",
+      "今夜も二人でロードショー！ ラストライブ in ルルイエ",
+      "君のためのヒポクリシー KPC",
+      "プラネタリウム終末論",
+      "とける",
+      "夢見るホーリーキャロル",
+      "ジェンに献ぐ盃 KPC",
+      "廻想する夜話 KPC",
+      "探索から始める化学実験",
+      "迷い猫に缶切りひとつ",
+      "リヴィング・アーツ KPC",
+      "学生服と君の幽霊",
+      "星のない夜",
+      "絶対に君を死なせる KPC",
+      "俺の好きな人は今日結婚します",
+      "今夜も二人でロードショー！ フローズン・ムーン",
+      "神のち晴れ！ KPC"
+    ],
+    "status": "継続可",
+    "traits": [
+      "教師（化学）",
+      "大酒飲み",
+      "俊敏",
+      "目星",
+      "天文学",
+      "化学"
+    ],
+    "novel_url": ""
+  },
+  {
+    "id": "shiratori-hikaru",
+    "name": "白鳥光",
+    "name_kana": "Shiratori Hikaru",
+    "image": "shiratori-hikaru.png",
+    "origin": "現代日本",
+    "age": 2,
+    "job": "ITエンジニア",
+    "last_active": 2024,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 11,
+      "CON": 13,
+      "POW": 17,
+      "DEX": 14,
+      "APP": 15,
+      "SIZ": 16,
+      "INT": 18,
+      "EDU": 18
+    },
+    "features": [
+      "ド根性",
+      "動物に好かれる"
+    ],
+    "personality": "親切、柔和",
+    "colors": [
+      "#c1e4e9"
+    ],
+    "description": "「鵲晃」という人間のクローン。戸籍を筆頭にある程度の立場・資産を有する。\n旅行が趣味で、各地を転々としながらオンライン上で仕事のやりとりをしている。そのうち定住できる場所を見つけたいと思っているが、今のところは旅を楽しむ気持ちが強い。\nオリジナルと比べて人懐こい。",
+    "history": [
+      "？？？",
+      "常夜聖戦1話「種、または生の起源」",
+      "常夜聖戦3話「犬小屋島」"
+    ],
+    "status": "継続可",
+    "traits": [
+      "IT関係者",
+      "ITエンジニア",
+      "ド根性",
+      "動物に好かれる",
+      "クローン",
+      "天文学",
+      "目星"
+    ]
+  },
+  {
+    "id": "utata-kashiwa",
+    "name": "転柏",
+    "name_kana": "Utata Kashiwa",
+    "image": "utata-kashiwa.png",
+    "origin": "現代日本",
+    "age": 24,
+    "job": "暴力団組員",
+    "last_active": 2021,
+    "first_active": "秘匿シナリオ",
+    "gender": "男",
+    "myth": false,
+    "family": "家守",
+    "organization": "家守会",
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 12,
+      "CON": 11,
+      "POW": 13,
+      "DEX": 10,
+      "APP": 15,
+      "SIZ": 13,
+      "INT": 11,
+      "EDU": 17
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "義理堅い",
+    "colors": [
+      "#6c848d"
+    ],
+    "description": "東京を拠点とする極道組織「家守会（いえもりかい）」の若衆。名古屋拠点の二次組織「赤原組」に居座っている。\n容姿端麗、成績優秀だが秀才の域を出ない。\n仕事の都合でカクテルに少し造詣がある。本人は日本酒が好き。",
+    "history": [
+      "アンチテェゼ・ポジション HO2（ロスト）"
+    ],
+    "status": "ロスト",
+    "traits": [
+      "暴力団組員"
+    ]
+  },
+  {
+    "id": "victor-applebee",
+    "name": "ヴィクター・A",
+    "name_kana": "Victor Applebee",
+    "image": "victor-applebee.png",
+    "origin": "1971年アメリカ",
+    "age": 28,
+    "job": "宇宙飛行士",
+    "last_active": 2021,
+    "first_active": "過去シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": "アップルビー",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 12,
+      "CON": 11,
+      "POW": 9,
+      "DEX": 14,
+      "APP": 16,
+      "SIZ": 14,
+      "INT": 13,
+      "EDU": 19
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "怖がり, 一途, ロマンチスト",
+    "colors": [
+      "#ec6d71"
+    ],
+    "description": "かつて望遠鏡を抱えていた少年の心そのままに宇宙飛行士を志し、叶えた。\n怖がりやすい自分を隠すためによく喋り笑うものの、有事では素直に怖がっている。\n祖父は日本人。天文台のあるまちで育った。",
+    "history": [
+      "Euterpe-1（引退）"
+    ],
+    "status": "引退",
+    "traits": [
+      "宇宙飛行士",
+      "電気修理"
+    ]
+  },
+  {
+    "id": "pengin",
+    "name": "片銀",
+    "name_kana": "pengin",
+    "image": "pengin.png",
+    "origin": "2069年日本",
+    "age": 30,
+    "job": "月面研究員",
+    "last_active": 2021,
+    "first_active": "未来シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": "星原",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 12,
+      "CON": 15,
+      "POW": 13,
+      "DEX": 11,
+      "APP": 14,
+      "SIZ": 14,
+      "INT": 13,
+      "EDU": 21
+    },
+    "features": [
+      "オシャレ",
+      "素早い"
+    ],
+    "personality": "物腰丁寧, 人嫌い",
+    "colors": [
+      "#84a2d4"
+    ],
+    "description": "ペンギンを模した作業服をまとう男。\n幼少期は感受性と好奇心の強い子どもで、両親の書斎にこもってあらゆる知識に触れる。その中で物理学と天文学にいっとうの興味を示し、紆余曲折を得て高名な研究者となる。\n時を重ねるにつれて人目に嫌悪感を抱くようになり、今では「自分のために生きたい」と人生のやり直しを望むようになった。",
+    "history": [
+      "月面世界",
+      "Call the Name of Your Fate."
+    ],
+    "status": "継続可",
+    "traits": [
+      "オシャレ",
+      "素早い",
+      "図書館",
+      "操縦（宇宙船）",
+      "物理学"
+    ]
+  },
+  {
+    "id": "shiina-mari",
+    "name": "椎名真理",
+    "name_kana": "Shiina Mari",
+    "image": "shiina-mari.png",
+    "origin": "現代日本",
+    "age": 23,
+    "job": "フリーター / 大学生",
+    "last_active": 2021,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": "椎名",
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": null,
+      "CON": null,
+      "POW": null,
+      "DEX": null,
+      "APP": null,
+      "SIZ": null,
+      "INT": null,
+      "EDU": null
+    },
+    "features": [
+      "スポーツ万能",
+      "バイリンガル"
+    ],
+    "personality": "きつめ、世渡り上手",
+    "colors": [
+      "#83ccd2"
+    ],
+    "description": "近寄りがたい雰囲気の美人。自分の見てくれの価値を自覚していて、それを利用し以前は夜の仕事に就いていた。\n生育環境の都合でツンとしているが、人に取り入るのがうまく、夜職時代の客の弱みを多く握っている。一方で根は少女らしく、繕っているだけで感性はごく幼い。\n結婚式当日に相手に裏切られた過去を持つ。大人になったら幸せになれると信じていたのに。",
+    "history": [
+      "海も枯れるまで HO1"
+    ],
+    "status": "継続可",
+    "traits": [
+      "フリーター",
+      "大学生",
+      "値切り"
+    ]
+  },
+  {
+    "id": "meguro-kikyou",
+    "name": "目黒ききょう",
+    "name_kana": "Meguro Kikyou",
+    "image": "meguro-kikyou.png",
+    "origin": "現代日本",
+    "age": 18,
+    "job": "高校生 / 女優",
+    "last_active": 2021,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": [
+      "渡",
+      "家守"
+    ],
+    "params": {
+      "STR": 14,
+      "CON": 10,
+      "POW": 14,
+      "DEX": 14,
+      "APP": 17,
+      "SIZ": 11,
+      "INT": 16,
+      "EDU": 11
+    },
+    "features": [
+      "斜め上からの発想"
+    ],
+    "personality": "おっとり、熱血、ロマンチスト",
+    "colors": [
+      "#89c3eb"
+    ],
+    "description": "透き通るような美貌の少女であり、天才俳優。本人にその気はなくとも近寄りがたい雰囲気を放ち、学校では孤独を余儀なくされている。\n性格はお人よしだが、パーソナルスペースが広め。義に厚く、過ぎてやや重く、惚れっぽい。また、対等な相手と競争に飢えている。\n座右の銘と理想の自分は「多謀善断」。自分で考えて自分で決めたい。",
+    "history": [
+      "ハイフェッツをなぞる病 HO天才"
+    ],
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "status": "継続可",
+    "traits": [
+      "高校生",
+      "学生",
+      "女優",
+      "俳優",
+      "斜め上からの発想",
+      "操縦（自分）"
+    ]
+  },
+  {
+    "id": "kagari-shiori",
+    "name": "篝栞",
+    "name_kana": "Kagari Shiori",
+    "image": "kagari-shiori.png",
+    "origin": "現代日本",
+    "age": 16,
+    "job": "高校生",
+    "last_active": 2021,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 17,
+      "CON": 13,
+      "POW": 12,
+      "DEX": 17,
+      "APP": 16,
+      "SIZ": 12,
+      "INT": 9,
+      "EDU": 10
+    },
+    "features": [
+      "不屈の精神力",
+      "戦士"
+    ],
+    "personality": "愉快好き、いたずら好き",
+    "colors": [
+      "#ba2636"
+    ],
+    "description": "とにかく見目麗しく、学校では「高嶺の花」と遠巻きにされている。\n性格は楽しく面白いことが好きで、座学よりも運動が好きで、養父が大好きな女の子。そして誤解を恐れずにいうと「暴力が好き」。\n将来は本音をいえばピアノで食べてみたいと思っているが、椅子の上でいつまでもはじっとしていられない自分の性質をよく理解しており、高校卒業後の就職を考えている。",
+    "history": [
+      "ファミリー・マグショット HO2",
+      "夜に栞す"
+    ],
+    "status": "継続可",
+    "traits": [
+      "高校生",
+      "学生",
+      "不屈の精神力",
+      "戦士",
+      "こぶし"
+    ]
+  },
+  {
+    "id": "mathias",
+    "name": "マティアス",
+    "name_kana": "Mathias",
+    "image": "mathias.png",
+    "origin": "1453年フランス",
+    "age": 26,
+    "job": "騎士",
+    "last_active": 2021,
+    "first_active": [
+      "秘匿シナリオ",
+      "過去シナリオ"
+    ],
+    "gender": "男",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 12,
+      "CON": 15,
+      "POW": 14,
+      "DEX": 12,
+      "APP": 12,
+      "SIZ": 15,
+      "INT": 13,
+      "EDU": 8
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "明朗快活、穏やか、親切",
+    "colors": [
+      "#1e50a2"
+    ],
+    "description": "剣だけが取り柄のいわゆる落ちこぼれ。とにかく座学が不得手で、言葉を覚えるのも遅かった。\n誰にでもニコニコと分け隔てなく接するが、本心では上流階級の人間を苦手としている。\n紆余曲折ある子供時代を送るも、身内に恵まれ致命的な捻曲は避けて今に至っている。",
+    "history": [
+      "ジャンヌの猟犬 HO1"
+    ],
+    "status": "引退",
+    "traits": [
+      "騎士",
+      "回避",
+      "剣",
+      "信用"
+    ]
+  },
+  {
+    "id": "kurogane-makina",
+    "name": "鉄まきな",
+    "name_kana": "Kurogane Makina",
+    "image": "kurogane-makina.png",
+    "origin": "現代日本",
+    "age": 31,
+    "job": "自動車整備士",
+    "last_active": 2021,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 13,
+      "CON": 11,
+      "POW": 12,
+      "DEX": 15,
+      "APP": 13,
+      "SIZ": 12,
+      "INT": 14,
+      "EDU": 18
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "マイペース、冷静、善良",
+    "colors": [
+      "#3eb370"
+    ],
+    "description": "実家は診療所。学生時代は医師職への就職を期待されていた。\n自動車整備業に身を投じた際から、男の多い環境に適応し、口調を男っぽく合わせている。\n派手好きの可愛いもの好き。私室と愛車の中には衝動買いしたぬいぐるみが居座っている。",
+    "history": [
+      "凶夢に踊れグランギニョル HO3"
+    ],
+    "status": "継続可",
+    "traits": [
+      "自動車整備士",
+      "機械修理"
+    ]
+  },
+  {
+    "id": "mizumi-ren",
+    "name": "水見蓮",
+    "name_kana": "Mizumi Ren",
+    "image": "mizumi-ren.png",
+    "origin": "現代日本",
+    "age": 34,
+    "job": "ウェイター",
+    "last_active": 2021,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": false,
+    "family": "渡",
+    "organization": "喫茶店シェイド",
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 14,
+      "CON": 13,
+      "POW": 10,
+      "DEX": 13,
+      "APP": 10,
+      "SIZ": 16,
+      "INT": 12,
+      "EDU": 19
+    },
+    "features": [
+      "寄せ餌",
+      "暗黒の祖先（70）"
+    ],
+    "personality": "常識人、虚栄的、臆病",
+    "colors": [
+      "#47885e"
+    ],
+    "description": "「シェイド」という喫茶店のウェイター。料理は得意だがまかないでしか行わない。\n自分を強気に見せるため不良っぽい物言いを意識している。根は気弱で不安定なので、すぐ泣く。\nむかしは高名なレストランに就職していたが、上司のパワハラから心因性味覚障害と強迫性障害を発症し、退職。その後紆余曲折と社会復帰を経て今に至る。",
+    "history": [
+      "沼男は誰だ？ HO4",
+      "ワンちゃんはここにいる。 KPC"
+    ],
+    "status": "継続可",
+    "traits": [
+      "ウェイター",
+      "暗黒の祖先",
+      "寄せ餌",
+      "聞き耳"
+    ]
+  },
+  {
+    "id": "morgan-gardner",
+    "name": "モーガン・ガードナー",
+    "name_kana": "Morgan Gardner",
+    "image": "morgan-gardner.png",
+    "origin": "現代日本",
+    "age": 34,
+    "job": "樹木医 / マホロバPSI研究所職員",
+    "last_active": 2021,
+    "first_active": [
+      "秘匿シナリオ",
+      "特殊シナリオ"
+    ],
+    "gender": "女",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 11,
+      "CON": 11,
+      "POW": 17,
+      "DEX": 15,
+      "APP": 13,
+      "SIZ": 12,
+      "INT": 12,
+      "EDU": 18
+    },
+    "features": [
+      "奇妙な幸運",
+      "天才"
+    ],
+    "personality": "おおらか、努力家、たまにノンデリ",
+    "colors": [
+      "#e9546b"
+    ],
+    "description": "日本人とアメリカ人のダブル。日本名は「緑渚（みどり・なぎさ）」。\n表情と愛情表現が豊かな人。明朗で勉強熱心。だいぶふてぶてしい。\n将来の夢は「好きな人と暮らすこと」。自分なりにかわいくきれいでいるのが理想なので、出来る範囲でのスキンケアやおしゃれと、それらの研究を欠かさない。そして、そう努力している自分に自信を持っている。",
+    "history": [
+      "キザイア・メイスンとまほろばの庭 HO1"
+    ],
+    "status": "継続可",
+    "traits": [
+      "樹木医",
+      "奇妙な幸運",
+      "天才",
+      "マホロバPSI研究所",
+      "図書館",
+      "博物学"
+    ]
+  },
+  {
+    "id": "shirayuki-chika",
+    "name": "白雪チカ",
+    "name_kana": "Shirayuki Chika",
+    "image": "shirayuki-chika.png",
+    "origin": "現代日本",
+    "age": 13,
+    "job": "中学生",
+    "last_active": 2025,
+    "first_active": "秘匿シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": "椎名",
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 14,
+      "CON": 12,
+      "POW": 16,
+      "DEX": 14,
+      "APP": 13,
+      "SIZ": 11,
+      "INT": 15,
+      "EDU": 14
+    },
+    "features": [
+      "手先が器用",
+      "強固な意志"
+    ],
+    "personality": "ある程度従順、大人びている",
+    "colors": [
+      "#83ccd2"
+    ],
+    "description": "普段は控えめで謝罪癖があるが、気の置けない相手には子どもらしい挙動を見せる。また、有事の際は強気に出る。\nかつて義理の父親から虐待を受けつつも、母親と妹を守っていた。この件をきっかけに、家族とは離れて暮らしている。\n大切な人の役に立てるくらい立派になって、妹に会いに行くのが夢。",
+    "history": [
+      "？？？",
+      "焼き芋やっちゃん KPC",
+      "きみとぼくのステラ 第1幕「だれかの願いが叶うとき」",
+      "きみとぼくのステラ 第2幕「ペレト・エム・ヘルゥ」",
+      "きみとぼくのステラ 第3幕「きみの願いと星の夢」"
+    ],
+    "status": "継続可",
+    "traits": [
+      "中学生",
+      "手先が器用",
+      "強固な意志",
+      "心理学"
+    ]
+  },
+  {
+    "id": "onimaru-mio",
+    "name": "鬼丸澪",
+    "name_kana": "Onimaru Mio",
+    "image": "onimaru-mio.png",
+    "origin": "1920年帝都",
+    "age": 28,
+    "job": "官憲",
+    "last_active": 2025,
+    "first_active": "過去シナリオ",
+    "gender": "男",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 12,
+      "CON": 15,
+      "POW": 16,
+      "DEX": 10,
+      "APP": 7,
+      "SIZ": 15,
+      "INT": 13,
+      "EDU": 15
+    },
+    "features": [
+      "受け身",
+      "鋭い洞察力"
+    ],
+    "personality": "寡黙、口下手、不愛想、好戦的",
+    "colors": [
+      "#008899"
+    ],
+    "description": "雑談や無駄も人並みに好むが、人相の悪さと無愛想と口下手が相まって近づきがたい印象の持ち主。\n何を考えているか分からないと思われがちだが、存外何も考えていないか、刀のことを考えている。さっき見かけた猫可愛かったな。\n戦闘狂いの気があり、殺しあいになると楽しそうな様子を見せる。「生まれる時代を間違えている」と言われたこともあるものの、ルールを守った上で本人なりにのびのびと過ごしているので気にしていない。",
+    "history": [
+      "変身",
+      "鏡鬼",
+      "カーテンフォール（24歳時 / 1916年帝都）"
+    ],
+    "status": "継続可",
+    "traits": [
+      "警察関係者",
+      "日本刀",
+      "説得",
+      "目星"
+    ]
+  },
+  {
+    "id": "mitsu-mitsumi",
+    "name": "蜜美摘",
+    "name_kana": "Mitsu Mitsumi",
+    "image": "mitsu-mitsumi.png",
+    "origin": "現代日本",
+    "age": 44,
+    "job": "作家（ミステリー）",
+    "last_active": 2021,
+    "first_active": "普通シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 12,
+      "CON": 11,
+      "POW": 15,
+      "DEX": 3,
+      "APP": 8,
+      "SIZ": 13,
+      "INT": 12,
+      "EDU": 17
+    },
+    "features": [
+      "夜に弱い",
+      "ペット"
+    ],
+    "personality": "自堕落、投げやり",
+    "colors": [
+      "#bb5535"
+    ],
+    "description": "バツイチ。小説のネタのために結婚して子どもを産むような倫理観の持ち主。身内には「物語に憑かれている」と評されたこともある。しかし常識と責任感は備えており、元夫や実子との関係は良好。\n右足は義肢。本人は「むかし野良犬にくれてやった」というが、真偽不明。\n生活能力が低く、その気になればそれなりにできるのに「面倒」の一言から家事代行サービスに寄りかかっている。猫の世話だけは過不足なく自ら行う。",
+    "history": [
+      "旅館の捕食者 HO2",
+      "桜狂わば胎の中"
+    ],
+    "status": "継続可",
+    "traits": [
+      "作家（ミステリー）",
+      "夜に弱い",
+      "ペット",
+      "制作（推理小説）"
+    ]
+  },
+  {
+    "id": "kasasagi-akira",
+    "name": "鵲晃",
+    "name_kana": "Kasasagi Akira",
+    "image": "kasasagi-akira.png",
+    "origin": "現代日本",
+    "age": 29,
+    "job": "医師（精神科）",
+    "last_active": 2021,
+    "first_active": "秘匿シナリオ",
+    "gender": "男",
+    "myth": false,
+    "family": "星原",
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 11,
+      "CON": 13,
+      "POW": 18,
+      "DEX": 14,
+      "APP": 15,
+      "SIZ": 16,
+      "INT": 18,
+      "EDU": 18
+    },
+    "features": [
+      "飛ばし屋",
+      "ド根性"
+    ],
+    "personality": "親切、柔和",
+    "colors": [
+      "#a0d8ef"
+    ],
+    "description": "社交的かつたおやかなふるまいをするが、倫理・共感力が欠如しており、薄情。とはいえ、ここまでの人生である程度の人間性と道徳性は獲得している。\n胸の内を許した相手には尽くすタイプで、ともに過ごす時間や手をかける時間が文字通り彼の生命線になりうる。\n医師は「ひとを救うもの」と考えており、自分もまたそうと認知している。一方で、「心とは脳の機能がもたらす錯覚」とも思っている。",
+    "history": [
+      "紡命論とシンギュラリティーHO4（ロスト）"
+    ],
+    "status": "ロスト",
+    "traits": [
+      "医師（精神科）",
+      "医療従事者",
+      "飛ばし屋",
+      "ド根性",
+      "精神分析",
+      "医学"
+    ]
+  },
+  {
+    "id": "oscar-burton",
+    "name": "オスカー・バートン",
+    "name_kana": "Oscar Burton",
+    "image": "oscar-burton.png",
+    "origin": "現代日本",
+    "age": 29,
+    "job": "翻訳家",
+    "last_active": 2021,
+    "first_active": "秘匿シナリオ",
+    "gender": "男",
+    "myth": false,
+    "family": "バートン",
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 13,
+      "CON": 16,
+      "POW": 14,
+      "DEX": 11,
+      "APP": 18,
+      "SIZ": 13,
+      "INT": 11,
+      "EDU": 16
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "穏やか",
+    "colors": [
+      "#2792c3"
+    ],
+    "description": "ポヤポヤしている。\n勉強好きでロマンチスト。",
+    "history": [
+      "Alice HOLewis（ロスト）"
+    ],
+    "status": "ロスト",
+    "traits": [
+      "翻訳家"
+    ]
+  },
+  {
+    "id": "hanare-naname",
+    "name": "離斜",
+    "name_kana": "Hanare Naname",
+    "image": "hanare-naname.png",
+    "origin": "現代日本",
+    "age": 17,
+    "job": "高校生",
+    "last_active": 2025,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": "渡",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 12,
+      "CON": 15,
+      "POW": 15,
+      "DEX": 11,
+      "APP": 11,
+      "SIZ": 12,
+      "INT": 15,
+      "EDU": 12
+    },
+    "features": [
+      "動物に好かれる",
+      "プロ・ドライバー"
+    ],
+    "personality": "面倒くさがり、世話焼き、天邪鬼",
+    "colors": [
+      "#ffd900"
+    ],
+    "description": "根はまじめで善良。ダウナーな雰囲気。\nむかしは明るく遊び好きだったようで、今でも時折その面が顔の覗かせる。\n進路希望は大学進学で、社会学部志望。将来の目標は「独立すること」「善人でいること」。",
+    "history": [
+      "魔法少女希望譚 HO2",
+      "異婚チケット",
+      "WiCCa"
+    ],
+    "status": "継続可",
+    "traits": [
+      "高校生",
+      "学生",
+      "動物に好かれる",
+      "プロ・ドライバー",
+      "こぶし",
+      "目星",
+      "運転（二輪）",
+      "操縦（箒）"
+    ]
+  },
+  {
+    "id": "oribe-shijima",
+    "name": "織部四十万",
+    "name_kana": "Oribe Shijima",
+    "image": "oribe-shijima.png",
+    "origin": "現代日本",
+    "age": 33,
+    "job": "探偵",
+    "last_active": 2022,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": "織部",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 11,
+      "CON": 13,
+      "POW": 18,
+      "DEX": 12,
+      "APP": 12,
+      "SIZ": 13,
+      "INT": 15,
+      "EDU": 16
+    },
+    "features": [
+      "格闘センスの持ち主",
+      "不思議ちゃん"
+    ],
+    "personality": "明朗、気分屋、刹那的、マイペース",
+    "colors": [
+      "#7a4171"
+    ],
+    "description": "「ベネディクト探偵事務所」の所長。出生地はイギリスで、幼少期に国籍を日本へ移した。\n仕事はこなすが、人生への姿勢がゆるふわでとにかく隙が多い。\n人懐っこい反面、他人に無関心で、雰囲気や気分に任せた無神経な挙動や失敗をしがち。今が楽しければよく、総合的には破滅寄りの性質。善悪の区別がついているのでなんとかなっている。",
+    "history": [
+      "虚星落つ",
+      "相食むる豚",
+      "死生館迷宮事件 HO2",
+      "同窓会"
+    ],
+    "status": "継続可",
+    "traits": [
+      "探偵",
+      "格闘センスの持ち主",
+      "不思議ちゃん",
+      "目星"
+    ]
+  },
+  {
+    "id": "kakugawa-matsuri",
+    "name": "狢川まつり",
+    "name_kana": "Kakugawa Matsuri",
+    "image": "kakugawa-matsuri.png",
+    "origin": "現代日本",
+    "age": 20,
+    "job": "大学生（法学部）",
+    "last_active": 2022,
+    "first_active": "普通シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 9,
+      "CON": 11,
+      "POW": 15,
+      "DEX": 15,
+      "APP": 13,
+      "SIZ": 10,
+      "INT": 16,
+      "EDU": 14
+    },
+    "features": [
+      "素早い",
+      "アウトドア派"
+    ],
+    "personality": "感情豊か、きっぱり、やや攻撃的",
+    "colors": [
+      "#e95464"
+    ],
+    "description": "地方出身。大学進学と同時に幼馴染とともに上京し、同居していた。\n机の上に青いハーバリウム、ベッドの上に間抜けな顔をした柴犬の抱き枕を置いている。",
+    "history": [
+      "キルキルイキル",
+      "腐乱腐乱"
+    ],
+    "status": "継続可",
+    "traits": [
+      "大学生",
+      "素早い",
+      "アウトドア派",
+      "歴史"
+    ]
+  },
+  {
+    "id": "hoshihara-hiiro",
+    "name": "星原緋色",
+    "name_kana": "Hoshihara Hiiro",
+    "image": "hoshihara-hiiro.png",
+    "origin": "現代日本",
+    "age": 20,
+    "job": "大学生",
+    "last_active": 2021,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": false,
+    "family": "星原",
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 14,
+      "CON": 17,
+      "POW": 17,
+      "DEX": 11,
+      "APP": 12,
+      "SIZ": 14,
+      "INT": 12,
+      "EDU": 14
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "熱血、素直",
+    "colors": [
+      "#d7003a"
+    ],
+    "description": "中学でサッカー、高校で陸上をやっていた。プロの選手を目指していたが、脚が故障し引退。以降は体育教師を目標に努めている。\n年上の恋人がいる。",
+    "history": [
+      "君と世界の形 第3話 君と僕の愛の形 HO1ママ"
+    ],
+    "status": "継続可",
+    "traits": [
+      "大学生"
+    ]
+  },
+  {
+    "id": "shinomae-yugo",
+    "name": "篠前優護",
+    "name_kana": "Shinomae Yuugo",
+    "image": "shinomae-yugo.png",
+    "origin": "現代日本",
+    "age": 30,
+    "job": "教師（美術）",
+    "last_active": 2021,
+    "first_active": "秘匿シナリオ",
+    "gender": "男",
+    "myth": false,
+    "family": "笹記",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 14,
+      "CON": 7,
+      "POW": 15,
+      "DEX": 14,
+      "APP": 11,
+      "SIZ": 8,
+      "INT": 11,
+      "EDU": 16
+    },
+    "features": [
+      "飛ばし屋",
+      "俊敏"
+    ],
+    "personality": "怖がり、短気、人見知り",
+    "colors": [
+      "#b8d200"
+    ],
+    "description": "声色と態度から想定される性格は陽気、丁寧、温厚、おおらか。\n高校勤め。一年生最初の授業と三年最後の授業では、必ずてるてる坊主を作らせている。",
+    "history": [
+      "ソープスクール HO4（引退）"
+    ],
+    "status": "引退",
+    "traits": [
+      "教師（美術）",
+      "飛ばし屋",
+      "俊敏",
+      "回避",
+      "芸術（西洋画）"
+    ]
+  },
+  {
+    "id": "watami-ime",
+    "name": "綿見アイミー",
+    "name_kana": "Watami ime",
+    "image": "watami-ime.png",
+    "origin": "現代日本",
+    "age": 31,
+    "job": "医師（精神科）",
+    "last_active": 2025,
+    "first_active": "特殊シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 11,
+      "CON": 13,
+      "POW": 11,
+      "DEX": 5,
+      "APP": 12,
+      "SIZ": 12,
+      "INT": 22,
+      "EDU": 24
+    },
+    "features": [
+      "暗黒の祖先（47）",
+      "斜め上からの発想"
+    ],
+    "personality": "好奇心重視、身内に甘い",
+    "colors": [
+      "#c5c56a"
+    ],
+    "description": "精神科医のイス人。\n人体を得て20年以上になるにも関わらず、体を動かすのが下手。\n性格はのんびりやのマイペース。ある程度の協調性はあるが、他人には基本無関心。とはいえ人間の「愛着」には理解を示している。",
+    "history": [
+      "秘密と内証",
+      "咆哮エトランゼ HO2ラプンツェル"
+    ],
+    "status": "継続可",
+    "traits": [
+      "医師（精神科）",
+      "医療従事者",
+      "医学",
+      "精神分析",
+      "生物学",
+      "薬学",
+      "暗黒の祖先",
+      "斜め上からの発想",
+      "イス人"
+    ]
+  },
+  {
+    "id": "madake-ban",
+    "name": "真竹伴",
+    "name_kana": "Madake Ban",
+    "image": "madake-ban.png",
+    "origin": "現代日本",
+    "age": 42,
+    "job": "犯罪者",
+    "last_active": 2022,
+    "first_active": "秘匿シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": true
+    },
+    "params": {
+      "STR": 13,
+      "CON": 11,
+      "POW": 15,
+      "DEX": 11,
+      "APP": 10,
+      "SIZ": 11,
+      "INT": 16,
+      "EDU": 14
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "正義感が強い、短気、喧嘩っ早い",
+    "colors": [
+      "#640125"
+    ],
+    "description": "元刑事。\n義理堅いが悪く言うと子供っぽく、四十路になっても威厳がない。\n精密機械が苦手。",
+    "history": [
+      "縁罪連鎖 HO1",
+      "スモーキンバラッド"
+    ],
+    "status": "継続可",
+    "traits": [
+      "犯罪者",
+      "組み付き",
+      "目星"
+    ]
+  },
+  {
+    "id": "watari-motoi",
+    "name": "渡基",
+    "name_kana": "Watari Motoi",
+    "image": "watari-motoi.png",
+    "origin": "現代日本",
+    "age": 32,
+    "job": "刑事（捜査一課）",
+    "last_active": 2024,
+    "first_active": "秘匿シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": "渡",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 11,
+      "CON": 13,
+      "POW": 16,
+      "DEX": 16,
+      "APP": 11,
+      "SIZ": 13,
+      "INT": 13,
+      "EDU": 16
+    },
+    "features": [
+      "潜水の名人",
+      "愛書家"
+    ],
+    "personality": "気だるげ、マイペース、愛想笑い多め",
+    "colors": [
+      "#bb5520"
+    ],
+    "description": "「夢や目標もないし、とりあえず行けるとこまで行ってみるか」の精神で「服務の宣誓」を読み上げ警察になった。\nローテンション寄りで、協調性のあるマイペースな性格。身軽を好み、自分の中の優先順位がはっきりしている。\n食事をする速度が遅いものの、おいしそうに食べる雰囲気には定評がある。",
+    "history": [
+      "金糸雀の欠伸 HO2",
+      "崩れたケーキで生きを死体 HO花婿",
+      "ワンルームナイトメア",
+      "焼き芋やっちゃん KPC",
+      "RE：方向音痴",
+      "Dream Box KPC"
+    ],
+    "status": "継続可",
+    "traits": [
+      "警察関係者",
+      "刑事",
+      "捜査一課",
+      "潜水の名人",
+      "愛書家",
+      "聞き耳",
+      "目星",
+      "心理学"
+    ]
+  },
+  {
+    "id": "yucca",
+    "name": "ユッカ",
+    "name_kana": "Yucca",
+    "image": "yucca.png",
+    "origin": null,
+    "age": "??",
+    "job": "聖徒",
+    "last_active": 2021,
+    "first_active": "特殊シナリオ",
+    "gender": "不明",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 12,
+      "CON": 7,
+      "POW": 13,
+      "DEX": 9,
+      "APP": 13,
+      "SIZ": 11,
+      "INT": 14,
+      "EDU": 13
+    },
+    "features": [
+      "俊敏",
+      "飛ばし屋"
+    ],
+    "personality": "好奇心旺盛、おっとり",
+    "colors": [
+      "#e9546b"
+    ],
+    "description": "「モウ」というギムナジウムで、聞屋紛いの活動をしている青年。\n蝶のように掴みどころのないときが多いが、協調性は有する。",
+    "history": [
+      "空の色すら知らない HO3"
+    ],
+    "status": "継続可",
+    "traits": [
+      "学生",
+      "俊敏",
+      "飛ばし屋"
+    ]
+  },
+  {
+    "id": "theodore-stuart",
+    "name": "セオドア・スチュアート",
+    "name_kana": "Teodore Stuart",
+    "image": "theodore-stuart.png",
+    "origin": "1890年イギリス",
+    "age": 28,
+    "job": "探偵助手",
+    "last_active": 2021,
+    "first_active": [
+      "過去シナリオ",
+      "秘匿シナリオ"
+    ],
+    "gender": "男",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 11,
+      "CON": 11,
+      "POW": 11,
+      "DEX": 15,
+      "APP": 13,
+      "SIZ": 14,
+      "INT": 10,
+      "EDU": 15
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "気軽、柔軟",
+    "colors": [
+      "#f08300"
+    ],
+    "description": "とある探偵の助手。補佐役をすすんで務めている。\n誰にでも気楽だが万人に親切ということはなく、それなりに打算的。",
+    "history": [
+      "X2U 探偵×助手 HO助手"
+    ],
+    "status": "継続可",
+    "traits": [
+      "探偵助手"
+    ]
+  },
+  {
+    "id": "theothestar",
+    "name": "T・T・T",
+    "name_kana": "Theothestar Theo Theofigaro",
+    "image": "theothestar.png",
+    "origin": "20XX年（WW3後）",
+    "age": 36,
+    "job": "死刑囚",
+    "last_active": 2022,
+    "first_active": [
+      "秘匿シナリオ",
+      "未来シナリオ"
+    ],
+    "gender": "男",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 9,
+      "CON": 6,
+      "POW": 13,
+      "DEX": 12,
+      "APP": 10,
+      "SIZ": 11,
+      "INT": 18,
+      "EDU": 16
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "柔和、幼稚",
+    "colors": [
+      "#f8b500"
+    ],
+    "description": "テオジスター・テオ・フィガロ。肉体の九割を機械で補うサイボーグ。心臓と脳のみが生身。\n人命を人命と思わぬ合理的な決断に長ける。n執着とは無縁で、人慣れした野良猫気質。\nなお首と胴体は気軽に分離する。",
+    "history": [
+      "蹂躙するは我が手にて HO3",
+      "蝶と花と監禁術 KPC",
+      "お、捨てKPCだ。可哀想に…",
+      "君のためのヒポクリシー"
+    ],
+    "status": "継続可",
+    "traits": [
+      "サイボーグ",
+      "制作（軍事作戦）"
+    ]
+  },
+  {
+    "id": "azuma-kazuharu",
+    "name": "東一春",
+    "name_kana": "Azuma Kazutahu",
+    "image": "azuma-kazuharu.png",
+    "origin": "現代日本",
+    "age": 18,
+    "job": "高校生",
+    "last_active": 2021,
+    "first_active": "秘匿シナリオ",
+    "gender": "男",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 9,
+      "CON": 10,
+      "POW": 16,
+      "DEX": 8,
+      "APP": 10,
+      "SIZ": 11,
+      "INT": 15,
+      "EDU": 11
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "お人よし",
+    "colors": [
+      "#b44c97"
+    ],
+    "description": "教室では特に目立たない静かな生徒だが、話しかけると存外明るい。\n将来は医師になりたいようだが、進学先を決めかねている。",
+    "history": [
+      "君と世界の形 第1話 君と過ごす幸せの形 HO1",
+      "君と世界の形 第5話 君と紡ぐ世界の形（引退） "
+    ],
+    "status": "引退",
+    "traits": [
+      "高校生",
+      "学生"
+    ]
+  },
+  {
+    "id": "musubi-mirai",
+    "name": "結未来",
+    "name_kana": "Musubi Mirai",
+    "image": "musubi-mirai.png",
+    "origin": "現代日本",
+    "age": 20,
+    "job": "大学生（美術・彫刻科）",
+    "last_active": 2023,
+    "first_active": "秘匿シナリオ",
+    "gender": "不明",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 10,
+      "CON": 12,
+      "POW": 15,
+      "DEX": 8,
+      "APP": 12,
+      "SIZ": 14,
+      "INT": 16,
+      "EDU": 19
+    },
+    "features": [
+      "アウトドア派",
+      "大切なもの"
+    ],
+    "personality": "博愛、気楽、人間が好き",
+    "colors": [
+      "#2ca9e1"
+    ],
+    "description": "型の違う口調を無作為に扱う、妙な喋り方をする青年。悪く言えば変人。\n身寄りがなく、親戚の家を転々とした末に児童養護施設へ預けられ育った。その後里親を得る。\n同じ漢字で「ミク」と読む名の義理のきょうだいがいる。",
+    "history": [
+      "？？？",
+      "？？？",
+      "ムーンエラーアウトサイダー HO3"
+    ],
+    "status": "継続可",
+    "traits": [
+      "大学生",
+      "アウトドア派",
+      "大切なもの",
+      "芸術（彫刻）"
+    ]
+  },
+  {
+    "id": "kasugame-junpei",
+    "name": "春日亀潤平",
+    "name_kana": "Kasugame Junpei",
+    "image": "kasugame-junpei.png",
+    "origin": "現代日本",
+    "age": 30,
+    "job": "病院警備員",
+    "last_active": 2020,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 12,
+      "CON": 12,
+      "POW": 10,
+      "DEX": 10,
+      "APP": 10,
+      "SIZ": 12,
+      "INT": 13,
+      "EDU": 13
+    },
+    "features": [
+      "平凡な容姿",
+      "大切なもの"
+    ],
+    "personality": "共感下手、気長",
+    "colors": [
+      "#5a79ba"
+    ],
+    "description": "かつては医師を志していたが、血への苦手意識を克服できず、諦めた過去がある。\n共感下手だからこそなるべく人の隣にいたい、と思っている。",
+    "history": [
+      "掌中テアトル",
+      "やさしい朝をくださいね KPC"
+    ],
+    "status": "継続可",
+    "traits": [
+      "警備員",
+      "平凡な容姿",
+      "大切なもの",
+      "応急手当"
+    ]
+  },
+  {
+    "id": "kuba-sumire",
+    "name": "久葉菫",
+    "name_kana": "Kuba Smire",
+    "image": "kuba-sumire.png",
+    "origin": "現代日本",
+    "age": 31,
+    "job": "サイバー犯罪捜査官",
+    "last_active": 2023,
+    "first_active": "普通シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": "エクバーグ",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 11,
+      "CON": 12,
+      "POW": 15,
+      "DEX": 13,
+      "APP": 13,
+      "SIZ": 14,
+      "INT": 15,
+      "EDU": 19
+    },
+    "features": [
+      "夜に弱い",
+      "奇妙な幸運"
+    ],
+    "personality": "堅実、素直",
+    "colors": [
+      "#aacf53"
+    ],
+    "description": "学生時代、書類上の成績では上位の常連だった優等生。\n以前は恋人もいたが、仕事であまり構えなくなり関係を絶った。",
+    "history": [
+      "感染自罪のモンタージュ",
+      "protogear-プロトギア- HO1"
+    ],
+    "status": "継続可",
+    "traits": [
+      "刑事",
+      "警察関係者",
+      "夜に弱い",
+      "奇妙な幸運",
+      "拳銃",
+      "コンピューター"
+    ]
+  },
+  {
+    "id": "kunikida-makibi",
+    "name": "國木田真備",
+    "name_kana": "Kunikida Makibi",
+    "image": "kunikida-makibi.png",
+    "origin": "現代日本",
+    "age": 18,
+    "job": "高校生",
+    "last_active": 2020,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 9,
+      "CON": 15,
+      "POW": 9,
+      "DEX": 13,
+      "APP": 14,
+      "SIZ": 10,
+      "INT": 12,
+      "EDU": 13
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "親しみやすい",
+    "colors": [
+      "#82ae46"
+    ],
+    "description": "旧財閥の血を引くお嬢様。\n愛馬がおり、大層可愛がっている。",
+    "history": [
+      "脱獄は乙女の嗜み HO1"
+    ],
+    "status": "継続可",
+    "traits": [
+      "高校生",
+      "学生",
+      "ディレッタント"
+    ]
+  },
+  {
+    "id": "kotobuki-misaki",
+    "name": "寿美咲",
+    "name_kana": "Kotobuki Misaki",
+    "image": "kotobuki-misaki.png",
+    "origin": "現代日本",
+    "age": 30,
+    "job": "葬儀屋",
+    "last_active": 2023,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": false,
+    "family": "寿",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 15,
+      "CON": 11,
+      "POW": 13,
+      "DEX": 10,
+      "APP": 12,
+      "SIZ": 10,
+      "INT": 14,
+      "EDU": 13
+    },
+    "features": [
+      "プロ・ドライバー",
+      "アウトドア派"
+    ],
+    "personality": "一匹狼、朴念仁",
+    "colors": [
+      "#192f60"
+    ],
+    "description": "人肌や温かい生き物が苦手。\n休日は愛車を走らせ、星空の下で単身ぼんやりと夜を明かす。",
+    "history": [
+      "深夜零時の秘め事。 KPC",
+      "やさしい朝をくださいね KPC",
+      "稲妻のように燃えて寄せ",
+      "月夜に捧ぐ胸臆",
+      "夜半の口寄せ",
+      "君と世界の形 第二話 君と駆け抜ける非日常の形 KPC",
+      "獣も斯くや"
+    ],
+    "status": "継続可",
+    "traits": [
+      "葬儀屋",
+      "プロ・ドライバー",
+      "アウトドア派"
+    ]
+  },
+  {
+    "id": "sasaki-inori",
+    "name": "笹記祈",
+    "name_kana": "Sasaki Inori",
+    "image": "sasaki-inori.png",
+    "origin": "現代日本",
+    "age": 30,
+    "job": "医師（内科）",
+    "last_active": 2021,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": "笹記",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 10,
+      "CON": 16,
+      "POW": 12,
+      "DEX": 16,
+      "APP": 10,
+      "SIZ": 12,
+      "INT": 15,
+      "EDU": 17
+    },
+    "features": [
+      "実は生きていた",
+      "素早い"
+    ],
+    "personality": "善人、天邪鬼、苦労人",
+    "colors": [
+      "#191970"
+    ],
+    "description": "眉間に皺が寄りがち。断定系の物言いを好むものの、職業柄裁定に慎重であらねばならないためしばしば言葉を選ぶ。素の言葉遣いは圧がある。\n身内の病気を治すため医者になった。\n兄にコンプレックスと苦手意識があり、顔を合わせる度きつく当たっている。当人には可愛がられているので頭を抱えている。",
+    "history": [
+      "空中ブランコ乗りのエリー",
+      "ヒポクラテスの渋難",
+      "君と世界の形 第二話 君と駆け抜ける非日常の形",
+      "三千世界のあなたを殺し、今宵二人で踊りたい",
+      "かたく 縛られ 殉情",
+      "これは詳細を省くが 結論だけ言うと お前はイヌ KPC",
+      "はちみつ色のレコード"
+    ],
+    "status": "継続可",
+    "traits": [
+      "医師（内科）",
+      "実は生きていた",
+      "素早い",
+      "医学"
+    ]
+  },
+  {
+    "id": "mako-nishiki",
+    "name": "真子錦",
+    "name_kana": "Mako Nishiki",
+    "image": "mako-nishiki.png",
+    "origin": null,
+    "age": 8,
+    "job": "-",
+    "last_active": 2020,
+    "first_active": "特殊シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 12,
+      "CON": 9,
+      "POW": 7,
+      "DEX": 14,
+      "APP": 10,
+      "SIZ": 10,
+      "INT": 12,
+      "EDU": 6
+    },
+    "features": [
+      "芸術的才能",
+      "鋭い洞察力"
+    ],
+    "personality": "天真爛漫、臆病、甘えん坊",
+    "colors": [
+      "#ec6d71"
+    ],
+    "description": "夜と孤独を非常に恐れており、ともに暮らす青年にいつもくっつき虫。\n一方で、大好きな青年のような大人になりたいと背伸びをしたがっているる。",
+    "history": [
+      "執着針（引退）"
+    ],
+    "status": "引退",
+    "traits": [
+      "芸術的才能",
+      "鋭い洞察力",
+      "目星",
+      "芸術（）"
+    ]
+  },
+  {
+    "id": "iemori-chii",
+    "name": "家守ちい",
+    "name_kana": "Iamori Chii",
+    "image": "iemori-chii.png",
+    "origin": "現代日本",
+    "age": 20,
+    "job": "家政婦",
+    "last_active": 2020,
+    "first_active": "普通シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": "家守",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 10,
+      "CON": 9,
+      "POW": 10,
+      "DEX": 8,
+      "APP": 8,
+      "SIZ": 17,
+      "INT": 17,
+      "EDU": 12
+    },
+    "features": [
+      "暗黒の祖先（89）",
+      "銃火器の達人"
+    ],
+    "personality": "排他的、天邪鬼、不愛想、人嫌い",
+    "colors": [
+      "#e2041b"
+    ],
+    "description": "母方の系譜が「イタクァの子ら」の血を引く。\nかつては風俗で稼いでいたが、客とトラブルを起こし正当防衛とはいえ殺人を犯した過去がある。\n人間嫌いの一方で人恋しがりで、人間社会の内での暮らしをやめられないでいる。",
+    "history": [
+      "怪物たちのララバイ",
+      "まんだらかばら"
+    ],
+    "status": "継続可",
+    "traits": [
+      "家政婦",
+      "銃火器の達人",
+      "暗黒の祖先"
+    ]
+  },
+  {
+    "id": "sasaki-masaki",
+    "name": "笹記正喜",
+    "name_kana": "Sasaki Masaki",
+    "image": "sasaki-masaki.png",
+    "origin": "現代日本",
+    "age": 33,
+    "job": "刑事（零課）",
+    "last_active": 2023,
+    "first_active": "秘匿シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": "笹記",
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 13,
+      "CON": 15,
+      "POW": 18,
+      "DEX": 6,
+      "APP": 13,
+      "SIZ": 15,
+      "INT": 12,
+      "EDU": 14
+    },
+    "features": [
+      "暗黒の祖先（76）",
+      "オシャレ"
+    ],
+    "personality": "陽気、人懐こい",
+    "colors": [
+      "#a22041"
+    ],
+    "description": "空気を読んだ上で陰惨な場でもニコニコしている。自分が傷つく分には色々能天気に受け止められるし、それに痛みを感じないタイプ。\n就職後、仕事中に負傷し、以降足に機能性障害を負っている。\nその昔、不良だった頃に出会った警察官に憧れて同じ警察を志した。",
+    "history": [
+      "庭師は何を口遊む HO1",
+      "アステールの海に手向けを",
+      "最果てのベリーメリークリスマス",
+      "これは詳細を省くが 結論だけ言うと お前はイヌ KPC",
+      "腐臭地下",
+      "オパールを分割したならば KPC",
+      "微睡む君に花は降る",
+      "キの字のきのこに気をつけて",
+      "A_",
+      "蝶と花と監禁術 KPC",
+      "MACH SPEED BARRETT",
+      "目が覚めたら部屋の窓にドラゴンが突っ込んできた KPC",
+      "焼き芋やっちゃん KPC",
+      "目が覚めたら部屋の窓にドラゴンが突っ込んできた KPC",
+      "真夏の凍死体",
+      "７匹のもちもち神話〜KPCが神話の力で７匹のもちもちな二頭身になった件〜"
+    ],
+    "status": "継続可",
+    "traits": [
+      "刑事",
+      "警察関係者",
+      "零課",
+      "オシャレ",
+      "暗黒の祖先",
+      "拳銃",
+      "聞き耳",
+      "運転（二輪）",
+      "心理学"
+    ]
+  },
+  {
+    "id": "satou-himari",
+    "name": "左藤ひま莉",
+    "name_kana": "Satou Himari",
+    "image": "satou-himari.png",
+    "origin": "現代日本",
+    "age": 20,
+    "job": "ディレッタント / 怪盗",
+    "last_active": 2021,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 5,
+      "CON": 6,
+      "POW": 11,
+      "DEX": 12,
+      "APP": 15,
+      "SIZ": 15,
+      "INT": 9,
+      "EDU": 18
+    },
+    "features": [
+      "前職",
+      "暗黒の祖先（40）"
+    ],
+    "personality": "自信家、見栄っ張り、自分好き",
+    "colors": [
+      "#c9171e"
+    ],
+    "description": "実家が金持ちの御曹司。\n世話係や友達から「かわいい」といわれ育ったため、自らを「かわいい」と思っている。",
+    "history": [
+      "豪華客船と怪盗団",
+      "気づいたらしんでた KPC"
+    ],
+    "status": "継続可",
+    "traits": [
+      "ディレッタント",
+      "怪盗",
+      "前職",
+      "暗黒の祖先"
+    ]
+  },
+  {
+    "id": "ryuuko-mitsu",
+    "name": "竜子実",
+    "name_kana": "Ryuuko Mitsu",
+    "image": "ryuuko-mitsu.png",
+    "origin": "現代日本",
+    "age": 22,
+    "job": "大学生（体育学部）",
+    "last_active": 2022,
+    "first_active": "秘匿シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 13,
+      "CON": 13,
+      "POW": 16,
+      "DEX": 11,
+      "APP": 13,
+      "SIZ": 15,
+      "INT": 11,
+      "EDU": 12
+    },
+    "features": [
+      "不屈の精神力",
+      "素早い"
+    ],
+    "personality": "冷静沈着、隠れ熱血漢、やや成熟気味",
+    "colors": [
+      "#1e50a2"
+    ],
+    "description": "元警官の母親に憧れて警察官の道を志す。第二希望は体育教師。\n分からないことはついついきょうだいに訊く癖がある。",
+    "history": [
+      "-",
+      "傀逅"
+    ],
+    "status": "継続可",
+    "traits": [
+      "大学生",
+      "不屈の精神力",
+      "素早い",
+      "こぶし"
+    ]
+  },
+  {
+    "id": "hoshihara-mizuiro",
+    "name": "星原水色",
+    "name_kana": "Hoshihara Mizuiro",
+    "image": "hoshihara-mizuiro.png",
+    "origin": "現代日本",
+    "age": 24,
+    "job": "ホワイトハッカー / サイバー探偵",
+    "last_active": 2023,
+    "first_active": "秘匿シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": "星原",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 10,
+      "CON": 8,
+      "POW": 17,
+      "DEX": 10,
+      "APP": 11,
+      "SIZ": 9,
+      "INT": 17,
+      "EDU": 12
+    },
+    "features": [
+      "俊敏",
+      "おおらか"
+    ],
+    "personality": "素直、朗らか、たまに苛烈",
+    "colors": [
+      "#59b9c6"
+    ],
+    "description": "事務所を持たない、サイバー事案専門の探偵。警察とのコネがあり、対サイバー犯罪の協力者として手を貸すときがある。\n幼少期は不安定な環境で過ごし、全方位ウニスタイルで引きこもっていた。",
+    "history": [
+      "-",
+      "お酒こわい",
+      "これは詳細を省くが 結論だけ言うと お前はイヌ",
+      "蒼々サイレン KPC",
+      "俺の注文したオムライスが動いてるんだが",
+      "Dream Box KPC",
+      "黄身と蜂蜜"
+    ],
+    "status": "継続可",
+    "traits": [
+      "ハッカー",
+      "探偵",
+      "俊敏",
+      "おおらか",
+      "コンピューター",
+      "回避",
+      "目星",
+      "聞き耳"
+    ]
+  },
+  {
+    "id": "kusumi-haiiro",
+    "name": "久住灰色",
+    "name_kana": "Kusumi Haiiro",
+    "image": "kusumi-haiiro.png",
+    "origin": null,
+    "age": "??",
+    "job": "探偵",
+    "last_active": 2020,
+    "first_active": [
+      "特殊シナリオ",
+      "秘匿シナリオ"
+    ],
+    "gender": "男",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": null,
+      "CON": null,
+      "POW": null,
+      "DEX": null,
+      "APP": null,
+      "SIZ": null,
+      "INT": null,
+      "EDU": null
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "柔和、ややネガディブ",
+    "colors": [
+      "#2ca9e1"
+    ],
+    "description": "カノヨ街の隅に小さな探偵事務所を構えている。\n雨の日など暇をもてあました日には、家や図書館にこもって調べ物に励む。\n根はそこそこ苛烈で、ときには大胆。",
+    "history": [
+      "カノヨ街 壱番地の標本（引退）"
+    ],
+    "status": "引退",
+    "traits": [
+      "探偵",
+      "聞き耳"
+    ]
+  },
+  {
+    "id": "oribe-rokuko",
+    "name": "織部六仔",
+    "name_kana": "Oribe Rokuko",
+    "image": "oribe-rokuko.png",
+    "origin": "現代日本",
+    "age": 15,
+    "job": "高校生",
+    "last_active": 2021,
+    "first_active": "普通シナリオ",
+    "gender": "女",
+    "myth": true,
+    "family": "織部",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 8,
+      "CON": 5,
+      "POW": 8,
+      "DEX": 9,
+      "APP": 14,
+      "SIZ": 12,
+      "INT": 16,
+      "EDU": 9
+    },
+    "features": [
+      "目つきが悪い",
+      "夜に弱い"
+    ],
+    "personality": "おっとり、好奇心旺盛、能動的",
+    "colors": [
+      "#17184b"
+    ],
+    "description": "病弱かつ弱視にも関わらず、散歩に出ると二時間は帰ってこない。\n最近は創作料理に凝っており、うまくいったレシピはネット上のブログで公開している。",
+    "history": [
+      "びいどろの国",
+      "ホットココアとマシュマロを。",
+      "頭部α",
+      "焼き芋やっちゃん KPC"
+    ],
+    "status": "継続可",
+    "traits": [
+      "高校生",
+      "学生",
+      "目つきが悪い",
+      "夜に弱い"
+    ]
+  },
+  {
+    "id": "benedict-void",
+    "name": "ベネディクト・ボイド",
+    "name_kana": "Benedict Void",
+    "image": "benedict-void.png",
+    "origin": "1921年秋イギリス",
+    "age": 36,
+    "job": "私立探偵",
+    "last_active": 2020,
+    "first_active": "過去シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": "織部",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 10,
+      "CON": 10,
+      "POW": 13,
+      "DEX": 4,
+      "APP": 14,
+      "SIZ": 13,
+      "INT": 14,
+      "EDU": 15
+    },
+    "features": [
+      "-",
+      "-"
+    ],
+    "personality": "穏やか",
+    "colors": [
+      "#d3381c"
+    ],
+    "description": "「いろいろな景色が一番よく見えるから」と最後尾を好む。\n過去ヤブヘビに見舞われた結果、左足を切断するに至り、右足にも重い障害が残っている。\n実家は病院。両親からは将来的には当然家を継ぐものと思われ、大学では医学を学んでいた。",
+    "history": [
+      "人形姫 PC1"
+    ],
+    "status": "継続可",
+    "traits": [
+      "探偵"
+    ]
+  },
+  {
+    "id": "kisaragi-tsukasa",
+    "name": "如月司",
+    "name_kana": "Kisaragi Tsukasa",
+    "image": "kisaragi-tsukasa.png",
+    "origin": "現代日本",
+    "age": 26,
+    "job": "花屋 / 怪盗",
+    "last_active": 2021,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 8,
+      "CON": 13,
+      "POW": 11,
+      "DEX": 16,
+      "APP": 10,
+      "SIZ": 13,
+      "INT": 13,
+      "EDU": 14
+    },
+    "features": [
+      "二十面相 ※",
+      "予期せぬ協力者（59）"
+    ],
+    "personality": "刹那的、快楽重視、怖いもの好き",
+    "colors": [
+      "#d9333f"
+    ],
+    "description": "※ 久世久香様作『怪盗特徴表』採用\n\n趣味で「怪盗ダミー」という盗人をやっている。\n「盗みはしょせん犯罪」「法の敷かれた世界では自分はただの犯罪者」と自認する。",
+    "history": [
+      "切なる願いは月夜に煌めく",
+      "やさしい朝をくださいね KPC"
+    ],
+    "status": "継続可",
+    "traits": [
+      "怪盗",
+      "花屋",
+      "二十面相",
+      "予期せぬ協力者",
+      "図書館",
+      "変装"
+    ]
+  },
+  {
+    "id": "hoshino-yotaka",
+    "name": "保志野与孝",
+    "name_kana": "Hoshino Yotaka",
+    "image": "hoshino-yotaka.png",
+    "origin": "現代日本",
+    "age": 32,
+    "job": "占い師",
+    "last_active": 2022,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": "保志野",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 10,
+      "CON": 12,
+      "POW": 16,
+      "DEX": 13,
+      "APP": 11,
+      "SIZ": 11,
+      "INT": 15,
+      "EDU": 15
+    },
+    "features": [
+      "珍しい技能",
+      "親の七光り"
+    ],
+    "personality": "穏やか",
+    "colors": [
+      "#c9171e"
+    ],
+    "description": "適度ににこにこしている。悪く言えば八方美人。\n「占い師とは客に気持ちよく騙されてもらう仕事であり、嘘で人を幸せにできる」と考えている。\n付き合いも良く、顔は広い。友人も多いが、第一印象は胡散臭く見られやすい。",
+    "history": [
+      "星の神話、エンドロール PC1",
+      "深夜零時の秘め事 KPC",
+      "ナイトアクアリウムの怪",
+      "銀河鉄道の夜のような夜",
+      "CH-0",
+      "戯曲グラスバレヱ 第一章「カボチャの馬車」",
+      "戯曲グラスバレヱ 第二章「ハシバミの木」",
+      "戯曲グラスバレヱ 第三章「シンデレラの舞踏会」",
+      "戯曲グラスバレヱ 第四章「双子の夢幻郷」",
+      "戯曲グラスバレヱ 第五章「ちるちるみちる」",
+      "戯曲グラスバレヱ 第六章「夢色ハーモニー」（引退）"
+    ],
+    "status": "引退",
+    "traits": [
+      "占い師",
+      "珍しい技能",
+      "親の七光り",
+      "オカルト",
+      "言いくるめ",
+      "芸術（タロット）"
+    ]
+  },
+  {
+    "id": "hoshihara-kuroba",
+    "name": "星原黒羽",
+    "name_kana": "Hoshihara Kuroba",
+    "image": "hoshihara-kuroba.png",
+    "origin": "現代日本",
+    "age": "??",
+    "job": "用心棒",
+    "last_active": 2021,
+    "first_active": "普通シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": "星原",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 14,
+      "CON": 16,
+      "POW": 16,
+      "DEX": 15,
+      "APP": 6,
+      "SIZ": 8,
+      "INT": 14,
+      "EDU": 11
+    },
+    "features": [
+      "異性が苦手",
+      "不屈の精神力"
+    ],
+    "personality": "冷静",
+    "colors": [
+      "#4682b4"
+    ],
+    "description": "元少女兵の傭兵。今も紛争地域など危険地帯に赴く。\n現在は日本に滞在。「日系アイルランド人の星原黒羽」で通している。",
+    "history": [
+      "懐胎",
+      "やさしい朝をくださいね KPC"
+    ],
+    "status": "継続可",
+    "traits": [
+      "兵士",
+      "用心棒",
+      "傭兵",
+      "異性が苦手",
+      "不屈の精神力",
+      "ライフル",
+      "ナイフ"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "シスター・サーティーン",
+    "name_kana": "Sister 13",
+    "image": "13.png",
+    "origin": "現代日本",
+    "age": "??",
+    "job": "聖職者",
+    "last_active": 2020,
+    "first_active": "普通シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 15,
+      "CON": 13,
+      "POW": 13,
+      "DEX": 13,
+      "APP": 15,
+      "SIZ": 14,
+      "INT": 13,
+      "EDU": 12
+    },
+    "features": [
+      "天気予報士"
+    ],
+    "personality": "性親切、仕事好き、好戦的",
+    "colors": [
+      "#dc143c"
+    ],
+    "description": "教会育ち。農林業従事者が里親となり高校を卒業したあと、恩返しも兼ねて教会で働いている。\n本名に「十三」を含むらしいが、真偽は不明。",
+    "history": [
+      "異世界転生探索者と神託者の旅"
+    ],
+    "status": "継続可",
+    "traits": [
+      "聖職者",
+      "天気予報士",
+      "チェーンソー"
+    ]
+  },
+  {
+    "id": "hijima-natsuho",
+    "name": "日島夏歩",
+    "name_kana": "Hijima Natsuho",
+    "image": "hijima-natsuho.png",
+    "origin": "現代日本",
+    "age": 16,
+    "job": "高校生",
+    "last_active": 2020,
+    "first_active": "普通シナリオ",
+    "gender": "女",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 15,
+      "CON": 12,
+      "POW": 14,
+      "DEX": 10,
+      "APP": 11,
+      "SIZ": 7,
+      "INT": 9,
+      "EDU": 10
+    },
+    "features": [
+      "寄せ餌",
+      "信頼のおける人"
+    ],
+    "personality": "無邪気、好奇心旺盛、冒険好き",
+    "colors": [
+      "#ffd700"
+    ],
+    "description": "屈託と警戒心のない子ども。悪意や害意が弱点だが、今のところは生育環境に守られている。\n誕生日やクリスマスといった小さな非日常を好む一方で、いつかもっと遠くに行きたいと願っている。\nかくれんぼが得意で、方向感覚に自信がある。",
+    "history": [
+      "なわばり（ロスト）"
+    ],
+    "status": "ロスト",
+    "traits": [
+      "高校生",
+      "学生",
+      "寄せ絵",
+      "信頼のおける人"
+    ]
+  },
+  {
+    "id": "sakai-yoshino",
+    "name": "境吉野",
+    "name_kana": "Sakai_Yoshino",
+    "image": "sakai-yoshino.png",
+    "origin": "現代日本",
+    "age": 28,
+    "job": "作家",
+    "last_active": 2021,
+    "first_active": "普通シナリオ",
+    "gender": "不明",
+    "myth": true,
+    "family": "渡",
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 10,
+      "CON": 11,
+      "POW": 11,
+      "DEX": 10,
+      "APP": 14,
+      "SIZ": 13,
+      "INT": 13,
+      "EDU": 12
+    },
+    "features": [
+      "行方不明の家族",
+      "影が薄い"
+    ],
+    "personality": "温厚、紳士的、厭世家",
+    "colors": [
+      "#ffc0cb"
+    ],
+    "description": "穏やかな人物だが、警戒心が強く、他人との付き合いが続いてからも長く一線を引いている。\n学生時代になんとなくで書いた一本から作家デビューした。メイン出版ジャンルは怪奇系。兼業で本屋のアルバイトや添削の仕事も行う。\n人間関係の摩擦が苦手で、他者をできる限り遠ざけており、なるべく「ひとの記憶に残らないひと」「代わりのあるひと」でいたがっている。",
+    "history": [
+      "最果てのレイル",
+      "Alter Ego-オルター・エゴ-",
+      "不完全なる図書館",
+      "WRECK",
+      "九頭鳥の散華 第一章 嗤う送り犬",
+      "九頭鳥の散華 第二章 宵闇影鰐",
+      "九頭鳥の散華 第三章 墜ちた鸞",
+      "ボトルレターの墓場から",
+      "九頭鳥の散華 第四章 狂狂番え鬼車"
+    ],
+    "status": "継続可",
+    "traits": [
+      "作家",
+      "行方不明の家族",
+      "影が薄い",
+      "図書館"
+    ]
+  },
+  {
+    "id": "kamatsuka-masumi",
+    "name": "一尺八寸真澄",
+    "name_kana": "Kamatsuka Masumi",
+    "image": "kamatsuka-masumi.png",
+    "origin": "現代日本",
+    "age": 20,
+    "job": "ジャーナリスト",
+    "last_active": 2021,
+    "first_active": "秘匿シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 10,
+      "CON": 13,
+      "POW": 12,
+      "DEX": 13,
+      "APP": 11,
+      "SIZ": 14,
+      "INT": 14,
+      "EDU": 8
+    },
+    "features": [
+      "-"
+    ],
+    "personality": "お気楽、善人、子どもっぽい",
+    "colors": [
+      "#f4a460"
+    ],
+    "description": "感情も愛情も豊かな、悪く言えばうるさい青年。裏表がないからか知人が多く、お年寄りにモテる。\n一目ぼれからアタックをして頷いてもらえた年上の恋人がおり、デレデレ。会うたび「おれをお婿さんにして……」と言う。\nわけあって左腕の肘から先をなくしている。不便がってはいるが、もともと楽観的なおかげで「これはこれで」と面白がっている。",
+    "history": [
+      "雀も鳴かずば撃たれまい",
+      "パスハの卵",
+      "52Hzの救難信号（KPC / 引退）"
+    ],
+    "status": "引退",
+    "traits": [
+      "ジャーナリスト",
+      "記者"
+    ]
+  },
+  {
+    "id": "watari-kunugi",
+    "name": "渡椚",
+    "name_kana": "Watari Kunugi",
+    "image": "watari-kunugi.png",
+    "origin": "現代日本",
+    "age": 24,
+    "job": "プログラマー",
+    "last_active": 2025,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": [
+      "渡",
+      "家守"
+    ],
+    "organization": null,
+    "relations": {
+      "partner": true,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 11,
+      "CON": 13,
+      "POW": 14,
+      "DEX": 16,
+      "APP": 11,
+      "SIZ": 18,
+      "INT": 13,
+      "EDU": 16
+    },
+    "features": [
+      "愛書家",
+      "受け身"
+    ],
+    "personality": "根暗、温厚、孤独好き",
+    "colors": [
+      "#8b4513"
+    ],
+    "description": "コンピューターへの造詣が深いオタク。集団行動を苦痛に感じる性質から、人間の群れから離れた進路を歩み今に至る。\n「自分を幸せにできなければ他人を幸せにはできない」「俺は子どもとして大事に育てられたから、俺も子どもを大事にしたい」という価値観を主軸に、行動方針として保身を重視する。\n嗜好はテレビゲーム好きかつ腐男子、インドア。家の本棚にはゲームソフトとBL同人誌が並ぶ。",
+    "history": [
+      "知を孕む母よ",
+      "これは詳細を省くが結論だけ言うとお前はイヌ KPC",
+      "T高のU子さん",
+      "蛾と踊る",
+      "大発見！大きい！でかい！毘倶村！",
+      "ぼくらの空想都市計画",
+      "針の上で天使は何人踊れるか",
+      "ネクロノミコンを探して",
+      "イラオリッシュジムへようこそ！",
+      "aegis"
+    ],
+    "status": "継続可",
+    "traits": [
+      "IT関係者",
+      "プログラマー",
+      "愛書家",
+      "受け身",
+      "コンピューター",
+      "図書館",
+      "目星"
+    ]
+  },
+  {
+    "id": "kannnaduki-hajime",
+    "name": "神無月始",
+    "name_kana": "Kannaduki Hajime",
+    "image": "kannnaduki-hajime.png",
+    "origin": "現代日本",
+    "age": 21,
+    "job": "大学生（考古学部）",
+    "last_active": 2020,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": true,
+      "external": false
+    },
+    "params": {
+      "STR": 16,
+      "CON": 12,
+      "POW": 10,
+      "DEX": 9,
+      "APP": 17,
+      "SIZ": 15,
+      "INT": 16,
+      "EDU": 15
+    },
+    "features": [
+      "前職",
+      "オシャレ"
+    ],
+    "personality": "普通、格好つけ、臆病",
+    "colors": [
+      "#9acd32"
+    ],
+    "description": "高校ではオカルト部に所属していた。その部活動で得た知見から民俗学や考古学に興味を持ち、進路を決定した。大学院まで進むつもりでいる。\n本人は普通にしているつもりかつ、実際に可もなく不可もない性格であるのに、顔つきがやたら整っているので何をしてもキマって見える。\n中学ではサッカーをやっていた。脚の故障をきっかけに引退し、運動習慣のみ今も継続している。",
+    "history": [
+      "Bye-Bye Summer Days PC2",
+      "She Wore a Yellow Ribbon"
+    ],
+    "status": "継続可",
+    "traits": [
+      "大学生",
+      "前職",
+      "オシャレ",
+      "図書館"
+    ]
+  },
+  {
+    "id": "sugiyama-cyakkaman",
+    "name": "杉山チャッカマン",
+    "name_kana": "Sugiyama -",
+    "image": "sugiyama-chakkaman.png",
+    "origin": "現代日本",
+    "age": "??",
+    "job": "農家",
+    "last_active": 2024,
+    "first_active": "普通シナリオ",
+    "gender": "男",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 11,
+      "CON": 10,
+      "POW": 11,
+      "DEX": 12,
+      "APP": 13,
+      "SIZ": 15,
+      "INT": 16,
+      "EDU": 15
+    },
+    "features": [
+      "-",
+      "-"
+    ],
+    "personality": "常識人、短気、直情",
+    "colors": [
+      "#ff0000"
+    ],
+    "description": "ホッケーマスクにパーカー、頭に花が普段着の変な農家。農家としては極めて真剣。\n常識もあり、人並みに温厚だが、普段着のインパクトがすべてを台無しにしている。\n重い花粉症持ちで、花粉を何より憎んでいる。そのためか、異様に火が好き。",
+    "history": [
+      "死ね！花粉",
+      "電話",
+      "T高のU子さん",
+      "とんねるいえ KPC",
+      "The Backrooms"
+    ],
+    "status": "継続可",
+    "traits": [
+      "農家",
+      "火炎放射器"
+    ],
+    "novel_url": ""
+  }
+]

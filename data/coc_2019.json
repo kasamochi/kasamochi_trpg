@@ -1,0 +1,41 @@
+[
+  {
+    "scenario": "Bye-Bye Summer Days",
+    "result": "全生還",
+    "note": "PC2",
+    "cs": "神無月始",
+    "class": "text_red"
+  },
+  {
+    "scenario": "死ね！花粉",
+    "result": "全生還",
+    "note": "-",
+    "cs": "杉山チャッカマン"
+  },
+  {
+    "scenario": "電話",
+    "result": "生還",
+    "note": "-",
+    "cs": "杉山チャッカマン"
+  },
+  {
+    "scenario": "T高のU子さん",
+    "result": "生還",
+    "note": "-",
+    "cs": "杉山チャッカマン"
+  },
+  {
+    "scenario": "知を孕む母よ",
+    "result": "全生還",
+    "note": "-",
+    "cs": "渡椚",
+    "class": "text_red"
+  },
+  {
+    "scenario": "雀も鳴かずば撃たれまい",
+    "result": "全生還",
+    "note": "HO4",
+    "cs": "一尺八寸真澄",
+    "class": "text_red"
+  }
+]

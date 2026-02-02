@@ -1,0 +1,119 @@
+[
+  {
+    "scenario": "7/GHOST IN THE SPINE",
+    "result": "全生還",
+    "note": "-",
+    "cs": "田仲子花",
+    "class": "text_red"
+  },
+  {
+    "scenario": "ワンちゃんはここにいる。",
+    "result": "両生還",
+    "note": "-",
+    "cs": "田仲子花"
+  },
+  {
+    "scenario": "無辜なきかいぶつたちのカオス",
+    "result": "全生還",
+    "note": "HO狼",
+    "cs": "「狼」"
+  },
+  {
+    "scenario": "The Hog Game",
+    "result": "両生還",
+    "note": "-",
+    "cs": "「狼」"
+  },
+  {
+    "scenario": "万物館の謎",
+    "result": "両生還",
+    "note": "-",
+    "cs": "Coco",
+    "class": "text_red"
+  },
+  {
+    "scenario": "咆哮エトランゼ",
+    "result": "全生還",
+    "note": "HO2",
+    "cs": "綿見アイミー"
+  },
+  {
+    "scenario": "帝都に咲く悪の影",
+    "result": "両生還",
+    "note": "-",
+    "cs": "笹記律丸"
+  },
+  {
+    "scenario": "呪われてるのはお前だろ！！",
+    "result": "全生還",
+    "note": "-",
+    "cs": "梧桐雲雀"
+  },
+  {
+    "scenario": "WiCCa",
+    "result": "生還",
+    "note": "-",
+    "cs": "離斜",
+    "class": "text_red"
+  },
+  {
+    "scenario": "ポイエシスの墓守",
+    "result": "生還",
+    "note": "-",
+    "cs": "矢車藍葉"
+  },
+  {
+    "scenario": "小鳥は宇宙で息をする",
+    "result": "生還",
+    "note": "-",
+    "cs": "矢車藍葉",
+    "class": "text_red"
+  },
+  {
+    "scenario": "星のない夜",
+    "result": "全生還",
+    "note": "-",
+    "cs": "松雪織鶴",
+    "class": "text_red"
+  },
+  {
+    "scenario": "理不尽sermarie",
+    "result": "両生還",
+    "note": "-",
+    "cs": "紀美南"
+  },
+  {
+    "scenario": "人狼たちと納骨堂の王",
+    "result": "全生還",
+    "note": "-",
+    "cs": "渡要",
+    "class": "text_red"
+  },
+  {
+    "scenario": "俺の好きな人は今日結婚します",
+    "result": "両生還",
+    "note": "-",
+    "cs": "松雪織鶴"
+  },
+  {
+    "scenario": "今夜も二人でロードショー！ フローズン・ムーン",
+    "result": "両生還",
+    "note": "-",
+    "cs": "松雪織鶴",
+    "class": "text_red"
+  },
+  {
+    "scenario": "ほしの心臓",
+    "result": "両生還",
+    "note": "HO2",
+    "cs": "An",
+    "class": "text_red"
+  },
+  {
+    "scenario": "aegis",
+    "result": "全生還",
+    "note": "-",
+    "cs": "渡椚",
+    "class": "text_red"
+  }
+]
