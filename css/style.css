@@ -13,29 +13,45 @@ body,
     max-height: 35px;
 }
 
-.nav-link.active {
-    
-}
+.nav-link.active {}
 
-#kasamochi_pl table td {
+/* #kasamochi_pl table td {
     font-size: 0.8em;
-}
+} */
+
 .anchor {
     padding-top: 3.5em;
     margin-top: -3.5em
 }
+
 textarea {
     width: 100%;
 }
+
 #characterList a {
     color: #808080;
 }
+
 .back {
     margin-top: 1em;
     text-align: right;
 }
+
 @media screen and (max-width: 699px) {
     .container-fluid {}
+
+    #kasamochi .kasamochi_schedule th:nth-child(4),
+    #kasamochi .kasamochi_schedule td:nth-child(4),
+    #kasamochi .kasamochi_like td:nth-child(3),
+    #kasamochi .kasamochi_like td:nth-child(4),
+    #kasamochi_pl table th:nth-child(3),
+    #kasamochi_pl table td:nth-child(3),
+    #kasamochi_pl table th:nth-child(4),
+    #kasamochi_pl table td:nth-child(4),
+    #kasamochi_gm table th:nth-child(3),
+    #kasamochi_gm table td:nth-child(3)  {
+        display: none;
+    }
 
 }
 
@@ -103,20 +119,18 @@ h4[aria-expanded="false"]::before {
     width: 1em;
     display: inline-block;
 }
+
 h4.dx3rd {
     padding-top: 0.5em;
 }
+
 th[data-sort] {
     cursor: pointer;
 }
 
-#kasamochi_pl .scenario {
+/* #kasamochi_pl .scenario {
     width: 50%;
-}
-
-#characterList a {
-    width: 100px;
-}
+} */
 
 #characterList img {
     object-fit: cover;
@@ -151,27 +165,38 @@ th[data-sort] {
 }
 
 #searchInput {
-    max-width: 50%;
+    max-width: 65%;
 }
 
 .attention_filter {
     font-size: 0.75rem;
 }
+
 .attention_filter_02 {
     margin-top: -1rem;
 }
+
 /* #characterList .small {
     font-size: .6em;
 } */
 
 @media screen and (max-width: 699px) {
 
-    #kasamochi_pl table td {
+    /* #kasamochi_pl table td {
         font-size: 2.7vw;
-    }
+    } */
 
     #kasamochi_pl .scenario {
-        width: 35%;
+       width: 70%;
+    }
+
+    #characterList a,
+    #characterList img {
+        width: 6em;
+    }
+
+    #characterList a .small {
+        font-size: .75em;
     }
 }
 
@@ -220,5 +245,5 @@ body.dark .char-colors span {
 }
 
 #charDescription {
-  white-space: pre-line;
+    white-space: pre-line;
 }
