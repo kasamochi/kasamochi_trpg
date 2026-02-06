@@ -37,24 +37,6 @@ textarea {
     text-align: right;
 }
 
-@media screen and (max-width: 699px) {
-    .container-fluid {}
-
-    #kasamochi .kasamochi_schedule th:nth-child(4),
-    #kasamochi .kasamochi_schedule td:nth-child(4),
-    #kasamochi .kasamochi_like td:nth-child(3),
-    #kasamochi .kasamochi_like td:nth-child(4),
-    #kasamochi_pl table th:nth-child(3),
-    #kasamochi_pl table td:nth-child(3),
-    #kasamochi_pl table th:nth-child(4),
-    #kasamochi_pl table td:nth-child(4),
-    #kasamochi_gm table th:nth-child(3),
-    #kasamochi_gm table td:nth-child(3)  {
-        display: none;
-    }
-
-}
-
 /* __/header__ */
 .container {
     max-width: 700px;
@@ -180,32 +162,6 @@ th[data-sort] {
     font-size: .6em;
 } */
 
-@media screen and (max-width: 699px) {
-
-    /* #kasamochi_pl table td {
-        font-size: 2.7vw;
-    } */
-
-    #kasamochi_pl .scenario {
-       width: 70%;
-    }
-
-    #characterList a,
-    #characterList img {
-        width: 6em;
-    }
-
-    #characterList a .small {
-        font-size: .75em;
-    }
-}
-
-@media (max-width: 576px) {
-    #filterArea .form-select {
-        font-size: 0.85rem;
-    }
-}
-
 .char-colors {
     display: flex;
     align-items: center;
@@ -246,4 +202,48 @@ body.dark .char-colors span {
 
 #charDescription {
     white-space: pre-line;
+}
+
+@media screen and (max-width: 699px) {
+    .container-fluid {}
+
+    #kasamochi .kasamochi_schedule th:nth-child(4),
+    #kasamochi .kasamochi_schedule td:nth-child(4),
+    #kasamochi .kasamochi_like td:nth-child(3),
+    #kasamochi .kasamochi_like td:nth-child(4),
+    #kasamochi_pl table th:nth-child(3),
+    #kasamochi_pl table td:nth-child(3),
+    #kasamochi_pl table th:nth-child(4),
+    #kasamochi_pl table td:nth-child(4),
+    #kasamochi_gm table th:nth-child(3),
+    #kasamochi_gm table td:nth-child(3) {
+        display: none;
+    }
+
+    #kasamochi .row {
+        margin: 0 auto;
+    }
+
+    /* #kasamochi_pl table td {
+        font-size: 2.7vw;
+    } */
+
+    #kasamochi_pl .scenario {
+        width: 70%;
+    }
+
+    #characterList a,
+    #characterList img {
+        width: 6em;
+    }
+
+    #characterList a .small {
+        font-size: .75em;
+    }
+}
+
+@media (max-width: 576px) {
+    #filterArea .form-select {
+        font-size: 0.85rem;
+    }
 }
