@@ -18,58 +18,14 @@
 <body>
   <div class="all">
     <!--header-->
-    <header>
-      <nav class="navbar navbar-expand-lg fixed-top bg-body-tertiary">
-        <div class="container-fluid">
-          <a class="navbar-brand" href="#"><img class="nav_icom" src="images/nav_icon.png" alt="TRPGの傘持屋台"></a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarNav">
-            <ul id="tabMenu" class="navbar-nav">
-              <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html">傘持屋台</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                  aria-expanded="false">傘持卓</a>
-                <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="index_kasa_taku.html">キーパリング方針</a></li>
-                  <li><a class="dropdown-item" href="index_kasa_taku.html#house_rules">ハウスルール</a></li>
-                  <li><a class="dropdown-item" href="index_kasa_taku.html#insanity">発狂</a></li>
-                  <li><a class="dropdown-item" href="index_kasa_taku.html#battle">戦闘</a></li>
-                  <li><a class="dropdown-item" href="index_kasa_taku.html#growth">成長</a></li>
-                  <li><a class="dropdown-item" href="index_kasa_taku.html#new_pc">新規探索者の創造</a></li>
-                </ul>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                  aria-expanded="false">PL済</a>
-                <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="index_pl_coc.html">CoC6版</a></li>
-                  <li><a class="dropdown-item" href="index_pl_another.html">その他</a></li>
-                </ul>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="index_gm.html">GM済</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                  aria-expanded="false">PC一覧</a>
-                <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="index_pc_coc.html">探索者</a></li>
-                  <!-- <li><a class="dropdown-item" href="index_pc_dx.html">オーヴァード</a></li> -->
-                </ul>
-              </li>
-              <!-- <li class="nav-item">
-                <a class="nav-link" href="index_kasa_scenario.html">自作シナリオ</a>
-              </li> -->
-            </ul>
-          </div>
-        </div>
-      </nav>
-    </header>
+    <div id="header"></div>
+    <script>
+      fetch("./common/header.html")
+        .then(res => res.text())
+        .then(html => {
+          document.getElementById("header").innerHTML = html;
+        });
+    </script>
     <!--End of header-->
     <div class="container">
       <div id="kasamochi">
@@ -205,7 +161,7 @@
             <!-- ========== 好きなもの =========== -->
             <h3 class="text-body-emphasis mt-5">好きなもの</h2>
               <p>※ 気分で入れ替え<br />
-                ※ 最終入れ替え日：2026/02/02</p>
+                ※ 最終入れ替え日：2026/02/05</p>
               <table class="table kasamochi_like">
                 <tbody>
                   <tr>
@@ -221,7 +177,13 @@
                     <td>宇宙</td>
                   </tr>
                   <tr>
-                    <th>本</th>
+                    <th>色</th>
+                    <td><span style="color: #c9171e;">■#c9171e</span></td>
+                    <td><span style="color: #adff2f;">■#adff2f</span></td>
+                    <td><span style="color: #fcc800;">■#fcc800</span></td>
+                  </tr>
+                  <tr>
+                    <th>小説</th>
                     <td>プロジェクト・ヘイル・メアリー</td>
                     <td>オリエント急行の殺人</td>
                     <td>十角館の殺人</td>
@@ -244,7 +206,6 @@
                     <td>グノーシア</td>
                     <td>サモンナイト（無印）</td>
                   </tr>
-                  <tr></tr>
                   <tr>
                     <th>アプリ</th>
                     <td>メルクストーリア</td>
@@ -258,10 +219,48 @@
                     <td> 蘭陵王（FGO） </td>
                   </tr>
                   <tr>
-                    <th>食べ物</th>
+                    <th>ポケモン</th>
+                    <td>ファイアロー</td>
+                    <td>アーケン</td>
+                    <td>フシデ</td>
+                  </tr>
+                  <tr>
+                    <th>デジモン</th>
+                    <td>フライビーモン</td>
+                    <!-- <td>シャイングレイモン</td> -->
+                    <td>ラピッドモン</td>
+                    <td>ソーラーモン</td>
+                    <!-- <td>ピヨモン</td> -->
+                  </tr>
+                  <tr>
+                    <th>食材</th>
+                    <td>豆腐</td>
+                    <td>たまご</td>
+                    <td>たまねぎ</td>
+                  </tr>
+                  <tr>
+                    <th>和食</th>
+                    <td>茶碗蒸し</td>
+                    <td>鮭の塩焼き</td>
+                    <td>サバの味噌煮</td>
+                  </tr>
+                  <tr>
+                    <th>麺類</th>
                     <td>蒙古タンメン中本</td>
                     <td>トマト系パスタ</td>
+                    <td>かけうどん</td>
+                  </tr>
+                  <tr>
+                    <th>果物</th>
                     <td>みかん</td>
+                    <td>ネーブル</td>
+                    <td>梨</td>
+                  </tr>
+                  <tr>
+                    <th>飲み物</th>
+                    <td>クラフトコーラ</td>
+                    <td>抹茶ラテ</td>
+                    <td>レモンティー</td>
                   </tr>
                 </tbody>
               </table>
@@ -270,7 +269,9 @@
       </div>
       <!--/==========傘持屋台==========-->
     </div>
-    <footer></footer>
+    <!--footer-->
+    <!-- <footer>@kasa_yata</footer> -->
+    <!--End of footer-->
   </div>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
   <!-- javascript and jQuery -->
