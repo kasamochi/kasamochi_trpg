@@ -204,6 +204,20 @@ body.dark .char-colors span {
     white-space: pre-line;
 }
 
+footer {
+    text-align: center;
+}
+
+#page_top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+    display: none;
+    /* 最初は非表示 */
+    border-radius: 50px;
+}
+
 @media screen and (max-width: 699px) {
     .container-fluid {}
 
@@ -239,6 +253,14 @@ body.dark .char-colors span {
 
     #characterList a .small {
         font-size: .75em;
+    }
+
+    #kasamochi .row>* {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    #kasamochi_pc_coc .row>* {
+        
     }
 }
 
