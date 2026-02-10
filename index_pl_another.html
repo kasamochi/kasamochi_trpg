@@ -100,12 +100,22 @@
       </div>
       <!--/==========傘持屋台==========-->
     </div>
-    <a href="#" id="page_top"></a>
-    <footer></footer>
+    <a href="#" id="page_top" class="btn btn-primary rounded-circle">↑</a>
+    <!--footer-->
+    <div id="footer"></div>
+    <script>
+      fetch("./common/footer.html")
+        .then(res => res.text())
+        .then(html => {
+          document.getElementById("footer").innerHTML = html;
+        });
+    </script>
+    <!--End of footer-->
   </div>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
   <!-- javascript and jQuery -->
   <script src="js/script_pl_coc.js"></script>
+  <script src="js/script_topback.js"></script>
   <!-- End of javascript and jQuery -->
 </body>
 

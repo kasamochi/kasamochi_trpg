@@ -30,7 +30,8 @@
     <!--End of header-->
     <div class="container">
       <div id="kasamochi_pc_coc">
-        <div class="row g-5">
+        <!-- <div class="row g-5"> -->
+        <div class="row">
           <!--========== 遊べるシステム ==========-->
           <div>
             <h3 class="text-body-emphasis">探索者一覧</h3>
@@ -160,13 +161,21 @@
           </div>
           <!-- ========== /遊べるシステム =========== -->
         </div>
-      <div class="back"><a href="javascript:history.back();">▼戻る</a></div>      
+        <div class="back"><a href="javascript:history.back();">▼戻る</a></div>
       </div>
       <!--/==========傘持屋台==========-->
     </div>
-
-    <a href="#" id="page_top"></a>
-    <footer></footer>
+    <a href="#" id="page_top" class="btn btn-primary rounded-circle">↑</a>
+    <!--footer-->
+    <div id="footer"></div>
+    <script>
+      fetch("./common/footer.html")
+        .then(res => res.text())
+        .then(html => {
+          document.getElementById("footer").innerHTML = html;
+        });
+    </script>
+    <!--End of footer-->
   </div>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
@@ -174,6 +183,7 @@
   <!-- javascript and jQuery -->
   <script src="js/jquery-3.6.0.min.js"></script>
   <script src="js/script_pclist_coc.js"></script>
+  <script src="js/script_topback.js"></script>
   <!-- End of javascript and jQuery -->
 </body>
 
