@@ -101,7 +101,7 @@ function renderDetail(char) {
   }
 
   // ==========================
-  // 小説リンク
+  // CSリンク
   // ==========================
   novelArea.innerHTML = "";
 
@@ -109,7 +109,7 @@ function renderDetail(char) {
     novelArea.innerHTML = `
       <a href="${char.novel_url}" target="_blank"
          class="btn btn-outline-secondary btn-sm">
-        小説を読む
+        CSを閲覧する（別窓）
       </a>
     `;
   }
