@@ -12,5 +12,12 @@
     "note": "キャットルフ",
     "cs": "コタロウ",
     "class": null
+  },
+  {
+    "scenario": "99（イブ・ツトゥルの景象）",
+    "result": "全生還",
+    "note": "-",
+    "cs": "祝剛",
+    "class": "text_red"
   }
 ]
