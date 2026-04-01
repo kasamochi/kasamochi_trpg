@@ -47,7 +47,7 @@ textarea {
 }
 
 .text_gray {
-    color: darkgray;
+    color: darkgray !important;
 }
 
 h1 {}
