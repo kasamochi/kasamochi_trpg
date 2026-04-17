@@ -19,5 +19,12 @@
     "note": "-",
     "cs": "祝剛",
     "class": "text_red"
+  },
+  {
+    "scenario": "熊猫は猫科。",
+    "result": "両生還",
+    "note": "-",
+    "cs": "昧日未日",
+    "class": null
   }
 ]
