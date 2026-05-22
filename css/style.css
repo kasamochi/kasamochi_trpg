@@ -204,6 +204,7 @@ body.dark .char-colors span {
 .novel-body {
     white-space: pre-wrap;
     word-break: break-word;
+    line-height: 2em;
 }
 
 footer {
