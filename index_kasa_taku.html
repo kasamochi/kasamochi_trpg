@@ -127,8 +127,12 @@
               </tr>
             </tbody>
           </table>
-          <h3 id="house_rules" class="text-body-emphasis anchor">ハウスルール（2026/01更新）</h3>
+          <h3 id="house_rules" class="text-body-emphasis anchor">ハウスルール（2026/07更新）</h3>
           <p>※<span class="text_red">赤字</span>は基本ルールブック準拠のメモ。<br>※あくまでハウスルールなので、シナリオによっては採用しません。</p>
+          <textarea name="更新履歴" rows="2">
+2026/07/01  新規探索者の創造 > 〈コンピューター〉…「義務教育を受けた40歳未満のPC」の記述を「西暦2000年以降に義務教育を受けたPC」へ変更
+2026/07/01 ダイスロール > 不採用…「同卓PCへの〈心理学〉」を追加。変更に伴い、同カテゴリ〈心理学〉の「同卓PCへ心理学を行った場合」の処理方法を削除
+        </textarea>
           <table class="table mb-5">
             <tbody>
               <tr>
@@ -138,7 +142,7 @@
               </tr>
               <tr>
                 <th>不採用</th>
-                <td>・同卓PCへの〈交渉技能〉
+                <td>・同卓PCへの〈交渉技能〉および〈心理学〉
                 </td>
               </tr>
               <tr>
@@ -187,8 +191,7 @@
               </tr>
               <tr>
                 <th>〈心理学〉</th>
-                <td>・PLにオープンで振らせる場合がある<br>
-                  ・同卓PCへ向けた場合は、成功するとKPが相手に「心理学成功を受けた」と報告し、PCが表出させている心理描写を求める場合がある</td>
+                <td>PLにオープンで振らせる場合がある。</td>
               </tr>
               <tr>
                 <th>〈クトゥルフ神話〉</th>
@@ -386,7 +389,7 @@
             </tr>
             <tr>
               <th>〈コンピューター〉</th>
-              <td>現代出身CSに限り、義務教育を受けた40歳未満のPC or コンピューターを使用する生業に就いているPC or コンピューターを日常的に使用しているPCは任意で初期値を20にしてもよい</td>
+              <td>現代出身CSに限り、西暦2000年以降に義務教育を受けたPC or コンピューターを使用する生業に就いているPC or コンピューターを日常的に使用しているPCは任意で初期値を20にしてもよい</td>
             </tr>
             <tr>
               <th>〈その他の言語〉</th>
@@ -567,15 +570,15 @@
   </div>
   <a href="#" id="page_top" class="btn btn-primary rounded-circle">↑</a>
   <!--footer-->
-    <div id="footer"></div>
-    <script>
-      fetch("./common/footer.html")
-        .then(res => res.text())
-        .then(html => {
-          document.getElementById("footer").innerHTML = html;
-        });
-    </script>
-    <!--End of footer-->
+  <div id="footer"></div>
+  <script>
+    fetch("./common/footer.html")
+      .then(res => res.text())
+      .then(html => {
+        document.getElementById("footer").innerHTML = html;
+      });
+  </script>
+  <!--End of footer-->
   </div>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
