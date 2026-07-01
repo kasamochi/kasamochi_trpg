@@ -26,8 +26,7 @@
     "note": "-",
     "cs": "昧日未日",
     "class": null
-  }
-  ,
+  } ,
   {
     "scenario": "月のレプリカ",
     "result": "生還",
@@ -41,5 +40,19 @@
     "note": "KPレス",
     "cs": "黙々",
     "class": null
+  },
+  {
+    "scenario": "ようこそ！迷冥市役所都市伝説課へ！ おまけシナリオ",
+    "result": "両生還",
+    "note": "HO2",
+    "cs": "黙々",
+    "class": "text_red"
+  },
+  {
+    "scenario": "水曜日に夢を航る",
+    "result": "全生還",
+    "note": "TP / キャットルフ",
+    "cs": "リリー",
+    "class": "text_red"
   }
 ]

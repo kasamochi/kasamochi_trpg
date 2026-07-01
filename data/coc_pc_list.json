@@ -1,5 +1,109 @@
 [
   {
+    "id": "rene-regin",
+    "name": "ルネ・レイン",
+    "name_kana": "Rene Regin",
+    "image": "rene-regin.png",
+    "origin": "現代",
+    "age": 30,
+    "job": "天文台職員 / 動画配信者",
+    "last_active": 2026,
+    "first_active": [
+      "普通シナリオ"
+    ],
+    "gender": "男",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 12,
+      "CON": 15,
+      "POW": 16,
+      "DEX": 12,
+      "APP": 14,
+      "SIZ": 14,
+      "INT": 13,
+      "EDU": 21
+    },
+    "features": [
+      "不屈の精神力",
+      "失敗は発明の母"
+    ],
+    "personality": "真面目、血の気が多い、人間嫌い",
+    "colors": [
+      "#4169e1"
+    ],
+    "description": "とある天文台に勤める天文学者。趣味でペンギン型のアバターを使用した動画配信活動もやっている。\n基本的な性格は真面目で毒のある偏屈。冷静だが激情家。人間嫌いで難儀な性質。\n動画配信以外の趣味として、水族館巡りを持つ。将来の夢は自分だけの天文台を持つことと、南極で本物のペンギンを観測すること。",
+    "history": [
+      "探偵と艶火鉢（予定）"
+    ],
+    "status": "待機中",
+    "traits": [
+      "不屈の精神力",
+      "失敗は発明の母",
+      "天文学",
+      "物理学"
+    ],
+    "novel_url": "https://iachara.com/view/13727606"
+  },{
+    "id": "lily",
+    "name": "リリー",
+    "name_kana": "Lily",
+    "image": "lily.png",
+    "origin": "1400年代",
+    "age": 1,
+    "job": "使い魔",
+    "last_active": 2026,
+    "first_active": [
+      "普通シナリオ",
+      "キャットルフシナリオ",
+      "過去シナリオ"
+    ],
+    "gender": "女",
+    "myth": true,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 1,
+      "CON": 8,
+      "POW": 15,
+      "DEX": 19,
+      "APP": 16,
+      "SIZ": 1,
+      "INT": 9,
+      "EDU": 15
+    },
+    "features": [
+      "使い魔",
+      "この毛の塊はなんだ！"
+    ],
+    "personality": "気まぐれ、わがままお嬢様",
+    "colors": [
+      "#e95295"
+    ],
+    "description": "ターッキッシュアンゴラのメス。\n幼いころから人間の手で育てられた箱入り娘。\n人類を『下僕』として見ており、自認が魔王っぽい。",
+    "history": [
+      "水曜日に夢を航る（TP / キャットルフ）"
+    ],
+    "status": "継続可",
+    "traits": [
+      "DEX",
+      "キャットルフ",
+      "クトゥルフ・フラグメント",
+      "猫"
+    ],
+    "novel_url": ""
+  },{
     "id": "Kotarou",
     "name": "コタロウ",
     "name_kana": "Kotarou",
@@ -12,7 +116,7 @@
       "普通シナリオ",
       "キャットルフシナリオ"
     ],
-    "gender": "不明",
+    "gender": "男",
     "myth": false,
     "family": null,
     "organization": null,
@@ -2466,7 +2570,8 @@
       "ようこそ！迷冥市役所都市伝説課へ！ HO2",
       "さよならを言いにきた –東京境界防衛戦–",
       "月のレプリカ",
-      "珈琲と猫"
+      "珈琲と猫",
+      "ようこそ！迷冥市役所都市伝説課へ！ おまけシナリオ"
     ],
     "status": "継続可",
     "traits": [
@@ -2475,7 +2580,7 @@
       "影が薄い",
       "不屈の精神力"
     ],
-    "novel_url": ""
+    "novel_url": "https://iachara.com/view/2410710"
   },
   {
     "id": "okonogi-tamaki",
