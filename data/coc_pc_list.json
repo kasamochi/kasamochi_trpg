@@ -1,5 +1,55 @@
 [
   {
+    "id": "nabari-jinbee",
+    "name": "隠仁兵衛",
+    "name_kana": "Nabari Jinbee",
+    "image": "dummy.jpg",
+    "origin": "現代",
+    "age": 21,
+    "job": "大学生",
+    "last_active": 2026,
+    "first_active": [
+      "特殊シナリオ"
+    ],
+    "gender": "男",
+    "myth": false,
+    "family": null,
+    "organization": null,
+    "relations": {
+      "partner": false,
+      "buddy": false,
+      "external": false
+    },
+    "params": {
+      "STR": 18,
+      "CON": 17,
+      "POW": 17,
+      "DEX": 14,
+      "APP": 12,
+      "SIZ": 15,
+      "INT": 16,
+      "EDU": 14
+    },
+    "features": [
+      "暗黒の祖先（20）",
+      "格闘センスの持ち主"
+    ],
+    "personality": "人懐こい、善人、ノリで生きている",
+    "colors": [
+      "#0095d9"
+    ],
+    "description": "大柄かつ筋肉質な人物（STR18・SIZ15）。体調不良に極めて鈍く、風邪を引いても気づかない（CON17）。\n人懐こく、犬っぽい善人。ノリで生きている。\n未就学児のころティンダロスの混血種となったのを機に田舎へ引っ越し育った。定時制高校卒業後は祖父母の農家を継ぐつもりでいたが、姉・祖父母の要望で大学へ進学し、今に至る。探偵と夜間警備のアルバイトを掛け持ちしている。",
+    "history": [
+      "死に際に吼えるバニッシャー HO4"
+    ],
+    "status": "待機中",
+    "traits": [
+      "暗黒の祖先",
+      "格闘センスの持ち主",
+      "回避"
+    ],
+    "novel_url": "https://iachara.com/view/14857176"
+  },{
     "id": "rene-regin",
     "name": "ルネ・レイン",
     "name_kana": "Rene Regin",
@@ -40,9 +90,9 @@
     ],
     "description": "とある天文台に勤める天文学者。趣味でペンギン型のアバターを使用した動画配信活動もやっている。\n基本的な性格は真面目で毒のある偏屈。冷静だが激情家。人間嫌いで難儀な性質。\n動画配信以外の趣味として、水族館巡りを持つ。将来の夢は自分だけの天文台を持つことと、南極で本物のペンギンを観測すること。",
     "history": [
-      "探偵と艶火鉢（予定）"
+      "探偵と艶火鉢"
     ],
-    "status": "待機中",
+    "status": "継続可",
     "traits": [
       "不屈の精神力",
       "失敗は発明の母",
