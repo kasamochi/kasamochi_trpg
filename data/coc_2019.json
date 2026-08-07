@@ -9,25 +9,25 @@
   {
     "scenario": "死ね！花粉",
     "result": "全生還",
-    "note": "-",
+    "note": null,
     "cs": "杉山チャッカマン"
   },
   {
     "scenario": "電話",
     "result": "生還",
-    "note": "-",
+    "note": null,
     "cs": "杉山チャッカマン"
   },
   {
     "scenario": "T高のU子さん",
     "result": "生還",
-    "note": "-",
+    "note": null,
     "cs": "杉山チャッカマン"
   },
   {
     "scenario": "知を孕む母よ",
     "result": "全生還",
-    "note": "-",
+    "note": null,
     "cs": "渡椚",
     "class": "text_red"
   },

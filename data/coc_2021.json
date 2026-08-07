@@ -8,19 +8,19 @@
   {
     "scenario": "稲妻のように燃えて寄せ",
     "result": "両生還",
-    "note": "-",
+    "note": null,
     "cs": "寿美咲"
   },
   {
     "scenario": "銀河鉄道の夜のような夜",
     "result": "両生還",
-    "note": "-",
+    "note": null,
     "cs": "保志野与孝"
   },
   {
     "scenario": "秘密と内証",
     "result": "両生還",
-    "note": "-",
+    "note": null,
     "cs": "綿見アイミー"
   },
   {
@@ -39,38 +39,38 @@
   {
     "scenario": "感染自罪のモンタージュ",
     "result": "全生還",
-    "note": "-",
+    "note": null,
     "cs": "久葉菫"
   },
   {
     "scenario": "ホットココアとマシュマロを。",
     "result": "生還",
-    "note": "-",
+    "note": "KPレス",
     "cs": "織部六仔"
   },
   {
     "scenario": "かたく 縛られ 殉情",
     "result": "生還",
-    "note": "-",
+    "note": null,
     "cs": "笹記祈"
   },
   {
     "scenario": "頭部α",
     "result": "生還",
-    "note": "-",
+    "note": null,
     "cs": "織部六仔",
     "class": "text_red"
   },
   {
     "scenario": "腐臭地下",
     "result": "全生還",
-    "note": "-",
+    "note": null,
     "cs": "笹記正喜"
   },
   {
     "scenario": "不完全なる図書館",
     "result": "生還",
-    "note": "-",
+    "note": null,
     "cs":"境吉野",
     "class": "text_red"
   },
@@ -83,19 +83,19 @@
   {
     "scenario": "月夜に捧ぐ胸臆",
     "result": "両生還",
-    "note": "-",
+    "note": null,
     "cs": "寿美咲"
   },
   {
     "scenario": "WRECK",
     "result": "両生還",
-    "note": "-",
+    "note": null,
     "cs": "境吉野"
   },
   {
     "scenario": "キルキルイキル",
     "result": "1生還1ロスト",
-    "note": "-",
+    "note": null,
     "cs": "狢川まつり"
   },
   {
@@ -126,19 +126,19 @@
   {
     "scenario": "蛾と踊る",
     "result": "両生還",
-    "note": "-",
+    "note": null,
     "cs": "渡椚"
   },
   {
     "scenario": "俺の注文したオムライスが動いているんだが",
     "result": "両生還",
-    "note": "-",
+    "note": null,
     "cs": "星原水色"
   },
   {
     "scenario": "大発見！大きい！でかい！毘倶村",
     "result": "両生還",
-    "note": "-",
+    "note": null,
     "cs": "渡椚"
   },
   {
@@ -151,21 +151,21 @@
   {
     "scenario": "君と世界の形 第4話「君と僕の死の形」",
     "result": "両生還",
-    "note": "-",
-    "cs": "？？？",
+    "note": null,
+    "cs": null,
     "class": "text_red"
   },
   {
     "scenario": "君と世界の形 第5話「君と紡ぐ世界の形」",
     "result": "両生還",
-    "note": "-",
+    "note": null,
     "cs": "東一春",
     "class": "text_red"
   },
   {
     "scenario": "夜半の口寄せ",
     "result": "両生還",
-    "note": "-",
+    "note": null,
     "cs": "寿美咲"
   },
   {
@@ -177,7 +177,7 @@
   {
     "scenario": "微睡む君に花は降る",
     "result": "両生還",
-    "note": "-",
+    "note": null,
     "cs": "笹記正喜"
   },
   {
@@ -189,20 +189,20 @@
   {
     "scenario": "変身",
     "result": "全生還",
-    "note": "-",
+    "note": null,
     "cs": "鬼丸澪"
   },
   {
     "scenario": "九頭鳥の散華 第一話「嗤う送り犬」",
     "result": "全生還",
-    "note": "-",
+    "note": null,
     "cs": "境吉野",
     "class": "text_red"
   },
   {
     "scenario": "鏡鬼",
     "result": "生還",
-    "note": "-",
+    "note": null,
     "cs": "鬼丸澪",
     "class": "text_red"
   },
@@ -216,20 +216,20 @@
   {
     "scenario": "相食むる豚",
     "result": "生還",
-    "note": "-",
+    "note": null,
     "cs": "織部四十万"
   },
   {
     "scenario": "私に贈るスノードーム",
     "result": "全生還",
     "note": "HO2",
-    "cs": "？？？",
+    "cs": null,
     "class": "text_red"
   },
   {
     "scenario": "キの字のきのこに気をつけて",
     "result": "両生還",
-    "note": "-",
+    "note": null,
     "cs": "笹記正喜"
   },
   {
@@ -249,7 +249,7 @@
   {
     "scenario": "九頭鳥の散華 第二話「宵闇影鰐」",
     "result": "全生還",
-    "note": "-",
+    "note": null,
     "cs": "境吉野"
   },
   {
@@ -262,7 +262,7 @@
   {
     "scenario": "はちみつ色のレコード",
     "result": "両生還",
-    "note": "-",
+    "note": null,
     "cs": "笹記祈",
     "class": "text_red"
   },
@@ -275,14 +275,14 @@
   {
     "scenario": "A_",
     "result": "生還",
-    "note": "-",
+    "note": "KPレス",
     "cs": "笹記正喜",
     "class": "text_red"
   },
   {
     "scenario": "同じ他人",
     "result": "生還",
-    "note": "-",
+    "note": "KPレス",
     "cs": "白鳥光"
   },
   {
@@ -294,7 +294,7 @@
   {
     "scenario": "九頭鳥の散華 第三話「墜ちた鸞」",
     "result": "全生還",
-    "note": "-",
+    "note": null,
     "cs": "境吉野",
     "class": "text_red"
   },
@@ -313,64 +313,64 @@
   {
     "scenario": "ボトルレターの墓場から",
     "result": "全生還",
-    "note": "-",
+    "note": null,
     "cs": "境吉野",
     "class": "text_red"
   },
   {
     "scenario": "君待つ明日に僕はいない",
     "result": "両生還",
-    "note": "-",
+    "note": null,
     "cs": "松雪織鶴",
     "class": "text_red"
   },
   {
     "scenario": "Ditto moon",
     "result": "生還",
-    "note": "-",
+    "note": null,
     "cs": "松雪織鶴",
     "class": "text_red"
   },
   {
     "scenario": "ミルタの碑銘",
     "result": "生還",
-    "note": "-",
+    "note": "KPレス",
     "cs": "松雪織鶴"
   },
   {
     "scenario": "割れない卵",
     "result": "生還",
-    "note": "-",
+    "note": "KPレス",
     "cs": "松雪織鶴"
   },
   {
     "scenario": "9と8と点がひとつ",
     "result": "生還",
-    "note": "",
+    "note": "KPレス",
     "cs": "松雪織鶴"
   },
   {
     "scenario": "MACH SPEED BARRETT",
     "result": "両生還",
-    "note": "-",
+    "note": null,
     "cs": "笹記正喜"
   },
   {
     "scenario": "ワンルームナイトメア",
     "result": "両生還",
-    "note": "-",
+    "note": null,
     "cs": "渡基"
   },
   {
     "scenario": "Euterpe-1",
     "result": "生還",
-    "note": "-",
+    "note": null,
     "cs": "Victor"
   },
   {
     "scenario": "お、捨てKPCだ。可哀想に…",
     "result": "両生還",
-    "note": "-",
+    "note": null,
     "cs": "Theothestar"
   },
   {
@@ -401,20 +401,20 @@
   {
     "scenario": "九頭鳥の散華 第四話「狂狂番え鬼車」",
     "result": "全生還",
-    "note": "-",
+    "note": null,
     "cs": "境吉野"
   },
   {
     "scenario": "CH-0",
     "result": "生還",
-    "note": "-",
+    "note": null,
     "cs": "保志野与孝",
     "class": "text_red"
   },
   {
     "scenario": "桜狂わば胎の中",
     "result": "全生還",
-    "note": "-",
+    "note": null,
     "cs": "蜜美摘",
     "class": "text_red"
   },
@@ -428,13 +428,13 @@
   {
     "scenario": "ルルイエ館殺蛸事件",
     "result": "全生還",
-    "note": "-",
+    "note": null,
     "cs": "六花モノ"
   },
   {
     "scenario": "夜に栞す",
     "result": "生還",
-    "note": "-",
+    "note": null,
     "cs": "篝栞",
     "class": "text_red"
   },
@@ -448,13 +448,13 @@
   {
     "scenario": "Call the Name of Your Fate.",
     "result": "両生還",
-    "note": "-",
+    "note": null,
     "cs": "片銀"
   },
   {
     "scenario": "巴里幻想奇譚ーシャーロック・ホームズの遺言ー",
     "result": "全生還",
-    "note": "-",
+    "note": null,
     "cs": "Oswald",
     "class": "text_red"
   }
