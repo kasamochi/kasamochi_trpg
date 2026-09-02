@@ -26,7 +26,7 @@
     "note": null,
     "cs": "昧日未日",
     "class": null
-  } ,
+  },
   {
     "scenario": "月のレプリカ",
     "result": "生還",
@@ -67,6 +67,20 @@
     "result": "生還",
     "note": null,
     "cs": "塩金萬",
+    "class": "text_red"
+  },
+  {
+    "scenario": "死に際に吼えるバニッシャー",
+    "result": "生還",
+    "note": "HO2",
+    "cs": "隠仁兵衛",
+    "class": null
+  },
+  {
+    "scenario": "Unre",
+    "result": "両生還",
+    "note": null,
+    "cs": "Nevaeh",
     "class": "text_red"
   }
 ]
